@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm files
+.idea
+
+# This project
+data/*
+!data/README.md
+!data/rxnorm*
+!data/test_analysis_set1.csv
+config.ini
