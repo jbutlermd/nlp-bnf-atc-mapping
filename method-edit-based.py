@@ -88,8 +88,6 @@ atc_df.drop('i', axis=1, inplace=True)
 # atc_df['dosage'] = atc_df[['DDD', 'U']].apply(lambda x: number_format(x.DDD) + str(x.U) if x.DDD > 0 else None, axis=1)
 
 # Perform fuzzy merge and save results in each individual sheet
-# Scorers available: ratio, partial_ratio, token_set_ratio, token_sort_ratio, partial_token_set_ratio,
-#     partial_token_sort_ratio
 
 scorer_list = [jf.levenshtein_distance, jf.damerau_levenshtein_distance, jf.jaro_distance,
                jf.jaro_winkler, jf.hamming_distance]
