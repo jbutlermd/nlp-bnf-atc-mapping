@@ -1,0 +1,151 @@
+bnf_chapter,bnf_chemical_substance,bnf_name,bnf_code,drug,form,dose,total_prescribed
+Gastro-Intestinal System,Omeprazole,Omeprazole_Cap E/C 20mg,0103050P0AAAAAA,Omeprazole,Cap E/C,20mg,54264336.0
+Cardiovascular System,Aspirin,Aspirin Disper_Tab 75mg,0209000A0AAABAB,Aspirin Disper,Tab,75mg,35173629.0
+Cardiovascular System,Amlodipine,Amlodipine_Tab 5mg,0206020A0AAAAAA,Amlodipine,Tab,5mg,34561560.0
+Cardiovascular System,Atorvastatin,Atorvastatin_Tab 20mg,0212000B0AAABAB,Atorvastatin,Tab,20mg,33173866.0
+Central Nervous System,Paracetamol,Paracet_Tab 500mg,0407010H0AAAMAM,Paracet,Tab,500mg,32761419.0
+Gastro-Intestinal System,Lansoprazole,Lansoprazole_Cap 30mg (E/C Gran),0103050L0AAAAAA,Lansoprazole,Cap (E/C Gran),30mg,30506160.0
+Cardiovascular System,Simvastatin,Simvastatin_Tab 40mg,0212000Y0AAADAD,Simvastatin,Tab,40mg,28089358.0
+Endocrine System,Metformin Hydrochloride,Metformin HCl_Tab 500mg,0601022B0AAABAB,Metformin HCl,Tab,500mg,26978271.0
+Respiratory System,Salbutamol,Salbutamol_Inha 100mcg (200 D) CFF,0301011R0AAAPAP,Salbutamol,Inha (200 D) CFF,100mcg,24544253.0
+Endocrine System,Levothyroxine Sodium,Levothyrox Sod_Tab 100mcg,0602010V0AABZBZ,Levothyrox Sod,Tab,100mcg,22127536.0
+Cardiovascular System,Bendroflumethiazide,Bendroflumethiazide_Tab 2.5mg,0202010B0AAABAB,Bendroflumethiazide,Tab,2.5mg,20497045.0
+Cardiovascular System,Ramipril,Ramipril_Cap 10mg,0205051R0AAADAD,Ramipril,Cap,10mg,20253204.0
+Cardiovascular System,Clopidogrel,Clopidogrel_Tab 75mg,0209000C0AAAAAA,Clopidogrel,Tab,75mg,18946391.0
+Cardiovascular System,Bisoprolol Fumarate,Bisoprolol Fumar_Tab 2.5mg,0204000H0AAAJAJ,Bisoprolol Fumar,Tab,2.5mg,16999659.0
+Central Nervous System,Amitriptyline Hydrochloride,Amitriptyline HCl_Tab 10mg,0403010B0AAAGAG,Amitriptyline HCl,Tab,10mg,16836948.0
+Central Nervous System,Citalopram Hydrobromide,Citalopram Hydrob_Tab 20mg,0403030D0AAAAAA,Citalopram Hydrob,Tab,20mg,16448618.0
+Cardiovascular System,Furosemide,Furosemide_Tab 40mg,0202020L0AABDBD,Furosemide,Tab,40mg,15567503.0
+Central Nervous System,Sertraline Hydrochloride,Sertraline HCl_Tab 50mg,0403030Q0AAAAAA,Sertraline HCl,Tab,50mg,14967102.0
+Nutrition And Blood,Folic Acid,Folic Acid_Tab 5mg,0901020G0AAAGAG,Folic Acid,Tab,5mg,14696587.0
+"Obstetrics,Gynae+Urinary Tract Disorders",Tamsulosin Hydrochloride,Tamsulosin HCl_Cap 400mcg M/R,0704010U0AAAAAA,Tamsulosin HCl,Cap M/R,400mcg,13022581.0
+Central Nervous System,Fluoxetine Hydrochloride,Fluoxetine HCl_Cap 20mg,0403030E0AAAAAA,Fluoxetine HCl,Cap,20mg,12424095.0
+Endocrine System,Alendronic Acid,Alendronic Acid_Tab 70mg,0606020A0AAACAC,Alendronic Acid,Tab,70mg,12317147.0
+Infections,Amoxicillin,Amoxicillin_Cap 500mg,0501013B0AAABAB,Amoxicillin,Cap,500mg,11101145.0
+Central Nervous System,Tramadol Hydrochloride,Tramadol HCl_Cap 50mg,040702040AAAAAA,Tramadol HCl,Cap,50mg,10902273.0
+Endocrine System,Gliclazide,Gliclazide_Tab 80mg,0601021M0AAAAAA,Gliclazide,Tab,80mg,10259911.0
+Endocrine System,Prednisolone,Prednisolone_Tab 5mg,0603020T0AAACAC,Prednisolone,Tab,5mg,9867852.0
+Central Nervous System,Co-Codamol (Codeine Phos/Paracetamol),Co-Codamol_Tab 30mg/500mg,0407010F0AAAHAH,Co-Codamol,Tab,30mg/500mg,9311809.0
+Respiratory System,Cetirizine Hydrochloride,Cetirizine HCl_Tab 10mg,0304010I0AAAAAA,Cetirizine HCl,Tab,10mg,9254451.0
+Musculoskeletal & Joint Diseases,Naproxen,Naproxen_Tab 500mg,1001010P0AAAEAE,Naproxen,Tab,500mg,8540906.0
+Central Nervous System,Gabapentin,Gabapentin_Cap 300mg,0408010G0AAABAB,Gabapentin,Cap,300mg,8534750.0
+Gastro-Intestinal System,Ranitidine Hydrochloride,Ranitidine HCl_Tab 150mg,0103010T0AAAAAA,Ranitidine HCl,Tab,150mg,8450436.0
+Cardiovascular System,Atenolol,Atenolol_Tab 50mg,0204000E0AAABAB,Atenolol,Tab,50mg,7947883.0
+Cardiovascular System,Losartan Potassium,Losartan Pot_Tab 50mg,0205052N0AAABAB,Losartan Pot,Tab,50mg,7531746.0
+Nutrition And Blood,Ferrous Fumarate,Ferr Fumar_Tab 210mg,0901011F0AAAEAE,Ferr Fumar,Tab,210mg,7509774.0
+Cardiovascular System,Warfarin Sodium,Warfarin Sod_Tab 1mg,0208020V0AAAAAA,Warfarin Sod,Tab,1mg,7500271.0
+Nutrition And Blood,Colecalciferol,Adcal-D3_Tab Chble (Tutti-Frutti),0906040G0BNAABY,Adcal-D3,Tab Chble (Tutti-Frutti),,7415175.0
+Endocrine System,Finasteride,Finasteride_Tab 5mg,0604020C0AAAAAA,Finasteride,Tab,5mg,6900245.0
+Gastro-Intestinal System,Senna,Senna_Tab 7.5mg,0106020M0AAACAC,Senna,Tab,7.5mg,6745486.0
+Cardiovascular System,Doxazosin Mesilate,Doxazosin Mesil_Tab 4mg,0205040D0AAACAC,Doxazosin Mesil,Tab,4mg,6518054.0
+Immunological Products & Vaccines,Influenza,Influenza_Vac Surf/Antgn Inact 0.5ml Pfs,1404000H0AAAFAF,Influenza,Vac Surf/Antgn Inact Pfs,0.5ml,6487190.0
+Infections,Flucloxacillin Sodium,Fluclox Sod_Cap 500mg,0501012G0AAABAB,Fluclox Sod,Cap,500mg,6481880.0
+Musculoskeletal & Joint Diseases,Allopurinol,Allopurinol_Tab 100mg,1001040C0AAAAAA,Allopurinol,Tab,100mg,6440306.0
+Cardiovascular System,Lisinopril,Lisinopril_Tab 20mg,0205051L0AAADAD,Lisinopril,Tab,20mg,6362483.0
+Cardiovascular System,Indapamide,Indapamide_Tab 2.5mg,0202010P0AAAAAA,Indapamide,Tab,2.5mg,6248680.0
+Respiratory System,Beclometasone Dipropionate,Fostair_Inh 100mcg/6mcg (120D) CFF,0302000C0BQAABX,Fostair,Inh (120D) CFF,100mcg/6mcg,6060749.0
+Central Nervous System,Zopiclone,Zopiclone_Tab 7.5mg,0401010Z0AAAAAA,Zopiclone,Tab,7.5mg,6044628.0
+Central Nervous System,Codeine Phosphate,Codeine Phos_Tab 30mg,0407020C0AAAEAE,Codeine Phos,Tab,30mg,5994469.0
+Gastro-Intestinal System,Lactulose,Lactulose_Soln 3.1g-3.7g/5ml,0106040G0AAAAAA,Lactulose,Soln,3.1g-3.7g/5ml,5960358.0
+Central Nervous System,Mirtazapine,Mirtazapine_Tab 15mg,0403040X0AAANAN,Mirtazapine,Tab,15mg,5551137.0
+Gastro-Intestinal System,Macrogol 3350,Laxido_Oral Pdr Sach (Orange) S/F,0106040M0BCACAA,Laxido,Oral Pdr Sach (Orange) S/F,,5492074.0
+Infections,Doxycycline Hyclate,Doxycycline Hyclate_Cap 100mg,0501030I0AAABAB,Doxycycline Hyclate,Cap,100mg,5343740.0
+Nutrition And Blood,Ferrous Sulfate,Ferr Sulf_Tab 200mg,0901011P0AAACAC,Ferr Sulf,Tab,200mg,5342694.0
+Cardiovascular System,Rivaroxaban,Rivaroxaban_Tab 20mg,0208020Y0AAACAC,Rivaroxaban,Tab,20mg,5308336.0
+Central Nervous System,Diazepam,Diazepam_Tab 2mg,0401020K0AAAHAH,Diazepam,Tab,2mg,5306925.0
+Nutrition And Blood,Hydroxocobalamin,Hydroxocobalamin_Inj 1mg/ml 1ml Amp,0901020N0AAABAB,Hydroxocobalamin,Inj Amp,1mg/ml 1ml,5047107.0
+Nutrition And Blood,Thiamine Hydrochloride,Thiamine HCl_Tab 100mg,0906026M0AAAGAG,Thiamine HCl,Tab,100mg,4840616.0
+Cardiovascular System,Apixaban,Apixaban_Tab 5mg,0208020Z0AAABAB,Apixaban,Tab,5mg,4782481.0
+Respiratory System,Carbocisteine,Carbocisteine_Cap 375mg,0307000J0AAAAAA,Carbocisteine,Cap,375mg,4527206.0
+Eye,Latanoprost,Latanoprost_Eye Dps 50mcg/ml,1106000L0AAAAAA,Latanoprost,Eye Dps,50mcg/ml,4347047.0
+Respiratory System,Montelukast,Montelukast_Tab 10mg,0303020G0AAABAB,Montelukast,Tab,10mg,4296071.0
+Infections,Nitrofurantoin,Nitrofurantoin_Cap 100mg M/R,0501130R0AAAGAG,Nitrofurantoin,Cap M/R,100mg,4286706.0
+Cardiovascular System,Spironolactone,Spironol_Tab 25mg,0202030S0AAATAT,Spironol,Tab,25mg,4265953.0
+Cardiovascular System,Propranolol Hydrochloride,Propranolol HCl_Tab 40mg,0204000R0AAAJAJ,Propranolol HCl,Tab,40mg,4217755.0
+Cardiovascular System,Candesartan Cilexetil,Candesartan Cilexetil_Tab 8mg,0205052C0AAACAC,Candesartan Cilexetil,Tab,8mg,4208419.0
+Nutrition And Blood,Vitamin B Compound,Vit B Co Strong_Tab,0906027G0AAABAB,Vit B Co Strong,Tab,,4195254.0
+Respiratory System,Loratadine,Loratadine_Tab 10mg,0304010D0AAAAAA,Loratadine,Tab,10mg,4134448.0
+Endocrine System,Sitagliptin,Sitagliptin_Tab 100mg,0601023X0AAAAAA,Sitagliptin,Tab,100mg,4114661.0
+Gastro-Intestinal System,Docusate Sodium,Docusate Sod_Cap 100mg,0106020I0AAAKAK,Docusate Sod,Cap,100mg,4064713.0
+"Obstetrics,Gynae+Urinary Tract Disorders",Sildenafil (Erectile Dysfunction),Sildenafil_Tab 100mg,0704050Z0AAACAC,Sildenafil,Tab,100mg,3850607.0
+Central Nervous System,Co-Dydramol (Dihydrocodeine/Paracet),Co-Dydramol_Tab 10mg/500mg,0407010N0AAAAAA,Co-Dydramol,Tab,10mg/500mg,3807463.0
+"Ear, Nose And Oropharynx",Mometasone Furoate,Mometasone Fur_Aq N/Spy 50mcg (140 D),1202010U0AAAAAA,Mometasone Fur,Aq N/Spy (140 D),50mcg,3713797.0
+Cardiovascular System,Perindopril Erbumine,Perindopril Erbumine_Tab 4mg,0205051M0AAABAB,Perindopril Erbumine,Tab,4mg,3622720.0
+Musculoskeletal & Joint Diseases,Methotrexate,Methotrexate_Tab 2.5mg,1001030U0AAABAB,Methotrexate,Tab,2.5mg,3547132.0
+Cardiovascular System,Digoxin,Digoxin_Tab 125mcg,0201010F0AAAEAE,Digoxin,Tab,125mcg,3505105.0
+Cardiovascular System,Ezetimibe,Ezetimibe_Tab 10mg,0212000L0AAAAAA,Ezetimibe,Tab,10mg,3437141.0
+Respiratory System,Fexofenadine Hydrochloride,Fexofenadine HCl_Tab 180mg,0304010E0AAABAB,Fexofenadine HCl,Tab,180mg,3394437.0
+Endocrine System,Linagliptin,Linagliptin_Tab 5mg,0601023AEAAAAAA,Linagliptin,Tab,5mg,3388522.0
+Infections,Clarithromycin,Clarithromycin_Tab 500mg,0501050B0AAADAD,Clarithromycin,Tab,500mg,3383913.0
+Eye,Hypromellose,Hypromellose_Eye Dps 0.3%,1108010F0AAAAAA,Hypromellose,Eye Dps,0.3%,3251879.0
+Infections,Trimethoprim,Trimethoprim_Tab 200mg,0501080W0AAAEAE,Trimethoprim,Tab,200mg,3176192.0
+Infections,Phenoxymethylpenicillin (Penicillin V),Phenoxymethylpenicillin Pot_Tab 250mg,0501011P0AAAJAJ,Phenoxymethylpenicillin Pot,Tab,250mg,3168378.0
+Respiratory System,Tiotropium,Tiotropium_Pdr For Inh Cap 18mcg,0301020Q0AAABAB,Tiotropium,Pdr For Inh Cap,18mcg,3167614.0
+Cardiovascular System,Bumetanide,Bumetanide_Tab 1mg,0202020D0AAAEAE,Bumetanide,Tab,1mg,3167565.0
+Gastro-Intestinal System,Mebeverine Hydrochloride,Mebeverine HCl_Tab 135mg,0102000P0AAABAB,Mebeverine HCl,Tab,135mg,3146230.0
+Gastro-Intestinal System,Loperamide Hydrochloride,Loperamide HCl_Cap 2mg,0104020L0AAAAAA,Loperamide HCl,Cap,2mg,3084942.0
+"Obstetrics,Gynae+Urinary Tract Disorders",Desogestrel,Desogestrel_Tab 75mcg,0703021Q0AAAAAA,Desogestrel,Tab,75mcg,3079073.0
+Central Nervous System,Donepezil Hydrochloride,Donepezil HCl_Tab 10mg,0411000D0AAABAB,Donepezil HCl,Tab,10mg,2979989.0
+Infections,Quinine Sulfate,Quinine Sulf_Tab 200mg,0504010Y0AAAFAF,Quinine Sulf,Tab,200mg,2860305.0
+"Obstetrics,Gynae+Urinary Tract Disorders",Solifenacin,Solifenacin_Tab 5mg,0704020ABAAAAAA,Solifenacin,Tab,5mg,2849365.0
+Cardiovascular System,Lercanidipine Hydrochloride,Lercanidipine HCl_Tab 10mg,0206020L0AAAAAA,Lercanidipine HCl,Tab,10mg,2819370.0
+Central Nervous System,Duloxetine Hydrochloride,Duloxetine HCl_Cap G/R 60mg,0403040Y0AAABAB,Duloxetine HCl,Cap G/R,60mg,2813617.0
+Musculoskeletal & Joint Diseases,Diclofenac Sodium,Diclofenac Sod_Gel 1.16%,1003020U0AAAAAA,Diclofenac Sod,Gel,1.16%,2785672.0
+Central Nervous System,Morphine Sulfate,Morph Sulf_Oral Soln 10mg/5ml,0407020Q0AACNCN,Morph Sulf,Oral Soln,10mg/5ml,2784837.0
+Musculoskeletal & Joint Diseases,Ibuprofen,Ibuprofen_Tab 400mg,1001010J0AAAEAE,Ibuprofen,Tab,400mg,2781149.0
+"Ear, Nose And Oropharynx",Dexamethasone,Otomize_Ear Spy 5ml,120101050BCAAAB,Otomize,Ear Spy,5ml,2763554.0
+Cardiovascular System,Felodipine,Felodipine_Tab 5mg M/R,0206020F0AAABAB,Felodipine,Tab M/R,5mg,2752632.0
+Central Nervous System,Dihydrocodeine Tartrate,Dihydrocodeine Tart_Tab 30mg,0407020G0AAACAC,Dihydrocodeine Tart,Tab,30mg,2687714.0
+Skin,Other Emollient Preps,Dermol 500_Lot,130201000BBICBW,Dermol 500,Lot,,2654266.0
+Skin,Hydrocortisone,Hydrocort_Crm 1%,1304000V0AAADAD,Hydrocort,Crm,1%,2578679.0
+Central Nervous System,Prochlorperazine Maleate,Prochlpzine Mal_Tab 5mg,0406000T0AAAGAG,Prochlpzine Mal,Tab,5mg,2527182.0
+Gastro-Intestinal System,Bisacodyl,Bisacodyl_Tab E/C 5mg,0106020C0AAAAAA,Bisacodyl,Tab E/C,5mg,2396504.0
+Cardiovascular System,Isosorbide Mononitrate,Monomil XL_Tab 60mg,0206010K0CNAAAE,Monomil XL,Tab,60mg,2380305.0
+Endocrine System,Glucose Blood Testing Reagents,GlucoRx Nexus (Reagent)_Strips,0601060D0CUABA0,GlucoRx Nexus (Reagent),Strips,,2357707.0
+Musculoskeletal & Joint Diseases,Hydroxychloroquine Sulfate,Hydroxychlor Sulf_Tab 200mg,1001030C0AAAAAA,Hydroxychlor Sulf,Tab,200mg,2321367.0
+Cardiovascular System,Pravastatin Sodium,Pravastatin Sod_Tab 40mg,0212000X0AAADAD,Pravastatin Sod,Tab,40mg,2303577.0
+Central Nervous System,Quetiapine,Quetiapine_Tab 25mg,0402010ABAAABAB,Quetiapine,Tab,25mg,2277495.0
+Respiratory System,Budesonide,Symbicort_Turbohaler 200mcg/6mcg (120 D),0302000K0BDABAM,Symbicort,Turbohaler (120 D),200mcg/6mcg,2262599.0
+Gastro-Intestinal System,Hyoscine Butylbromide,Hyoscine Butylbrom_Tab 10mg,0102000N0AAABAB,Hyoscine Butylbrom,Tab,10mg,2205899.0
+Central Nervous System,Sumatriptan Succinate,Sumatriptan_Tab 50mg,0407041T0AAAFAF,Sumatriptan,Tab,50mg,2177550.0
+Infections,Co-Amoxiclav (Amoxicillin/Clavul Acid),Co-Amoxiclav_Tab 500mg/125mg,0501013K0AAAJAJ,Co-Amoxiclav,Tab,500mg/125mg,2105345.0
+Cardiovascular System,Nicorandil,Nicorandil_Tab 10mg,0206030N0AAAAAA,Nicorandil,Tab,10mg,2082065.0
+Central Nervous System,Lorazepam,Lorazepam_Tab 1mg,0401020P0AAABAB,Lorazepam,Tab,1mg,2067102.0
+Central Nervous System,Pregabalin,Pregabalin_Cap 75mg,0408010AEAAACAC,Pregabalin,Cap,75mg,2044675.0
+"Obstetrics,Gynae+Urinary Tract Disorders",Combined Ethinylestradiol 30mcg,Rigevidon_Tab,0703010F0BPAAAC,Rigevidon,Tab,,2043475.0
+Infections,Lymecycline,Lymecycline_Cap 408mg,0501030L0AAABAB,Lymecycline,Cap,408mg,2025585.0
+Cardiovascular System,Glyceryl Trinitrate,Glyceryl Trinit_Sub P/Spy 400mcg (180D),0206010F0AACICI,Glyceryl Trinit,Sub P/Spy (180D),400mcg,2010181.0
+Skin,Fusidic Acid,Fusidic Acid_Crm 2%,1310012F0AAABAB,Fusidic Acid,Crm,2%,2004626.0
+Eye,Sodium Cromoglicate,Sod Cromoglicate_Eye Dps Aq 2%,1104020T0AAAAAA,Sod Cromoglicate,Eye Dps Aq,2%,1997427.0
+Gastro-Intestinal System,Alginic Acid Compound Preparations,Gaviscon Advance_Liq (Aniseed) (Reckitt),0101021B0BEAIAL,Gaviscon Advance,Liq (Aniseed) (Reckitt),,1920594.0
+Musculoskeletal & Joint Diseases,Baclofen,Baclofen_Tab 10mg,1002020C0AAAIAI,Baclofen,Tab,10mg,1907782.0
+Endocrine System,Insulin Glargine,Ins Lantus SoloStar_100u/ml 3ml Pf Pen,0601012V0BBAEAD,Ins Lantus SoloStar,,100u/ml 3ml Pf Pen,1893032.0
+Eye,Chloramphenicol,Chloramphen_Eye Dps 0.5%,1103010C0AAAAAA,Chloramphen,Eye Dps,0.5%,1888409.0
+Central Nervous System,Betahistine Hydrochloride,Betahistine HCl_Tab 16mg,0406000B0AAABAB,Betahistine HCl,Tab,16mg,1837388.0
+Central Nervous System,Cyclizine Hydrochloride,Cyclizine HCl_Tab 50mg,0406000F0AAACAC,Cyclizine HCl,Tab,50mg,1808056.0
+Eye,Carbomer 940/980,Viscotears_Liq Gel 2mg/g,1108010B0BBAAAB,Viscotears,Liq Gel,2mg/g,1745449.0
+Endocrine System,Insulin Aspart,Ins NovoRapid_FlexPen 100u/ml 3ml Pf Pen,0601011A0BBADAC,Ins NovoRapid,FlexPen PfPen,100u/ml 3ml,1744476.0
+Central Nervous System,Paroxetine Hydrochloride,Paroxetine HCl_Tab 20mg,0403030P0AAAAAA,Paroxetine HCl,Tab,20mg,1736390.0
+Nutrition And Blood,Cyanocobalamin,Cyanocobalamin_Tab 50mcg,0901020D0AAAEAE,Cyanocobalamin,Tab,50mcg,1628251.0
+Central Nervous System,Clonazepam,Clonazepam_Tab 500mcg,0408010F0AAABAB,Clonazepam,Tab,500mcg,1626854.0
+Central Nervous System,Lamotrigine,Lamotrigine_Tab 100mg,0408010H0AAAAAA,Lamotrigine,Tab,100mg,1624081.0
+Cardiovascular System,Rosuvastatin Calcium,Rosuvastatin Calc_Tab 5mg,0212000AAAAADAD,Rosuvastatin Calc,Tab,5mg,1611788.0
+Eye,Brinzolamide,Brinzolamide_Eye Dps 10mg/ml,1106000ACAAAAAA,Brinzolamide,Eye Dps,10mg/ml,1598677.0
+"Obstetrics,Gynae+Urinary Tract Disorders",Mirabegron,Mirabegron_Tab 50mg M/R,0704020AEAAABAB,Mirabegron,Tab M/R,50mg,1558951.0
+Respiratory System,Promethazine Hydrochloride,Promethazine HCl_Tab 25mg,0304010W0AAALAL,Promethazine HCl,Tab,25mg,1544025.0
+Central Nervous System,Methadone Hydrochloride,Methadone HCl_Oral Soln 1mg/1ml S/F,0410030C0AAAFAF,Methadone HCl,Oral Soln S/F,1mg/1ml,1522517.0
+"Ear, Nose And Oropharynx",Fluticasone Furoate,Avamys_Nsl Spy 27.5mcg (120D),1202010W0BBAAAA,Avamys,Nsl Spy (120D),27.5mcg,1517817.0
+Endocrine System,Dapagliflozin,Dapagliflozin_Tab 10mg,0601023AGAAABAB,Dapagliflozin,Tab,10mg,1512783.0
+Central Nervous System,Temazepam,Temazepam_Tab 10mg,0401010T0AAAMAM,Temazepam,Tab,10mg,1504430.0
+Cardiovascular System,Irbesartan,Irbesartan_Tab 300mg,0205052I0AAACAC,Irbesartan,Tab,300mg,1496893.0
+Cardiovascular System,Enalapril Maleate,Enalapril Mal_Tab 20mg,0205051I0AAADAD,Enalapril Mal,Tab,20mg,1478950.0
+Central Nervous System,Levetiracetam,Levetiracetam_Tab 500mg,0408010A0AAABAB,Levetiracetam,Tab,500mg,1444398.0
+Central Nervous System,Venlafaxine,Venlafaxine_Tab 75mg,0403040W0AAABAB,Venlafaxine,Tab,75mg,1418532.0
+Respiratory System,Fluticasone Propionate (Inh),Seretide 500_Accuhaler 500mcg/50mcg(60D),0302000N0BCACAZ,Seretide 500,Accuhaler (60D),500mcg/50mcg,1377960.0
+Central Nervous System,Procyclidine Hydrochloride,Procyclidine HCl_Tab 5mg,0409020S0AAAEAE,Procyclidine HCl,Tab,5mg,1374868.0
+Central Nervous System,Olanzapine,Olanzapine_Tab 10mg,040201060AAACAC,Olanzapine,Tab,10mg,1356985.0
+Gastro-Intestinal System,Pantoprazole,Pantoprazole_Tab E/C 40mg,0103050R0AAAAAA,Pantoprazole,Tab E/C,40mg,1348692.0
+Respiratory System,Chlorphenamine Maleate,Chlorphenamine Mal_Tab 4mg,0304010G0AAACAC,Chlorphenamine Mal,Tab,4mg,1302771.0
+Central Nervous System,Memantine Hydrochloride,Memantine HCl_Tab 20mg,0411000G0AAADAD,Memantine HCl,Tab,20mg,1302727.0
+Eye,Bimatoprost,Bimatoprost_Eye Dps 100mcg/ml,1106000AFAAABAB,Bimatoprost,Eye Dps,100mcg/ml,1300905.0
+"Obstetrics,Gynae+Urinary Tract Disorders",Medroxyprogesterone Acetate,Depo-Provera_Inj 150mg/ml 1ml Pfs,0703022M0BBABAB,Depo-Provera,Inj Pfs,150mg/ml 1ml,1283200.0
