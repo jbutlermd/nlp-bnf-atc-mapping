@@ -74,7 +74,7 @@ start_time = time.time()
 # Load source file
 # bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean.csv'))
 # bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean_test.csv'))
-bnf_df = pd.read_csv(os.path.join('data/test_analysis_set2.csv'))
+bnf_df = pd.read_csv(os.path.join('data/test_analysis_set.csv'))
 
 # Load ATC-DDD data file
 # atc_df = pd.read_excel('data/2016_atc_index_electronic_eksempel.xlsx')
@@ -95,7 +95,7 @@ scorer_title = ["Levenshtein", "Damerau-Levenshtein", "Jaro", "Jaro-Winkler", "H
 scorer_type = [True, True, False, False, True]
 column_width = {'A:A': 37, 'B:B': 40, 'C:C': 40, 'D:D': 19, 'E:E': 34, 'L:Q': 5}
 
-with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'method-jellyfish-results.xlsx')) as writer:
+with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'method-edit-based-results.xlsx')) as writer:
     for i, scorer in enumerate(scorer_list):
         section_start_time = time.time()
         header = f"\nNow performing fuzzy match using {scorer_title[i]} algorithm\n"
@@ -126,7 +126,7 @@ with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'method-jellyf
         worksheet.set_column('C:C', None, None, {'hidden': True})
         worksheet.set_column('E:H', None, None, {'hidden': True})
         formula = '=L{0}-SUM(N{0}:P{0})'
-        for j in range(2, len(merged_df)):
+        for j in range(2, len(merged_df)+2):
             worksheet.write_formula('N' + str(j), '=M{}'.format(j))
             worksheet.write_formula('Q' + str(j), formula.format(j))
 
