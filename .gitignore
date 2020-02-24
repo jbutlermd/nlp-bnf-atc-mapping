@@ -136,4 +136,5 @@ data/*
 !data/README.md
 !data/rxnorm*
 !data/test_analysis_set1.csv
+!data/test_analysis_set.csv
 config.ini
