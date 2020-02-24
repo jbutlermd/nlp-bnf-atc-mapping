@@ -72,7 +72,7 @@ start_time = time.time()
 # Load source file
 # bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean.csv'))
 #bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean_test.csv'))
-bnf_df = pd.read_csv(os.path.join('data/test_analysis_set2.csv'))
+bnf_df = pd.read_csv(os.path.join('data/test_analysis_set.csv'))
 
 # Load ATC-DDD data file
 # atc_df = pd.read_excel('data/2016_atc_index_electronic_eksempel.xlsx')
@@ -126,7 +126,7 @@ with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'bnf-atc-map-c
         worksheet.set_column('C:C', None, None, {'hidden': True})
         worksheet.set_column('E:H', None, None, {'hidden': True})
         formula = '=L{0}-SUM(N{0}:P{0})'
-        for j in range(2, len(merged_df)):
+        for j in range(2, len(merged_df)+2):
             worksheet.write_formula('N' + str(j), '=M{}'.format(j))
             worksheet.write_formula('Q' + str(j), formula.format(j))
 
