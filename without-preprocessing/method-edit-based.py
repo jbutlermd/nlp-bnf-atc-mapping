@@ -70,6 +70,13 @@ def number_format(x):
         return '{:.0f}'.format(x)
 
 
+def control_scorer(a, b):
+    if a.lower() == b.lower():
+        return 1
+    else:
+        return 0
+
+
 start_time = time.time()
 # Load source file
 # bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean.csv'))
@@ -89,10 +96,10 @@ atc_df.drop('i', axis=1, inplace=True)
 
 # Perform fuzzy merge and save results in each individual sheet
 
-scorer_list = [jf.levenshtein_distance, jf.damerau_levenshtein_distance, jf.jaro_distance,
+scorer_list = [control_scorer, jf.levenshtein_distance, jf.damerau_levenshtein_distance, jf.jaro_distance,
                jf.jaro_winkler, jf.hamming_distance]
-scorer_title = ["Levenshtein", "Damerau-Levenshtein", "Jaro", "Jaro-Winkler", "Hamming"]
-scorer_type = [True, True, False, False, True]
+scorer_title = ["Control", "Levenshtein", "Damerau-Levenshtein", "Jaro", "Jaro-Winkler", "Hamming"]
+scorer_type = [False, True, True, False, False, True]
 column_width = {'A:A': 37, 'B:B': 40, 'C:C': 40, 'D:D': 19, 'E:E': 34, 'L:Q': 5}
 
 with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'method-edit-based-results.xlsx')) as writer:
@@ -126,7 +133,7 @@ with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'method-edit-b
         worksheet.set_column('C:C', None, None, {'hidden': True})
         worksheet.set_column('E:H', None, None, {'hidden': True})
         formula = '=L{0}-SUM(N{0}:P{0})'
-        for j in range(2, len(merged_df)+2):
+        for j in range(2, len(merged_df) + 2):
             worksheet.write_formula('N' + str(j), '=M{}'.format(j))
             worksheet.write_formula('Q' + str(j), formula.format(j))
 
