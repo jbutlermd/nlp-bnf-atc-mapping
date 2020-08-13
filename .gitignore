@@ -131,6 +131,15 @@ dmypy.json
 # PyCharm files
 .idea
 
+# Microsoft Office temporary files
+*.tmp
+~$*.doc*
+Backup of *.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsd*
+
 # This project
 data/*
 !data/README.md
