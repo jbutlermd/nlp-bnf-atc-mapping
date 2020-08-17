@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import os
 import time
 import datetime
@@ -7,7 +6,6 @@ import math
 import configparser
 import jellyfish as jf
 from fuzzywuzzy import utils
-from nltk.tokenize import word_tokenize
 
 config_file = '../config.ini'
 config = configparser.ConfigParser()
@@ -139,7 +137,7 @@ header = f"\nPerforming similarity match of the full file using %s algorithm\n" 
 underscore = "-" * len(header)
 print(header + underscore)
 
-merged_df = fuzzy_merge(bnf_df, atc_df, 'bnf_chemical_substance', 'ATC level name', threshold=90, limit=5,
+merged_df = fuzzy_merge(bnf_df, atc_df, 'bnf_chemical_substance', 'ATC level name', threshold=95, limit=10,
                         scorer=scorer_list[i], distance=scorer_type[i])
 print(merged_df.head(5))
 
