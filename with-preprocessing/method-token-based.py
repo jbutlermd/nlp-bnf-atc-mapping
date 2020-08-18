@@ -7,7 +7,7 @@ import configparser
 import py_stringmatching as sm
 from fuzzywuzzy import utils
 
-config_file = 'config.ini'
+config_file = '../config.ini'
 config = configparser.ConfigParser()
 config.read(config_file)
 
@@ -24,11 +24,12 @@ def fuzzy_merge(df_1, df_2, key1, key2, scorer=sm.Cosine, tokenizer=None, thresh
     threshold is how close the matches should be to return a match
     limit is the amount of matches will get returned, these are sorted high to low
     """
-    s = df_2[key2]
+    s = df_2['name_without_sw']
 
     m = df_1[key1].apply(lambda x: extract(str(x), s, scorer=scorer, tokenizer=tokenizer, limit=limit, distance=distance))
+    m_revised = m.apply(lambda x: revert_original_name(x, key2))
 
-    df_1['matches'] = m
+    df_1['matches'] = m_revised
     m2 = df_1['matches'].apply(lambda x: ', '.join([atc_df.loc[i[2], 'ATC code'] for i in x]))
     m3 = df_1['matches'].apply(lambda x: ', '.join([atc_df.loc[i[2], 'ATC code'] for i in x if i[1] >= threshold]))
     df_1['atc_matches'] = m2
@@ -39,12 +40,19 @@ def fuzzy_merge(df_1, df_2, key1, key2, scorer=sm.Cosine, tokenizer=None, thresh
     return df_1
 
 
+def revert_original_name(x, key):
+    m = []
+    for i in x:
+        m.append((atc_df.loc[i[2], key], i[1], i[2]))
+    return m
+
+
 def extract(query, choices, processor=utils.full_process, scorer=sm.Cosine, tokenizer=sm.WhitespaceTokenizer,
                 limit=2, distance=True):
     tmp = choices.to_frame('name')
     tmp['name'] = tmp['name'].apply(lambda x: processor(x))
     the_scorer = scorer()
-    set1 = tokenizer.tokenize(processor(query))
+    set1 = tokenizer.tokenize(remove_stop_words(processor(query)))
 
     tmp['distance'] = tmp['name'].apply(lambda x: the_scorer.get_sim_score(set1, tokenizer.tokenize(str(x))))
     if distance:
@@ -63,6 +71,19 @@ def extract(query, choices, processor=utils.full_process, scorer=sm.Cosine, toke
     return best_results
 
 
+def remove_stop_words(x):
+    if x not in whitelist:
+        x_tokenized = x.split(" ")
+        itertokens = iter(x_tokenized)
+        next(itertokens)
+        tokens_without_sw = [word for word in itertokens if word not in stop_words]
+        tokens_without_sw.insert(0,x_tokenized[0])
+        text_without_sw = " ".join(tokens_without_sw)
+        return text_without_sw
+    else:
+        return x
+
+
 def calculate_score(distance, x, y):
     return (1 - distance / max(len(x), len(y))) * 100
 
@@ -78,12 +99,19 @@ start_time = time.time()
 # Load source file
 # bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean.csv'))
 # bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean_test.csv'))
-bnf_df = pd.read_csv(os.path.join('data/test_analysis_set.csv'))
+bnf_df = pd.read_csv(os.path.join('../data/test_analysis_set.csv'))
+#bnf_df = pd.read_csv(os.path.join('../data/misspelling_test_analysis_set.csv'))
+
+# Load stop words and whitelist
+stop_words = pd.read_csv(os.path.join('../data/stop_words.csv'), header=None)[0].values.tolist()
+whitelist = pd.read_csv(os.path.join('../data/whitelist.csv'), header=None)[0].values.tolist()
 
 # Load RxNorm ATC data file
-atc_df = pd.read_csv('data/rxnorm_atc_code_info.csv')
+atc_df = pd.read_csv('../data/rxnorm_atc_code_info.csv')
 atc_df.columns = ['i', 'rxcui', 'rxaui', 'sab', 'tty', 'ATC code', 'ATC level name', 'suppress']
 atc_df.drop('i', axis=1, inplace=True)
+atc_df = atc_df.loc[atc_df['tty'].isin(['IN','RXN_IN'])]
+atc_df['name_without_sw'] = atc_df['ATC level name'].apply(lambda x: remove_stop_words(x))
 
 # Perform fuzzy merge and save results in each individual sheet
 
@@ -134,8 +162,8 @@ with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'method-token-
         print(f'Time required to complete: {human_uptime}')
 
     # Create Summary sheet
-    columns = ['No Match', 'Match', 'Num of Match', 'TP', 'FN', 'FP', 'TN', 'Sensitivity', 'Specificity', 'Precision',
-               'Accuracy', 'F1 Score', 'Overall Match', 'Missed Opportunity', 'Gain if not missed']
+    columns = ['Miss', 'Hit', 'Num of Match', 'TP', 'FN', 'FP', 'TN', 'Sensitivity', 'Specificity', 'Precision',
+               'Accuracy', 'F1 Score', 'Hit Rate', 'Missed Opportunity', 'Adj. Hit']
     df = pd.DataFrame(scorer_title)
     df.columns = ['Scorer']
     for col in columns:

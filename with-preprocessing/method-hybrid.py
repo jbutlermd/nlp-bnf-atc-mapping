@@ -107,6 +107,7 @@ start_time = time.time()
 # bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean.csv'))
 # bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean_test.csv'))
 bnf_df = pd.read_csv(os.path.join('../data/test_analysis_set.csv'))
+#bnf_df = pd.read_csv(os.path.join('../data/misspelling_test_analysis_set.csv'))
 
 # Load stop words and whitelist
 stop_words = pd.read_csv(os.path.join('../data/stop_words.csv'), header=None)[0].values.tolist()
@@ -178,8 +179,8 @@ with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'method-hybrid
         print(f'Time required to complete: {human_uptime}')
 
     # Create Summary sheet
-    columns = ['No Match', 'Match', 'Num of Match', 'TP', 'FN', 'FP', 'TN', 'Sensitivity', 'Specificity', 'Precision',
-               'Accuracy', 'F1 Score', 'Overall Match', 'Missed Opportunity', 'Gain if not missed']
+    columns = ['Miss', 'Hit', 'Num of Match', 'TP', 'FN', 'FP', 'TN', 'Recall', 'Specificity', 'Precision',
+               'Accuracy', 'F1 Score', 'Hit Rate', 'Missed Opportunity', 'Adj. Rate']
     df = pd.DataFrame(scorer_title)
     df.columns = ['Scorer']
     for col in columns:

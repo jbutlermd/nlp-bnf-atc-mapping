@@ -106,9 +106,6 @@ start_time = time.time()
 bnf_df = pd.read_csv(os.path.join('../data/test_analysis_set.csv'))
 #bnf_df = pd.read_csv(os.path.join('../data/misspelling_test_analysis_set.csv'))
 
-# Load ATC-DDD data file
-# atc_df = pd.read_excel('data/2016_atc_index_electronic_eksempel.xlsx')
-
 # Load stop words and whitelist
 stop_words = pd.read_csv(os.path.join('../data/stop_words.csv'), header=None)[0].values.tolist()
 whitelist = pd.read_csv(os.path.join('../data/whitelist.csv'), header=None)[0].values.tolist()
@@ -119,9 +116,6 @@ atc_df.columns = ['i', 'rxcui', 'rxaui', 'sab', 'tty', 'ATC code', 'ATC level na
 atc_df.drop('i', axis=1, inplace=True)
 atc_df = atc_df.loc[atc_df['tty'].isin(['IN','RXN_IN'])]
 atc_df['name_without_sw'] = atc_df['ATC level name'].apply(lambda x: remove_stop_words(x))
-
-# Combine DDD fields into one for easier match
-# atc_df['dosage'] = atc_df[['DDD', 'U']].apply(lambda x: number_format(x.DDD) + str(x.U) if x.DDD > 0 else None, axis=1)
 
 # Perform fuzzy merge and save results in each individual sheet
 
