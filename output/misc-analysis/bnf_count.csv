@@ -1,0 +1,2920 @@
+bnf_chemical_substance,bnf_chapter,bnf_name,bnf_code,drug,form,dose,misc1,combination
+5-Hydroxytryptophan,7,7,7,7,7,7,0,7
+5-Methoxypsoralen,3,3,3,3,3,3,0,3
+Abacavir,4,4,4,4,4,4,0,4
+Abacavir & Lamivudine,2,2,2,2,2,1,0,2
+Abacavir/Lamivudine/Zidovudine,2,2,2,2,2,0,0,2
+Abatacept,10,10,10,10,10,10,0,10
+Abciximab,2,2,2,2,2,2,0,2
+Abemaciclib,6,6,6,6,6,6,0,6
+Abiraterone,4,4,4,4,4,4,0,4
+Absorbable Gelatin Sponge,6,6,6,6,6,0,0,6
+Acamprosate Calcium,3,3,3,3,3,3,0,3
+Acarbose,7,7,7,7,7,7,0,7
+Acebutolol Hydrochloride,8,8,8,8,8,8,0,8
+Acebutolol Hydrochloride With Diuretic,2,2,2,2,2,1,0,2
+Aceclofenac,3,3,3,3,3,3,0,3
+Acefylline Piperazine,10,10,10,10,10,10,0,10
+Acemetacin,2,2,2,2,2,2,0,2
+Acenocoumarol,4,4,4,4,4,4,0,4
+Acetarsol,11,11,11,11,11,11,0,11
+Acetazolamide,54,54,54,54,54,51,0,54
+Acetazolamide Sodium,2,2,2,2,2,2,0,2
+Acetic Acid,14,14,14,14,14,14,0,14
+Acetohexamide,2,2,2,2,2,2,0,2
+Acetohydroxamic Acid,4,4,4,4,4,4,0,4
+Acetomenaphthone,1,1,1,1,1,1,0,1
+Acetyl-L-Carnitine,4,4,4,4,4,4,0,4
+Acetylcholine Chloride,8,8,8,8,8,8,0,8
+Acetylcysteine,80,80,80,80,80,72,0,80
+Aciclovir,46,46,46,46,46,46,0,46
+Aciclovir Sodium,4,4,4,4,4,4,0,4
+Acid Insulin Injection,3,3,3,3,2,2,0,3
+Acipimox,2,2,2,2,2,2,0,2
+Acitretin,8,8,8,8,8,8,0,8
+Aclidinium Brom/Formoterol,2,2,2,2,1,1,0,2
+Aclidinium Bromide,2,2,2,2,2,2,0,2
+Aconite,1,1,1,1,1,0,0,1
+Acriflavine,2,2,2,2,1,1,0,2
+Acrivastine,6,6,6,6,6,5,0,6
+Activated Attapulgite,2,2,2,2,2,2,0,2
+Adalimumab,26,26,26,26,26,26,0,26
+Adapalene,4,4,4,4,4,4,0,4
+Adapalene & Benzoyl Peroxide,2,2,2,2,2,2,0,2
+Adefovir Dipivoxil,2,2,2,2,2,2,0,2
+Ademetionine,6,6,6,6,6,6,0,6
+Adenosine,4,4,4,4,4,4,0,4
+Adhesive Remover,4,4,4,4,4,1,0,4
+Adhesive Removers,11,11,11,11,11,0,0,11
+Adhesives,5,5,5,5,5,1,0,5
+Adrenaline,107,107,107,107,107,80,0,107
+Adrenaline Hydrochloride,2,2,2,2,2,2,0,2
+Aesculus,1,1,1,1,1,0,0,1
+Afatinib,11,11,11,11,11,11,0,11
+Agalsidase Alfa,4,4,4,4,4,4,0,4
+Agalsidase Beta,4,4,4,4,4,4,0,4
+Agomelatine,2,2,2,2,2,2,0,2
+Albendazole,9,9,9,9,9,9,0,9
+Albiglutide,4,4,4,4,4,4,0,4
+Albumin Solution,33,33,33,33,27,33,0,33
+Alclometasone Dipropionate,5,5,5,5,5,5,0,5
+Alcohol,14,14,14,14,7,7,0,14
+Alcuronium Chloride,2,2,2,2,2,2,0,2
+Aldesleukin,2,2,2,2,2,2,0,2
+Alectinib,2,2,2,2,2,2,0,2
+Alemtuzumab,4,4,4,4,4,4,0,4
+Alendronic Acid,13,13,13,13,13,13,0,13
+Alendronic Acid & Colecalciferol,4,4,4,4,4,3,0,4
+Alexitol Sodium,3,3,3,3,3,3,0,3
+Alfacalcidol,25,25,25,25,25,23,0,25
+Alfentanil Hydrochloride,14,14,14,14,14,14,0,14
+Alfuzosin Hydrochloride,21,21,21,21,21,21,0,21
+Alginic Acid Compound Preparations,71,71,71,71,71,14,0,71
+Alglucerase,4,4,4,4,4,4,0,4
+Alglucosidase Alfa,2,2,2,2,2,2,0,2
+Alimemazine Tartrate,32,32,32,32,32,32,0,32
+Alirocumab,4,4,4,4,4,4,0,4
+Aliskiren,4,4,4,4,4,4,0,4
+Alitretinoin,5,5,5,5,5,5,0,5
+Alkyl Sulfate,18,18,18,18,18,11,0,18
+Alkyl Sulphate,18,18,18,18,18,3,0,18
+Allopurinol,54,54,54,54,54,53,0,54
+Allyloestrenol,2,2,2,2,2,2,0,2
+Almasilate,2,2,2,2,2,2,0,2
+Almitrine Dimesylate,2,2,2,2,2,2,0,2
+Almotriptan,2,2,2,2,2,2,0,2
+Aloes,4,4,4,4,4,0,0,4
+Alogliptin,6,6,6,6,6,6,0,6
+Alogliptin/Metformin,2,2,2,2,2,2,0,2
+Aloxiprin,3,3,3,3,3,3,0,3
+Alprazolam,4,4,4,4,4,4,0,4
+Alprostadil,64,64,64,64,64,57,0,64
+Alteplase,10,10,10,10,10,10,0,10
+Altretamine,4,4,4,4,4,4,0,4
+Alum,4,4,4,4,4,4,0,4
+Aluminium & Magnesium & Act Simeticone,32,32,32,32,32,2,0,32
+Aluminium & Magnesium & Oxetacaine,4,4,4,4,4,0,0,4
+Aluminium Acetate,38,38,38,38,38,37,0,38
+Aluminium Chloride,25,25,25,25,25,23,0,25
+Aluminium Chlorohydrate,6,6,6,6,6,4,0,6
+Aluminium Hydroxide,15,15,15,15,15,11,0,15
+Aluminium Hydroxide With Magnesium,15,15,15,15,15,4,0,15
+Aluminium Oxide,6,6,6,6,6,5,0,6
+Aluminium Sulfate,4,4,4,4,4,3,0,4
+Alverine Citrate,8,8,8,8,8,8,0,8
+Alverine Citrate Compound Preparations,3,3,3,3,3,1,0,3
+Alverine Citrate/Simeticone,2,2,2,2,2,2,0,2
+Amantadine Hydrochloride,8,8,8,8,8,8,0,8
+Ambrisentan,4,4,4,4,4,4,0,4
+Ambutonium Bromide,2,2,2,2,2,0,0,2
+Amfetamine Sulfate,1,1,1,1,1,1,0,1
+Amifostine,4,4,4,4,4,4,0,4
+Amikacin,8,8,8,8,8,8,0,8
+Amikacin With Sodium Chloride,2,2,2,2,2,1,0,2
+Amiloride HCl With Loop Diuretics,3,3,3,3,3,1,0,3
+Amiloride Hydrochloride,43,43,43,43,43,39,0,43
+Amiloride Hydrochloride With Thiazides,2,2,2,2,2,1,0,2
+Amineptine Hydrochloride,1,1,1,1,1,1,0,1
+Aminobenzoic Acid,2,2,2,2,2,1,0,2
+Aminocaproic Acid,5,5,5,5,5,4,0,5
+Aminoglutethimide,2,2,2,2,2,2,0,2
+Aminophylline,53,53,53,53,53,52,0,53
+Aminophylline Hydrate,9,9,9,9,9,9,0,9
+Aminophylline With Antacid,2,2,2,2,2,0,0,2
+Aminosalicylic Acid,4,4,4,4,4,4,0,4
+Amiodarone Hydrochloride,71,71,71,71,71,70,0,71
+Amisulpride,19,19,19,19,19,19,0,19
+Amitriptyline Embonate,7,7,7,7,7,7,0,7
+Amitriptyline Hydrochloride,62,62,62,62,62,58,0,62
+Amlodipine,29,29,29,29,29,29,0,29
+Ammoniated Mercury,5,5,5,5,5,2,0,5
+Ammonium Acetate,1,1,1,1,1,0,0,1
+Ammonium Benzoate,1,1,1,1,1,1,0,1
+Ammonium Bicarbonate,3,3,3,3,3,1,0,3
+Ammonium Chloride,10,10,10,10,10,8,0,10
+Ammonium Chloride/Diphenhydramine HCl,2,2,2,2,2,1,0,2
+Ammonium Lactate,2,2,2,2,2,2,0,2
+Amobarbital,15,15,15,15,15,15,0,15
+Amobarbital Sodium,18,18,18,18,18,18,0,18
+Amodiaquine,2,2,2,2,2,2,0,2
+Amorolfine Hydrochloride,11,11,11,11,11,11,0,11
+Amoxapine,10,10,10,10,10,10,0,10
+Amoxicillin,93,93,93,93,93,93,0,93
+Amoxicillin Sodium,8,8,8,8,8,8,0,8
+Amphoteracin,5,5,5,5,5,5,0,5
+Amphotericin,33,33,33,33,33,27,0,33
+Ampicillin,51,51,51,51,51,51,0,51
+Ampicillin With Cloxacillin,12,12,12,12,12,11,0,12
+Ampicillin With Sulbactam,7,7,7,7,7,7,0,7
+Amprenavir,6,6,6,6,6,6,0,6
+Amsacrine,3,3,3,3,3,3,0,3
+Amyl Nitrite,2,2,2,2,2,2,0,2
+Amylmetacresol,26,26,26,26,26,6,0,26
+Amylocaine Hydrochloride,1,1,1,1,1,1,0,1
+Anagrelide Hydrochloride,6,6,6,6,6,6,0,6
+Anakinra,2,2,2,2,2,2,0,2
+Analgesics with Anti-Emetics,21,21,21,21,21,7,0,21
+Anastrozole,5,5,5,5,5,5,0,5
+Androstanalone,4,4,4,4,4,4,0,4
+Anhydrous Glucose,1,1,1,1,1,0,0,1
+Anidulafungin,4,4,4,4,4,4,0,4
+Animal Allergy Preparations,7,7,7,7,7,3,0,7
+Anistreplase,4,4,4,4,4,4,0,4
+Antazoline,5,5,5,5,5,2,0,5
+Antazoline Hydrochloride,5,5,5,5,5,1,0,5
+Anthrax,1,1,1,1,1,1,0,1
+Anti-D (Rh-) Immunoglobulin,31,31,31,31,31,31,0,31
+Antilymphocyte Immunoglobulin,2,2,2,2,2,2,0,2
+Antisnake Venom Serum,1,1,1,1,0,1,0,1
+Antithrombin Alfa,2,2,2,2,2,2,0,2
+Antithymocyte Immunoglobulin,2,2,2,2,2,2,0,2
+Apalutamide,2,2,2,2,2,2,0,2
+Apixaban,4,4,4,4,4,4,0,4
+Apomorphine Hydrochloride,37,37,37,37,37,37,0,37
+Apomorphine Hydrochloride Hemihydrate,4,4,4,4,4,4,0,4
+Apraclonidine,4,4,4,4,4,4,0,4
+Apremilast,4,4,4,4,4,2,0,4
+Aprepitant,11,11,11,11,11,11,0,11
+Aprotinin,13,13,13,13,13,12,0,13
+Arachis Oil,7,7,7,7,7,4,0,7
+Argipressin,2,2,2,2,2,2,0,2
+Aripiprazole,26,26,26,26,26,26,0,26
+Arnica Montana,2,2,2,2,2,0,0,2
+Arsenic,2,2,2,2,2,2,0,2
+Artemether with Lumefantrine,2,2,2,2,2,1,0,2
+Articaine Hydrochloride & Adrenaline,2,2,2,2,2,2,0,2
+Artificial Saliva,25,25,25,25,25,15,0,25
+Ascorbic Acid,144,144,144,144,144,139,0,144
+Ascorbic Acid (Eye),1,1,1,1,1,1,0,1
+Asenapine,4,4,4,4,4,4,0,4
+Asfotase Alfa,8,8,8,8,8,8,0,8
+Asparaginase,2,2,2,2,2,2,0,2
+Aspirin,145,145,145,145,145,138,0,145
+Aspirin & Caffeine,6,6,6,6,6,5,0,6
+Aspirin & Papaveretum,3,3,3,3,3,0,0,3
+Aspirin & Paracetamol,6,6,6,6,6,3,0,6
+Aspirin Combined Preparations,23,23,23,23,23,1,0,23
+"Aspirin,Paracetamol & Codeine",1,1,1,1,1,0,0,1
+"Aspirin,Phenacetin & Codeine(Codeine Co)",1,1,1,1,1,0,0,1
+Astemizole,5,5,5,5,5,5,0,5
+Atazanavir,8,8,8,8,8,8,0,8
+Atazanavir & Cobicistat,2,2,2,2,2,2,0,2
+Atenolol,42,42,42,42,42,41,0,42
+Atenolol With Calcium Channel Blocker,3,3,3,3,3,2,0,3
+Atenolol With Diuretic,2,2,2,2,2,0,0,2
+Atenolol with Thiazides,2,2,2,2,2,1,0,2
+Atomoxetine Hydrochloride,25,25,25,25,25,25,0,25
+Atorvastatin,28,28,28,28,28,28,0,28
+Atosiban,5,5,5,5,5,5,0,5
+Atovaquone,4,4,4,4,4,4,0,4
+Atracurium Besilate,10,10,10,10,10,10,0,10
+Atropine Methonitrate,8,8,8,8,8,6,0,8
+Atropine Sulfate,73,73,73,73,73,71,0,73
+Auranofin,2,2,2,2,2,2,0,2
+Aurothioglucose,4,4,4,4,4,4,0,4
+Avanafil,6,6,6,6,6,6,0,6
+Avelumab,2,2,2,2,2,2,0,2
+Axitinib,8,8,8,8,8,8,0,8
+Azacitidine,2,2,2,2,2,2,0,2
+Azapropazone,4,4,4,4,4,4,0,4
+Azatadine Maleate,5,5,5,5,5,5,0,5
+Azathioprine,72,72,72,72,72,71,0,72
+Azelaic Acid,4,4,4,4,4,4,0,4
+Azelastine Hydrochloride,12,12,12,12,12,12,0,12
+Azilsartan Medoxomil,6,6,6,6,6,6,0,6
+Azithromycin,15,15,15,15,15,15,0,15
+Azlocillin Sodium,11,11,11,11,11,9,0,11
+Aztreonam,11,11,11,11,11,9,0,11
+Aztreonam With Sodium Chloride,3,3,3,3,3,3,0,3
+B-Galactosidase,7,7,7,7,7,0,0,7
+B.J.6.,2,2,2,2,2,2,0,2
+Bacampicillin Hydrochloride,2,2,2,2,2,2,0,2
+Bacillus Calmette-Guerin (B.C.G.),19,19,19,19,19,19,0,19
+Baclofen,48,48,48,48,48,47,0,48
+Balsalazide Sodium,3,3,3,3,3,3,0,3
+Bambuterol Hydrochloride,4,4,4,4,4,4,0,4
+Bamethan Sulf,2,2,2,2,2,2,0,2
+Barbexaclone,4,4,4,4,4,4,0,4
+Barbital Sodium,2,2,2,2,2,2,0,2
+Baricitinib,4,4,4,4,4,4,0,4
+Basiliximab,4,4,4,4,4,4,0,4
+Bay Oil,4,4,4,4,3,0,0,4
+Becaplermin,2,2,2,2,2,2,0,2
+Beclamide,4,4,4,4,4,4,0,4
+BeclometDiprop/Formoterol/Glycopyrronium,1,1,1,1,1,1,0,1
+Beclometasone Dipropionate,184,184,184,184,184,165,0,184
+Beclometasone Dipropionate (Systemic),2,2,2,2,2,2,0,2
+Bedaquiline,2,2,2,2,2,2,0,2
+Belatacept,2,2,2,2,2,2,0,2
+Belimumab,4,4,4,4,4,4,0,4
+Belladonna & Ipecacuanha,1,1,1,1,1,0,0,1
+Belladonna Alkaloids,14,14,14,14,14,5,0,14
+Belladonna Root,1,1,1,1,1,0,0,1
+Bemiparin Sodium,10,10,10,10,10,10,0,10
+Benazepril Hydrochloride,2,2,2,2,2,2,0,2
+Bendroflumethiazide,35,35,35,35,35,34,0,35
+Bendroflumethiazide/Potassium,4,4,4,4,4,2,0,4
+Benethamine Penicillin,3,3,3,3,3,2,0,3
+Benethamine Penicillin/Benzylpenicillin,2,2,2,2,2,2,0,2
+Benorilate,8,8,8,8,8,8,0,8
+Benperidol,6,6,6,6,6,6,0,6
+Benralizumab,2,2,2,2,2,2,0,2
+Benserazide Hydrochloride,2,2,2,2,2,2,0,2
+Benzalkonium Chloride,20,20,20,20,20,17,0,20
+Benzathine Penicillin,21,21,21,21,21,18,0,21
+Benzatropine Mesilate,7,7,7,7,7,7,0,7
+Benzbromarone,4,4,4,4,4,4,0,4
+Benznidazole,1,1,1,1,1,1,0,1
+Benzocaine,70,70,70,70,70,44,0,70
+Benzoic Acid,3,3,3,3,3,0,0,3
+Benzoin,2,2,2,2,2,0,0,2
+Benzoyl Peroxide,92,92,92,92,92,76,0,92
+Benzoyl Peroxide & Clindamycin Phosphate,4,4,4,4,4,2,0,4
+Benzydamine Hydrochloride,14,14,14,14,14,14,0,14
+Benzyl Benzoate,6,6,6,6,6,4,0,6
+Benzyl Salicylate,1,1,1,1,1,1,0,1
+Benzylpenicillin (Penicillin G),7,7,7,7,7,7,0,7
+Benzylpenicillin Sod,12,12,12,12,12,2,0,12
+Benzylpenicillin Sodium (Penicillin G),13,13,13,13,13,13,0,13
+Benzylthiouracil,2,2,2,2,2,2,0,2
+Bephenium Hydroxynaphthoate,2,2,2,2,2,2,0,2
+Bergamot Oil,1,1,1,1,1,0,0,1
+Betacarotene,76,76,76,76,76,73,0,76
+Betahistine Hydrochloride,9,9,9,9,9,9,0,9
+Betaine Anhydrous,7,7,7,7,7,5,0,7
+Betaine Hydrochloride,7,7,7,7,7,6,0,7
+Betamethasone,8,8,8,8,8,3,0,8
+Betamethasone Esters,20,20,20,20,20,10,0,20
+Betamethasone Sodium Phosphate,23,23,23,23,23,15,0,23
+Betamethasone Valerate,135,135,135,134,134,50,0,135
+Betanidine Sulfate,7,7,7,7,7,7,0,7
+Betaxolol,7,7,7,7,7,6,0,7
+Betaxolol Hydrochloride,2,2,2,2,2,2,0,2
+Bethanechol Chloride,9,9,9,9,9,8,0,9
+Bevacizumab,5,5,5,5,5,5,0,5
+Bexarotene,2,2,2,2,2,2,0,2
+Bezafibrate,9,9,9,9,9,9,0,9
+Bicalutamide,6,6,6,6,6,6,0,6
+Bictegravir/Emtricitabine/Tenofovir Alaf,2,2,2,2,2,1,0,2
+Bifonazole,3,3,3,3,3,2,0,3
+Bilastine,2,2,2,2,2,2,0,2
+Bimatoprost,9,9,9,9,9,9,0,9
+Binimetinib,2,2,2,2,2,2,0,2
+Biperiden Hydrochloride,5,5,5,5,5,5,0,5
+Biperiden Lactate,2,2,2,2,2,2,0,2
+Biphasic Insulin Aspart,4,4,4,4,4,4,0,4
+Biphasic Insulin Injection,2,2,2,2,1,2,0,2
+Biphasic Insulin Lispro,12,12,12,12,2,12,0,12
+Biphasic Isophane Insulin,124,124,124,124,51,80,0,124
+Bisacodyl,36,36,36,36,36,33,0,36
+Bismuth Chelate,2,2,2,2,2,2,0,2
+Bismuth Salts,1,1,1,1,1,0,0,1
+Bismuth Subcarbonate,3,3,3,3,3,0,0,3
+Bismuth Subgallate,2,2,2,2,2,2,0,2
+Bisoprolol Fumarate,58,58,58,58,58,58,0,58
+Bisoprolol Fumarate With Diuretic,2,2,2,2,2,1,0,2
+Bisoprolol Fumarate/Aspirin,4,4,4,4,4,4,0,4
+Bleomycin,6,6,6,6,6,6,0,6
+Boceprevir,2,2,2,2,2,2,0,2
+Borax,5,5,5,5,5,1,0,5
+Boric Acid,10,10,10,10,10,5,0,10
+Bortezomib,2,2,2,2,2,2,0,2
+Bosentan,6,6,6,6,6,6,0,6
+Bosutinib,6,6,6,6,6,6,0,6
+Botulinum Toxin Type A,20,20,20,20,20,20,0,20
+Botulinum Toxin Type B,6,6,6,6,6,6,0,6
+Bowel Cleansing Solutions,6,6,6,6,6,0,0,6
+Bran,11,11,11,11,11,2,0,11
+Bretylium Tosilate,6,6,6,6,6,6,0,6
+Brigatinib,6,6,6,6,6,6,0,6
+Brilliant Green,6,6,6,6,6,3,0,6
+Brimonidine Tart (Rosacea),2,2,2,2,2,2,0,2
+Brimonidine Tartrate,3,3,3,3,3,3,0,3
+Brinzolamide,2,2,2,2,2,2,0,2
+Brinzolamide & Timolol,2,2,2,2,2,2,0,2
+Brinzolamide/Brimonidine,2,2,2,2,2,2,0,2
+Brivaracetam,14,14,14,14,14,14,0,14
+Brodalumab (Psoriasis),2,2,2,2,2,2,0,2
+Bromazepam,2,2,2,2,2,2,0,2
+Bromelains,2,2,2,2,2,1,0,2
+Bromfenac,2,2,2,2,2,2,0,2
+Bromhexine Hydrochloride,6,6,6,6,6,6,0,6
+Bromine Complexes,2,2,2,2,2,2,0,2
+Bromocriptine,16,16,16,16,16,14,0,16
+Bromperidol,2,2,2,2,2,2,0,2
+Brompheniramine Maleate,11,11,11,11,11,11,0,11
+Brompheniramine Maleate Combinations,9,9,9,9,9,0,0,9
+Buclizine Hydrochloride,2,2,2,2,2,1,0,2
+Budesonide,93,93,93,93,93,90,0,93
+Bufexamac,3,3,3,3,3,2,0,3
+Buflomedil Hydrochloride,5,5,5,5,5,5,0,5
+Bumetanide,15,15,15,15,15,15,0,15
+Bumetanide/Amiloride Hydrochloride,1,1,1,1,1,1,0,1
+Bumetanide/Potassium,2,2,2,2,2,1,0,2
+Bupivacaine Hydrochloride,39,39,39,39,39,39,0,39
+Bupivacaine Hydrochloride & Fentanyl Cit,5,5,5,5,5,5,0,5
+Buprenorph HCl/Naloxone HCl,6,6,6,6,6,3,0,6
+Buprenorphine,68,68,68,68,68,68,0,68
+Buprenorphine Hydrochloride,44,44,44,44,44,44,0,44
+Bupropion Hydrochloride,8,8,8,8,8,8,0,8
+Buserelin,8,8,8,8,8,8,0,8
+Buspirone Hydrochloride,6,6,6,6,6,6,0,6
+Busulfan,10,10,10,10,10,10,0,10
+Butobarbital,3,3,3,3,3,3,0,3
+Butorphanol Tartrate,2,2,2,2,2,2,0,2
+Butriptyline,6,6,6,6,6,6,0,6
+C1-Esterase Inhibitor,12,12,12,12,12,12,0,12
+Cabergoline,8,8,8,8,8,8,0,8
+Cabozantinib,10,10,10,10,10,10,0,10
+Cade Oil,13,13,13,13,13,7,0,13
+Cadexomer Iodine,12,12,12,12,12,12,0,12
+Caffeine,10,10,10,10,10,5,0,10
+Caffeine & Sodium Iodide,5,5,5,5,5,1,0,5
+Caffeine Citrate,23,23,23,23,23,22,0,23
+Calamine,19,19,19,19,19,2,0,19
+Calc Folinate,49,49,49,49,49,48,0,49
+Calc Levofolinate,6,6,6,6,6,6,0,6
+Calcipotriol,17,17,17,17,17,15,0,17
+Calcitonin,4,4,4,4,4,4,0,4
+Calcitonin (salmon),16,16,16,16,16,16,0,16
+Calcitriol,15,15,15,15,15,15,0,15
+Calcium Acetate,14,14,14,14,14,14,0,14
+Calcium Acetate/Magnesium Carbonate,2,2,2,2,2,2,0,2
+Calcium Carbonate,113,113,113,113,113,99,0,113
+Calcium Carbonate & Simeticone,2,2,2,2,2,0,0,2
+Calcium Chloride,14,14,14,14,14,13,0,14
+Calcium Citrate,4,4,4,4,4,4,0,4
+Calcium Dobesilate,4,4,4,4,4,4,0,4
+Calcium Glubionate,2,2,2,2,2,2,0,2
+Calcium Gluconate,23,23,23,23,23,23,0,23
+Calcium Hydroxide,1,1,1,1,1,0,0,1
+Calcium Lactate,9,9,9,9,9,9,0,9
+Calcium Phosphate,7,7,7,7,7,7,0,7
+Calcium Polystyrene Sulfonate,7,7,7,7,7,3,0,7
+Calcium Sulfaloxate,2,2,2,2,2,1,0,2
+Camellia Sinensis Extract,2,2,2,2,2,2,0,2
+Camphor,6,6,6,6,6,0,0,6
+Canagliflozin,4,4,4,4,4,4,0,4
+Canagliflozin/Metformin,4,4,4,4,4,4,0,4
+Canakinumab,4,4,4,4,4,4,0,4
+Candesartan Cilexetil,22,22,22,22,22,22,0,22
+Cannabidiol,4,4,4,4,4,4,0,4
+Cantharides,1,1,1,1,1,0,0,1
+Cantharidin,4,4,4,4,4,2,0,4
+Capecitabine,5,5,5,5,5,5,0,5
+Capreomycin,2,2,2,2,2,2,0,2
+Capsaicin,9,9,9,9,9,9,0,9
+Capsicum,9,9,9,9,9,7,0,9
+Captopril,135,135,135,135,135,132,0,135
+Carbachol,13,13,13,13,13,13,0,13
+Carbamazepine,59,59,59,59,59,57,0,59
+Carbaryl,17,17,17,17,17,15,0,17
+Carbenicillin Sod With Sod Chloride,3,3,3,3,3,3,0,3
+Carbenicillin Sodium,5,5,5,5,5,4,0,5
+Carbenoxolone Sodium,12,12,12,12,12,12,0,12
+Carbenoxolone Sodium Compound Prep's,4,4,4,4,4,0,0,4
+Carbetocin,4,4,4,4,4,4,0,4
+Carbidopa,2,2,2,2,2,2,0,2
+Carbimazole,27,27,27,27,27,26,0,27
+Carbinoxamine Maleate,1,1,1,1,1,0,0,1
+Carbocisteine,14,14,14,14,14,14,0,14
+Carbomer,4,4,4,4,4,4,0,4
+Carbomer 940/980,11,11,11,11,11,10,0,11
+Carbomer 974P,2,2,2,2,2,2,0,2
+Carboplatin,14,14,14,14,14,14,0,14
+Carboprost,2,2,2,2,2,2,0,2
+Carfecillin Sodium,3,3,3,3,3,3,0,3
+Carglumic Acid,3,3,3,3,3,3,0,3
+Cariprazine,8,8,8,8,8,8,0,8
+Carisoprodol,4,4,4,4,4,4,0,4
+Carmellose Sodium,15,15,15,15,15,8,0,15
+Carmustine,5,5,5,5,5,5,0,5
+Carteolol Hydrochloride,6,6,6,6,6,6,0,6
+Carvedilol,19,19,19,19,19,19,0,19
+Cascara,5,5,5,5,5,2,0,5
+Caspofungin,4,4,4,4,4,4,0,4
+Castor Oil,4,4,4,4,4,0,0,4
+Catarrh,6,6,6,6,6,6,0,6
+Catheter Patency Solutions,19,19,19,19,19,19,0,19
+Catumaxomab,4,4,4,4,4,4,0,4
+Cefaclor,24,24,24,24,24,24,0,24
+Cefadroxil,8,8,8,8,8,8,0,8
+Cefalexin,55,55,55,55,55,53,0,55
+Cefalotin,2,2,2,2,2,2,0,2
+Cefamandole,6,6,6,6,6,6,0,6
+Cefazolin Sodium,7,7,7,7,7,7,0,7
+Cefepime,4,4,4,4,4,4,0,4
+Cefixime,5,5,5,5,5,5,0,5
+Cefodizime Sodium,2,2,2,2,2,2,0,2
+Cefotaxime Sodium,9,9,9,9,9,7,0,9
+Cefoxitin Sodium,9,9,9,9,9,9,0,9
+Cefpirome Sulfate,4,4,4,4,4,4,0,4
+Cefpodoxime,4,4,4,4,4,4,0,4
+Cefprozil,6,6,6,6,6,6,0,6
+Cefradine,14,14,14,14,14,14,0,14
+Cefradine With Sodium Chloride,2,2,2,2,2,2,0,2
+Cefsulodin Sodium,4,4,4,4,4,4,0,4
+Ceftazidime,1,1,1,1,1,1,0,1
+Ceftazidime Pentahydrate,21,21,21,21,21,20,0,21
+Ceftazidime With Sodium Chloride,23,23,23,23,23,23,0,23
+Ceftibuten,6,6,6,6,6,6,0,6
+Ceftizoxime Sodium,6,6,6,6,6,6,0,6
+Ceftriaxone Sodium,9,9,9,9,9,9,0,9
+Cefuroxime Axetil,8,8,8,8,8,8,0,8
+Cefuroxime Sodium,19,19,19,19,19,18,0,19
+Celecoxib,8,8,8,8,8,8,0,8
+Celiprolol Hydrochloride,5,5,5,5,5,5,0,5
+Ceratonia,2,2,2,2,2,0,0,2
+Cerivastatin,10,10,10,10,10,10,0,10
+Certolizumab Pegol,4,4,4,4,4,4,0,4
+Certoparin Sod  Sodium,4,4,4,4,4,4,0,4
+Cetirizine Hydrochloride,34,34,34,34,34,28,0,34
+Cetomacrogol,5,5,5,5,5,0,0,5
+Cetrimide,50,50,50,50,50,34,0,50
+Cetrorelix,4,4,4,4,4,4,0,4
+Cetuximab,6,6,6,6,6,6,0,6
+Cetylpyridinium Chloride,22,22,22,22,22,9,0,22
+Chalk,4,4,4,4,4,0,0,4
+Charcoal,26,26,26,26,26,10,0,26
+Chenodeoxycholic Acid,24,24,24,24,24,20,0,24
+Chlohexidine Gluconate (Emollient),2,2,2,2,2,2,0,2
+Chloral Hydrate,48,48,48,48,48,46,0,48
+Chlorambucil,4,4,4,4,4,4,0,4
+Chloramphenicol,55,55,55,55,55,50,0,55
+Chlordiazepoxide,8,8,8,8,8,8,0,8
+Chlordiazepoxide Hydrochloride,32,32,32,32,32,31,0,32
+Chlorhex HCl,2,2,2,2,2,1,0,2
+Chlorhexidine Acetate,68,68,68,68,67,66,0,68
+Chlorhexidine Gluconate,183,183,183,183,180,142,0,183
+Chlorhexidine Hydrochloride,4,4,4,4,4,1,0,4
+Chlorinated Lime,9,9,9,9,8,1,0,9
+Chlorine,1,1,1,1,1,0,0,1
+Chlormethine Hydrochloride,4,4,4,4,4,4,0,4
+Chlormezanone,3,3,3,3,3,3,0,3
+Chlorobutanol,1,1,1,1,1,0,0,1
+Chloroprocaine Hydrochloride,2,2,2,2,2,2,0,2
+Chloroquine Phosphate,6,6,6,6,6,5,0,6
+Chloroquine Phosphate with Proguanil HCl,3,3,3,3,3,1,0,3
+Chloroquine Sulfate,11,11,11,11,11,10,0,11
+Chlorothiazide,92,92,92,92,92,91,0,92
+Chlorotrianisene,2,2,2,2,2,2,0,2
+Chloroxylenol,8,8,8,8,8,2,0,8
+Chlorphenamine Maleate,40,40,40,40,40,36,0,40
+Chlorphenesin,3,3,3,3,3,3,0,3
+Chlorphenoxamine Hydrochloride,1,1,1,1,1,0,0,1
+Chlorpromazine Hydrochloride,49,49,49,49,49,47,0,49
+Chlorpropamide,13,13,13,13,13,13,0,13
+Chlorprothixene,8,8,8,8,8,8,0,8
+Chlorquinaldol,3,3,3,3,3,3,0,3
+Chlortalidone,13,13,13,13,13,13,0,13
+Chlortalidone/Potassium,2,2,2,2,2,1,0,2
+Chlortetracycline Hydrochloride,16,16,16,16,16,12,0,16
+Chlorzoxazone,1,1,1,1,1,1,0,1
+Cholera,13,13,13,13,13,9,0,13
+Cholesterol,13,13,13,13,13,13,0,13
+Cholesterol/Simvastatin,1,1,1,1,1,1,0,1
+Cholic Acid,13,13,13,13,13,13,0,13
+Choline Magnesium Trisalicylate,2,2,2,2,2,2,0,2
+Choline Salicylate,5,5,5,5,5,5,0,5
+Choline Theophyllinate,18,18,18,18,16,18,0,18
+Chondroitin  Sulphate A,1,1,1,1,1,1,0,1
+Choriogonadotropin Alfa,6,6,6,6,6,6,0,6
+Chorionic Gonadotrophin,22,22,22,22,22,22,0,22
+Chromium Trichloride,1,1,1,1,1,1,0,1
+Chrysarobin,1,1,1,1,1,1,0,1
+Chymotrypsin,11,11,11,11,10,7,0,11
+Ciclacillin,8,8,8,8,8,8,0,8
+Ciclesonide,6,6,6,6,6,6,0,6
+Ciclopirox Olamine,2,2,2,2,2,2,0,2
+Ciclosporin,52,52,52,52,52,52,0,52
+Ciclosporin (Eye Anti Inflam),3,3,3,3,3,3,0,3
+Cidofovir,3,3,3,3,3,3,0,3
+Cilazapril,10,10,10,10,10,10,0,10
+Cilostazol,4,4,4,4,4,4,0,4
+Cimetidine,48,48,48,48,48,48,0,48
+Cimetidine With Alginate,6,6,6,6,6,0,0,6
+Cinacalcet Hydrochloride,6,6,6,6,6,6,0,6
+Cinchocaine Hydrochloride,3,3,3,3,3,3,0,3
+Cinnarizine,11,11,11,11,11,8,0,11
+Cinoxacin,2,2,2,2,2,2,0,2
+Cinoxate,1,1,1,1,1,0,0,1
+Ciprofibrate,2,2,2,2,2,2,0,2
+Ciprofloxacin,65,65,65,65,65,64,0,65
+Ciprofloxacin Lactate,2,2,2,2,2,2,0,2
+Ciprofloxacin/Fluocinolone,2,2,2,2,2,1,0,2
+Ciprofloxain/Dexameth,2,2,2,2,2,1,0,2
+Cisapride,23,23,23,23,23,22,0,23
+Cisatracurium,11,11,11,11,11,11,0,11
+Cisplatin,11,11,11,11,11,11,0,11
+Citalopram Hydrobromide,17,17,17,17,17,17,0,17
+Citalopram Hydrochloride,2,2,2,2,2,2,0,2
+Citrated Calcium Carbimide,5,5,5,5,5,5,0,5
+Citric Acid Monohydrate/Ipecacuanha,2,2,2,2,2,0,0,2
+Cladribine,4,4,4,4,4,4,0,4
+Cladribine (Immunomodulating),2,2,2,2,2,2,0,2
+Clarithromycin,30,30,30,30,30,30,0,30
+Clebopride,2,2,2,2,2,0,0,2
+Clemastine Fumarate,10,10,10,10,10,8,0,10
+Clenbuterol Hydrochloride,4,4,4,4,4,4,0,4
+Clindamycin,6,6,6,6,6,6,0,6
+Clindamycin Hydrochloride,23,23,23,23,23,23,0,23
+Clindamycin Phosphate,14,14,14,14,14,13,0,14
+Clindamycin/Hydrocortisone,1,1,1,1,1,0,0,1
+Clindamycin/Tretinoin,2,2,2,2,2,2,0,2
+Clioquinol,13,13,13,13,13,9,0,13
+Clobazam,87,87,87,87,87,86,0,87
+Clobetasol Propionate,55,55,55,55,55,15,0,55
+Clobetasone Butyrate,37,37,37,37,37,13,0,37
+Clofarabine,2,2,2,2,2,2,0,2
+Clofazimine,5,5,5,5,5,4,0,5
+Clofibrate,2,2,2,2,2,2,0,2
+Clomethiazole,2,2,2,2,2,2,0,2
+Clomethiazole Edisilate,6,6,6,6,6,6,0,6
+Clomifene Citrate,4,4,4,4,4,4,0,4
+Clomipramine Hydrochloride,26,26,26,26,26,26,0,26
+Clomocycline Sodium,2,2,2,2,2,2,0,2
+Clonazepam,96,96,96,96,96,94,0,96
+Clonidine Hydrochloride,44,44,44,44,44,43,0,44
+Clopamide/Potassium,2,2,2,2,2,1,0,2
+Clopidogrel,22,22,22,22,22,22,0,22
+Cloral Betaine,2,2,2,2,2,2,0,2
+Clorazepate Dipotassium,5,5,5,5,5,5,0,5
+Clotiapine,1,1,1,1,1,1,0,1
+Clotiazepam,1,1,1,1,1,1,0,1
+Clotrimazole,66,66,66,66,66,61,0,66
+Clove Oil,1,1,1,1,1,0,0,1
+Cloxacillin,13,13,13,13,13,13,0,13
+Clozapine,16,16,16,16,16,16,0,16
+Co-Amilofruse (Amiloride HCl/Frusemide),23,23,23,23,23,22,0,23
+Co-Amilozide (Amiloride HCl/Hydchloroth),17,17,17,17,17,17,0,17
+Co-Amoxiclav (Amoxicillin/Clavul Acid),34,34,34,34,34,29,0,34
+Co-Beneldopa (Benserazide/Levodopa),28,28,28,28,28,27,0,28
+Co-Careldopa (Carbidopa/Levodopa),40,40,40,40,40,38,0,40
+Co-Codamol (Codeine Phos/Paracetamol),62,62,62,62,62,58,0,62
+Co-Codaprin (Codeine Phos/Aspirin),3,3,3,3,3,2,0,3
+Co-Cyprindiol (Cyprote Acet/Ethinlestr),8,8,8,8,8,8,0,8
+Co-Danthramer (Dantron/Poloxamer 188),19,19,19,19,19,17,0,19
+Co-Danthrusate (Dantron/Docusate Sod),9,9,9,9,9,7,0,9
+Co-Dergocrine Mesilate,5,5,5,5,5,5,0,5
+Co-Dydramol (Dihydrocodeine/Paracet),28,28,28,28,28,18,0,28
+Co-Fluampicil(Flucloxacillin/Ampicillin),12,12,12,12,12,12,0,12
+Co-Flumactone (Hydroflumeth/Spironol),6,6,6,6,6,6,0,6
+Co-Magaldrox(Magnesium/Aluminium Hydrox),18,18,18,18,18,17,0,18
+Co-Methiamol (Methionine/Paracetamol),2,2,2,2,2,2,0,2
+Co-Phenotrope (Diphenox HCl/Atrop Sulph),15,15,15,15,15,13,0,15
+Co-Prenozide (Oxprenolol HCl/Cyclopenth),2,2,2,2,2,2,0,2
+Co-Proxamol (Dextroprop HCl/Paracet),8,8,8,8,8,7,0,8
+Co-Simalcite (Simeticone/Hydrotalcite),5,5,5,5,5,5,0,5
+Co-Tenidone (Atenolol/Chlortalidone),11,11,11,11,11,11,0,11
+Co-Triamterzide(Triamterene/Hydchloroth),5,5,5,5,5,2,0,5
+Co-Trimoxazole(Trimethoprim/Sulfamethox,62,62,62,62,62,55,0,62
+Co-Zidocapt (Hydchloroth/Captopril),7,7,7,7,7,7,0,7
+Coal Tar,50,50,50,50,49,20,0,50
+Coal Tar & Corticosteroid Preparations,18,18,18,18,18,3,0,18
+Coal Tar Bath Preparations,6,6,6,6,6,0,0,6
+Cobicistat,2,2,2,2,2,2,0,2
+Cobimetinib,2,2,2,2,2,2,0,2
+Cocaine,20,20,20,20,20,19,0,20
+Cocaine (Eye),5,5,5,5,5,5,0,5
+Cocaine Hydrochloride,23,23,23,23,23,22,0,23
+Cocillana,1,1,1,1,1,0,0,1
+Cocois,3,3,3,3,3,0,0,3
+Coconut Oil,4,4,4,4,4,0,0,4
+Cod Liver Oil,158,158,158,158,158,115,0,158
+Codeine Phosphate,43,43,43,43,43,41,0,43
+Codeine Phosphate Compound Mixtures,6,6,6,6,6,1,0,6
+Colchicine,9,9,9,9,9,9,0,9
+Colecalciferol,371,371,371,371,370,245,0,371
+Colesevelam Hydrochloride,2,2,2,2,2,2,0,2
+Colestilan,6,6,6,6,6,6,0,6
+Colestipol Hydrochloride,6,6,6,6,6,6,0,6
+Colestyramine,23,23,23,23,23,21,0,23
+Colistimeth Sod,1,1,1,1,1,1,0,1
+Colistimethate Sodium,17,17,17,17,17,13,0,17
+Colistin Sulfate,10,10,10,10,10,7,0,10
+Colistin Sulphate,2,2,2,2,2,2,0,2
+Collagen,2,2,2,2,2,2,0,2
+Colocynth & Jalap,2,2,2,2,2,0,0,2
+Combined Ethinylestradiol 135mcg,2,2,2,2,2,0,0,2
+Combined Ethinylestradiol 15mcg,2,2,2,2,2,2,0,2
+Combined Ethinylestradiol 20mcg,24,24,24,24,23,16,0,24
+Combined Ethinylestradiol 30mcg,46,46,46,46,46,28,0,46
+Combined Ethinylestradiol 35mcg,10,10,10,10,10,3,0,10
+Combined Ethinylestradiol 50mcg,18,18,18,18,18,5,0,18
+Combined Mestranol,3,3,3,3,3,2,0,3
+Compound Alginates&Prop Indigestion Prep,38,38,38,38,37,11,0,38
+Compound Anti-Infective Preparations,2,2,2,2,2,0,0,2
+Compound Antispasmodic Preparations,13,13,13,13,13,4,0,13
+Compound Iron Preparations,28,28,28,28,28,2,0,28
+Copper Sulfate Pentahydrate,2,2,2,2,2,1,0,2
+Corifollitropin Alfa,4,4,4,4,4,4,0,4
+Corticosteroids,6,6,6,6,6,0,0,6
+Corticotropin,11,11,11,11,11,11,0,11
+Cortisone Acetate,27,27,27,27,27,27,0,27
+Cortivazol,2,2,2,2,2,2,0,2
+Corynebacterium Parvum Vaccine,2,2,2,2,2,2,0,2
+Coumarin,2,2,2,2,2,2,0,2
+Creosote,1,1,1,1,1,0,0,1
+Cresol,2,2,2,2,2,0,0,2
+Crisantaspase,2,2,2,2,2,2,0,2
+Crotamiton,5,5,5,5,5,4,0,5
+Crystal Violet,9,9,9,9,8,8,0,9
+Cyanocobalamin,26,26,26,26,26,19,0,26
+Cyclandelate,7,7,7,7,7,7,0,7
+Cyclizine Hydrochloride,31,31,31,31,31,30,0,31
+Cyclizine Lactate,5,5,5,5,5,5,0,5
+Cyclobarbital Calcium,2,2,2,2,2,2,0,2
+Cyclobenzaprine Hydrochloride,2,2,2,2,2,2,0,2
+Cyclofenil,4,4,4,4,4,4,0,4
+Cyclopenthiazide,2,2,2,2,2,2,0,2
+Cyclopenthiazide/Amiloride Hydrochloride,1,1,1,1,1,1,0,1
+Cyclopenthiazide/Potassium,2,2,2,2,2,1,0,2
+Cyclopentolate Hydrochloride,14,14,14,14,14,14,0,14
+Cyclophosphamide,34,34,34,34,34,33,0,34
+Cycloserine,5,5,5,5,5,5,0,5
+Cyproheptadine Hydrochloride,10,10,10,10,10,9,0,10
+Cyproterone Acetate,21,21,21,21,21,19,0,21
+Cysteine Hydrochloride,4,4,4,4,4,4,0,4
+Cystine,2,2,2,2,2,2,0,2
+Cytarabine,29,29,29,29,29,29,0,29
+Cytomegalovirus Immunoglobulin,4,4,4,4,4,4,0,4
+D.Pteronyssinus Allergy Preparations,16,16,16,16,16,9,0,16
+Dabigatran Etexilate,6,6,6,6,6,6,0,6
+Dabrafenib,4,4,4,4,4,4,0,4
+Dacarbazine,7,7,7,7,7,7,0,7
+Daclatasvir,6,6,6,6,6,6,0,6
+Daclizumab,2,2,2,2,2,2,0,2
+Daclizumab (Immunomodulating),2,2,2,2,2,2,0,2
+Dacomitinib,6,6,6,6,6,6,0,6
+Dactinomycin,2,2,2,2,2,2,0,2
+Dalbavancin Hydrochloride,2,2,2,2,2,2,0,2
+Dalteparin Sodium,25,25,25,25,25,25,0,25
+Danaparoid Sodium,2,2,2,2,2,2,0,2
+Danazol,8,8,8,8,8,8,0,8
+Dantrolene Sodium,46,46,46,46,46,45,0,46
+Dapagliflozin,4,4,4,4,4,4,0,4
+Dapagliflozin/Metformin,4,4,4,4,4,4,0,4
+Dapoxetine Hydrochloride,6,6,6,6,6,6,0,6
+Dapsone,15,15,15,15,15,15,0,15
+Daptomycin,4,4,4,4,4,4,0,4
+Darbepoetin Alfa,44,44,44,44,44,44,0,44
+Darifenacin Hydrobromide,4,4,4,4,4,4,0,4
+Darunavir,14,14,14,14,14,14,0,14
+Darunavir/Cobicistat,2,2,2,2,2,2,0,2
+Dasabuvir,2,2,2,2,2,2,0,2
+Dasatinib,14,14,14,14,14,14,0,14
+Daunorubicin,3,3,3,3,3,2,0,3
+Daunorubicin/Cytarabine,2,2,2,2,2,2,0,2
+Deanol,5,5,5,5,5,5,0,5
+Debrisoquine Sulfate,4,4,4,4,4,4,0,4
+Decitabine,2,2,2,2,2,2,0,2
+Deferasirox,12,12,12,12,12,12,0,12
+Deferiprone,9,9,9,9,9,9,0,9
+Deflazacort,10,10,10,10,10,10,0,10
+Degarelix,4,4,4,4,4,4,0,4
+Dehydrocholic Acid,5,5,5,5,5,5,0,5
+Delamanid,2,2,2,2,2,2,0,2
+Demecarium Bromide,4,4,4,4,4,4,0,4
+Demeclocycline Hydrochloride,14,14,14,14,14,12,0,14
+Denosumab,4,4,4,4,4,4,0,4
+Deodorants,16,16,16,16,16,3,0,16
+Deoxyribonuclease,4,4,4,4,4,4,0,4
+Depigmenting Agents,52,52,52,52,52,28,0,52
+Dequalinium Chloride,9,9,9,9,9,7,0,9
+Desferrioxamine Mesilate,11,11,11,11,11,10,0,11
+Desipramine Hydrochloride,5,5,5,5,5,5,0,5
+Desloratadine,10,10,10,10,10,10,0,10
+Desmopressin Acetate,71,71,71,71,71,69,0,71
+Desogestrel,10,10,10,10,10,10,0,10
+Desonide,7,7,7,7,7,7,0,7
+Desoximetasone,8,8,8,8,8,5,0,8
+Desoxycortone Pivalate,2,2,2,2,2,2,0,2
+Detergents,4,4,4,4,4,0,0,4
+Dexamethasone,116,116,116,116,116,104,0,116
+Dexamethasone Acetate,1,1,1,1,1,0,0,1
+Dexamethasone Isonicotinate,4,4,4,4,3,2,0,4
+Dexamethasone Phosphate,3,3,3,3,3,3,0,3
+Dexamethasone Sodium Metasulphobenzoate,2,2,2,2,2,0,0,2
+Dexamethasone Sodium Phosphate,13,13,13,13,13,13,0,13
+Dexamfetamine Sulfate,61,61,61,61,61,58,0,61
+Dexfenfluramine Hydrochloride,2,2,2,2,2,2,0,2
+Dexibuprofen,5,5,5,5,5,5,0,5
+Dexketoprofen,2,2,2,2,2,2,0,2
+Dexmethylphenidate Hydrochloride,2,2,2,2,2,2,0,2
+Dexpanthenol,10,10,10,10,10,10,0,10
+Dexrazoxane,2,2,2,2,2,2,0,2
+Dextran 110 I.V.I. In Sodium Chloride,1,1,1,1,1,1,0,1
+Dextran 40 I.V.I. In Glucose,3,3,3,3,3,3,0,3
+Dextran 40 I.V.I. In Sodium Chloride,2,2,2,2,2,2,0,2
+Dextran 70 I.V.I. In Glucose,2,2,2,2,2,2,0,2
+Dextran 70 I.V.I. In Sodium Chloride,4,4,4,4,4,4,0,4
+Dextranomer,6,6,6,6,6,4,0,6
+Dextromethorphan Hydrobrom Comp Prep's,10,10,10,10,10,2,0,10
+Dextromethorphan Hydrobromide,41,41,41,41,40,27,0,41
+Dextromoramide Tartrate,14,14,14,14,14,13,0,14
+Dextropropoxyphene,3,3,3,3,3,3,0,3
+Dextrothyroxine Sodium,2,2,2,2,2,2,0,2
+Di-Iodohydroxyquinoline,2,2,2,2,2,2,0,2
+Diabetic,20,20,20,20,20,0,0,20
+Diacerein,2,2,2,2,2,2,0,2
+Diagnostic Skin Tests,21,21,21,21,21,1,0,21
+Diamorphine Hydrochloride,11,11,11,11,11,11,0,11
+Diamorphine Hydrochloride (Systemic),160,160,160,160,160,153,0,160
+Diamorphine Hydrochloride (Top),2,2,2,2,2,2,0,2
+Diazepam,104,104,104,104,100,102,0,104
+Diazoxide,41,41,41,41,41,40,0,41
+Dibasic Potassium Phosphate,19,19,19,19,19,17,0,19
+Dibenzepin Hydrochloride,2,2,2,2,2,2,0,2
+Dibrompropamidine Isetionate,6,6,6,6,6,4,0,6
+Dichlorobenzyl Alcohol,2,2,2,2,2,2,0,2
+Dichlorobenzyl Alcohol/Amylmetacresol,1,1,1,1,1,1,0,1
+Diclofenac Potassium,9,9,9,9,9,9,0,9
+Diclofenac Sod,1,1,1,1,1,1,0,1
+Diclofenac Sodium,182,182,182,182,182,178,0,182
+Diclofenamide,4,4,4,4,4,4,0,4
+Dicobalt Edetate,2,2,2,2,2,2,0,2
+Dicophane,2,2,2,2,2,0,0,2
+Dicycloverine HCl Compound Preparations,3,3,3,3,3,0,0,3
+Dicycloverine Hydrochloride,8,8,8,8,8,7,0,8
+Didanosine,18,18,18,18,18,18,0,18
+Dienestrol,10,10,10,10,10,10,0,10
+Dienogest,1,1,1,1,1,1,0,1
+Diethylamine Salicylate,4,4,4,4,4,3,0,4
+Diethylcarbamazine Citrate,4,4,4,4,4,4,0,4
+Diethylpropion Hydrochloride,6,6,6,6,6,4,0,6
+Diethylstilbestrol,23,23,23,23,23,22,0,23
+Diethyltoluamide,1,1,1,1,1,1,0,1
+Difenidol Hydrochloride,2,2,2,2,2,2,0,2
+Diflucortolone Valerate,14,14,14,14,14,13,0,14
+Diflunisal,7,7,7,7,7,7,0,7
+Digitoxin,6,6,6,6,6,6,0,6
+Digoxin,27,27,27,27,27,26,0,27
+Digoxin Antibody,4,4,4,4,4,4,0,4
+Dihydrocodeine Tartrate,25,25,25,25,25,23,0,25
+Dihydroergotamine Mesilate,15,15,15,15,15,11,0,15
+Dihydrotachysterol,7,7,7,7,7,7,0,7
+Dihydroxyacetone,11,11,11,11,11,11,0,11
+Diloxanide Furoate,12,12,12,12,12,10,0,12
+Diltiazem Hydrochloride,140,140,140,140,140,134,0,140
+Diltiazem Hydrochloride with Thiazides,2,2,2,2,2,1,0,2
+Dimenhydrinate,7,7,7,7,7,7,0,7
+Dimenhydrinate/Cinnarizine,2,2,2,2,2,1,0,2
+Dimercaprol,2,2,2,2,2,2,0,2
+Dimethyl Fumar,8,8,8,8,8,8,0,8
+Dimethyl Sulfoxide,3,3,3,3,3,3,0,3
+Dimeticone (Barrier),24,24,24,24,24,12,0,24
+Dimeticone (Parasiticidal),10,10,10,10,10,10,0,10
+Dimetindene Maleate,2,2,2,2,2,2,0,2
+Dimetotiazine,2,2,2,2,2,2,0,2
+Dinoprost Trometamol,2,2,2,2,2,2,0,2
+Dinoprostone,16,16,16,16,16,16,0,16
+Diosmin,2,2,2,2,2,2,0,2
+Diosmin/Hesperidin,2,2,2,2,2,2,0,2
+Diphenhydramine HCl/Pholcodine,4,4,4,4,4,1,0,4
+Diphenhydramine Hydrochloride,77,77,77,77,77,50,0,77
+Diphenylpyraline Hydrochloride,9,9,9,9,9,8,0,9
+Diphtheria,54,54,54,54,53,51,0,54
+Dipipanone Hydrochloride,7,7,7,7,7,4,0,7
+Dipivefrine Hydrochloride,3,3,3,3,3,3,0,3
+Diprophylline,7,7,7,7,6,6,0,7
+Dipyridamole,43,43,43,43,43,42,0,43
+Dipyridamole & Aspirin,4,4,4,4,4,3,0,4
+Dipyrone Sodium,2,2,2,2,2,2,0,2
+Disodium Edetate,6,6,6,6,6,6,0,6
+Disodium Folinate,8,8,8,8,8,8,0,8
+Disopyramide,26,26,26,26,26,26,0,26
+Disopyramide Phosphate,16,16,16,16,16,16,0,16
+Distigmine Bromide,5,5,5,5,5,5,0,5
+Disulfiram,8,8,8,8,8,7,0,8
+Dithranol,155,155,155,155,154,123,0,155
+Dithranol Triacetate,5,5,5,5,5,2,0,5
+Dobutamine Hydrochloride,9,9,9,9,9,9,0,9
+Docetaxel,21,21,21,21,21,21,0,21
+Docusate Sodium,42,42,42,42,42,39,0,42
+Dolasetron Mesilate,8,8,8,8,8,8,0,8
+Dolutegravir,6,6,6,6,6,6,0,6
+Dolutegravir/Lamivudine,2,2,2,2,2,2,0,2
+Dolutegravir/Rilpivirine,2,2,2,2,2,2,0,2
+Domiphen Bromide,2,2,2,2,2,1,0,2
+Domperidone,24,24,24,24,24,23,0,24
+Donepezil Hydrochloride,14,14,14,14,14,14,0,14
+Dopamine Hydrochloride,10,10,10,10,10,10,0,10
+Dopexamine Hydrochloride,2,2,2,2,2,2,0,2
+Doravirine,2,2,2,2,2,2,0,2
+Doripenem,2,2,2,2,2,2,0,2
+Dornase Alfa,2,2,2,2,2,2,0,2
+Dorzolamide,7,7,7,7,7,7,0,7
+Dorzolamide & Timolol,8,8,8,8,8,8,0,8
+Dosulepin Hydrochloride,56,56,56,56,56,55,0,56
+Doxapram Hydrochloride,2,2,2,2,2,2,0,2
+Doxazosin Mesilate,47,47,47,47,47,46,0,47
+Doxepin,12,12,12,12,12,12,0,12
+Doxepin Hydrochloride,3,3,3,3,3,3,0,3
+Doxorubicin Hydrochloride,23,23,23,23,23,23,0,23
+Doxycycline Hyclate,28,28,28,28,28,28,0,28
+Doxycycline Monohydrate,2,2,2,2,2,2,0,2
+Doxylamine Succinate/Pyridoxine HCl,4,4,4,4,4,1,0,4
+Dried Factor IX Fraction,26,26,26,26,26,26,0,26
+Dried Factor VIII Fraction,87,87,87,87,87,83,0,87
+Dried Factor XIII Fraction,4,4,4,4,4,2,0,4
+Dried Plasma Protein Fraction,1,1,1,1,1,1,0,1
+Dried Thrombin,6,6,6,6,4,2,0,6
+Dronabinol/Cannabidiol,4,4,4,4,4,4,0,4
+Dronedarone Hydrochloride,2,2,2,2,2,2,0,2
+Droperidol,14,14,14,14,14,14,0,14
+Drostanolone Propionate,2,2,2,2,2,2,0,2
+Drotrecogin Alfa,4,4,4,4,4,4,0,4
+Dulaglutide,4,4,4,4,4,4,0,4
+Duloxetine Hydrochloride,22,22,22,22,22,22,0,22
+Dutasteride,4,4,4,4,4,4,0,4
+Dydrogesterone,4,4,4,4,4,4,0,4
+Econazole Nitrate,30,30,30,30,28,26,0,30
+Ecothiopate Iodide,12,12,12,12,12,12,0,12
+Eculizumab,2,2,2,2,2,2,0,2
+Edoxaban,6,6,6,6,6,6,0,6
+Edrophonium Chloride,5,5,5,5,5,5,0,5
+Efalizumab,2,2,2,2,2,2,0,2
+Efavirenz,10,10,10,10,10,10,0,10
+Efavirenz/Emtricitabine/Tenofovir Disop,2,2,2,2,2,1,0,2
+Eflornithine Monohydrate Chloride,2,2,2,2,2,2,0,2
+Elbasvir/Grazoprevir,2,2,2,2,2,2,0,2
+Eletriptan,4,4,4,4,4,4,0,4
+Eliglustat,2,2,2,2,2,2,0,2
+Elosulfase Alfa,3,3,3,3,3,3,0,3
+Eltrombopag,6,6,6,6,6,6,0,6
+Eluxadoline,4,4,4,4,4,4,0,4
+Elvitegravir,4,4,4,4,4,4,0,4
+Emedastine,2,2,2,2,2,2,0,2
+Emepronium Bromide,6,6,6,6,6,6,0,6
+Emollient Bath & Shower Preparations,36,36,36,36,36,12,0,36
+Empagliflozin,4,4,4,4,4,4,0,4
+Empagliflozin/Linagliptin,4,4,4,4,4,4,0,4
+Empagliflozin/Metformin,8,8,8,8,8,8,0,8
+Empicol,8,8,8,8,8,1,0,8
+Emtricitabine,4,4,4,4,4,4,0,4
+Emtricitabine & Tenofovir Alafenamide,4,4,4,4,4,4,0,4
+Emtricitabine & Tenofovir Disoproxil,3,3,3,3,3,3,0,3
+Emulsifying Wax,23,23,23,23,23,1,0,23
+Enalapril Maleate,72,72,72,72,72,70,0,72
+Enalapril Maleate with Diuretic,2,2,2,2,2,1,0,2
+Enbucrilate,5,5,5,5,5,5,0,5
+Encephalitis Vaccine,1,1,1,1,1,0,0,1
+Encorafenib,4,4,4,4,4,4,0,4
+Enfuvirtide,2,2,2,2,2,2,0,2
+Enoxacin,2,2,2,2,2,2,0,2
+Enoxaparin,35,35,35,35,35,35,0,35
+Enoximone,3,3,3,3,3,3,0,3
+Entacapone,5,5,5,5,5,5,0,5
+Entecavir,6,6,6,6,6,6,0,6
+Enteral Nutrition,643,643,643,643,630,163,0,643
+Enzalutamide,2,2,2,2,2,2,0,2
+Ephedrine HCl/Dextrometh Hydrob,2,2,2,2,2,1,0,2
+Ephedrine HCl/Ipecacuanha,2,2,2,2,2,2,0,2
+Ephedrine Hydrochloride,71,71,71,71,71,48,0,71
+Ephedrine Sulfate,6,6,6,6,6,1,0,6
+Epinastine Hydrochloride,2,2,2,2,2,2,0,2
+Epirubicin Hydrochloride,14,14,14,14,14,14,0,14
+Eplerenone,4,4,4,4,4,4,0,4
+Epoetin Alfa,54,54,54,54,54,54,0,54
+Epoetin Beta,55,55,55,55,55,55,0,55
+Epoetin Delta,16,16,16,16,16,16,0,16
+Epoetin Theta,16,16,16,16,16,16,0,16
+Epoetin Zeta,22,22,22,22,22,22,0,22
+EpoprostenolSodium,12,12,12,12,12,12,0,12
+Eprosartan,7,7,7,7,7,7,0,7
+Eptifibatide,4,4,4,4,4,4,0,4
+Erdosteine,2,2,2,2,2,2,0,2
+Erenumab,4,4,4,4,4,4,0,4
+Ergocalciferol,163,163,163,163,162,111,0,163
+Ergometrine Maleate,11,11,11,11,11,11,0,11
+Ergotamine Tartrate,21,21,21,21,21,17,0,21
+Eribulin,4,4,4,4,4,4,0,4
+Erlotinib,6,6,6,6,6,6,0,6
+Ertapenem Sodium,2,2,2,2,2,2,0,2
+Ertugliflozin,4,4,4,4,4,4,0,4
+Erythromycin,42,42,42,42,42,39,0,42
+Erythromycin Estolate,8,8,8,8,8,8,0,8
+Erythromycin Ethylsuccinate,50,50,50,50,50,50,0,50
+Erythromycin Lactobionate,6,6,6,6,6,6,0,6
+Erythromycin Stearate,11,11,11,11,11,9,0,11
+Erythropoietin,6,6,6,6,6,6,0,6
+Escitalopram,11,11,11,11,11,11,0,11
+Esketamine Hydrochloride,6,6,6,6,6,6,0,6
+Eslicarbazepine Acetate,6,6,6,6,6,6,0,6
+Esmolol Hydrochloride,3,3,3,3,3,3,0,3
+Esomeprazole,20,20,20,20,20,20,0,20
+Estradiol,105,105,105,105,105,83,0,105
+Estradiol & Nomegestrol,2,2,2,2,2,2,0,2
+Estradiol Benzoate,8,8,8,8,8,8,0,8
+Estradiol Val&Estradiol Val + Dienogest,2,2,2,2,2,0,0,2
+Estradiol Valerate,13,13,13,13,13,13,0,13
+Estradiol and Estriol,4,4,4,4,4,3,0,4
+Estradiol and Estriol with Progestogen,4,4,4,4,4,0,0,4
+Estradiol with Cyproterone Acetate,2,2,2,2,2,0,0,2
+Estradiol with Progestogen,73,73,73,73,73,37,0,73
+"Estradiol, Estriol and Estrone",6,6,6,6,6,1,0,6
+Estramustine Phosphate,2,2,2,2,2,2,0,2
+Estriol,17,17,17,17,17,17,0,17
+Estrone,1,1,1,1,1,1,0,1
+Estropipate,2,2,2,2,2,2,0,2
+Estropipate with Progestogen,2,2,2,2,2,0,0,2
+Etacrynic Acid,6,6,6,6,6,6,0,6
+Etafedrine Hydrochloride,1,1,1,1,1,0,0,1
+Etamivan,4,4,4,4,4,4,0,4
+Etamsylate,11,11,11,11,11,11,0,11
+Etanercept,21,21,21,21,21,21,0,21
+Ethambutol Hydrochloride,41,41,41,41,41,33,0,41
+Ethanol,2,2,2,2,2,2,0,2
+Ethanol (Top),2,2,2,2,2,1,0,2
+Ethanolamine Oleate,3,3,3,3,3,3,0,3
+"Ether,Anaesthetic",2,2,2,2,2,0,0,2
+Ethinylestradiol,33,33,33,33,33,33,0,33
+Ethinyloestradiol with Progestogen,2,2,2,2,2,0,0,2
+Ethionamide,2,2,2,2,2,2,0,2
+Ethosuximide,16,16,16,16,16,16,0,16
+Ethyl Chloride,4,4,4,4,4,4,0,4
+Ethyl Lactate,4,4,4,4,4,0,0,4
+Ethyloestranol,2,2,2,2,2,2,0,2
+Etidronate Disodium,8,8,8,8,8,7,0,8
+Etilefrine Hydrochloride,6,6,6,6,6,6,0,6
+Etodolac,15,15,15,15,15,15,0,15
+Etoglucid,3,3,3,3,3,2,0,3
+Etomidate,2,2,2,2,2,2,0,2
+Etonogestrel,3,3,3,3,3,3,0,3
+Etonogestrel/Ethinylestradiol,3,3,3,3,3,0,0,3
+Etoposide,14,14,14,14,14,14,0,14
+Etoricoxib,8,8,8,8,8,8,0,8
+Etravirine,6,6,6,6,6,6,0,6
+Etretinate,4,4,4,4,4,4,0,4
+Etynodiol Diacetate,2,2,2,2,2,2,0,2
+Euphorbia,1,1,1,1,1,0,0,1
+European Viper Venom Antiserum,2,2,2,2,0,2,0,2
+Everolimus,23,23,23,23,23,23,0,23
+Evolocumab,4,4,4,4,4,4,0,4
+Exemestane,2,2,2,2,2,2,0,2
+Exenatide,8,8,8,8,8,8,0,8
+Ezetimibe,2,2,2,2,2,2,0,2
+Factor VIII Inhibitor Bypassing Fraction,2,2,2,2,2,2,0,2
+Factor VIIa (Recombinant),22,22,22,22,22,22,0,22
+Factor XI Concentrate,1,1,1,1,1,0,0,1
+Famciclovir,9,9,9,9,9,9,0,9
+Famotidine,10,10,10,10,10,10,0,10
+Fampridine,3,3,3,3,3,3,0,3
+Febuxostat,4,4,4,4,4,4,0,4
+Felbamate,7,7,7,7,7,7,0,7
+Felbinac,5,5,5,5,5,5,0,5
+Felodipine,42,42,42,42,42,42,0,42
+Fenbufen,14,14,14,14,14,14,0,14
+Fenclofenac,2,2,2,2,2,2,0,2
+Fenfluramine Hydrochloride,7,7,7,7,7,7,0,7
+Fenofibrate,13,13,13,13,13,13,0,13
+Fenofibrate/Simvastatin,4,4,4,4,4,4,0,4
+Fenoprofen,8,8,8,8,8,8,0,8
+Fenoterol Hydrobromide,20,20,20,20,20,16,0,20
+Fentanyl,164,164,164,164,164,163,0,164
+Fentanyl Citrate,6,6,6,6,6,6,0,6
+Fenticonazole Nitrate,10,10,10,10,10,10,0,10
+Feprazone,1,1,1,1,1,1,0,1
+Ferric Ammonium Citrate,1,1,1,1,1,0,0,1
+Ferric Chloride,3,3,3,3,3,0,0,3
+Ferric Maltol,2,2,2,2,2,1,0,2
+Ferrous Calcium Citrate,2,2,2,2,2,2,0,2
+Ferrous Fumarate,24,24,24,24,24,22,0,24
+Ferrous Gluconate,12,12,12,12,12,11,0,12
+Ferrous Glycine Sulfate,8,8,8,8,8,5,0,8
+Ferrous Succinate,4,4,4,4,4,2,0,4
+Ferrous Sulfate,75,75,75,75,75,66,0,75
+Ferumoxytol,2,2,2,2,2,2,0,2
+Fesoterodine Fumarate,4,4,4,4,4,4,0,4
+Fexofenadine Hydrochloride,9,9,9,9,9,9,0,9
+Fidaxomicin,2,2,2,2,2,2,0,2
+Fig,1,1,1,1,1,0,0,1
+Filgrastim,32,32,32,32,32,32,0,32
+Finasteride,9,9,9,9,9,9,0,9
+Fingolimod,4,4,4,4,4,4,0,4
+Flavoxate Hydrochloride,8,8,8,8,8,8,0,8
+Flecainide Acetate,48,48,48,48,48,47,0,48
+Flosequinan,5,5,5,5,5,5,0,5
+Floxuridine,3,3,3,3,3,2,0,3
+Flubiprofen,2,2,2,2,2,2,0,2
+Fluclorolone Acetonide,4,4,4,4,4,4,0,4
+Flucloxacillin Magnesium,12,12,12,12,12,12,0,12
+Flucloxacillin Sodium,45,45,45,45,45,43,0,45
+Fluconazole,30,30,30,30,30,30,0,30
+Flucytosine,3,3,3,3,3,3,0,3
+Fludarabine Phosphate,6,6,6,6,6,6,0,6
+Fludrocortisone Acetate,63,63,63,63,63,60,0,63
+Fludroxycortide,20,20,20,20,20,17,0,20
+Flufenamic Acid,2,2,2,2,2,2,0,2
+Fluindione,2,2,2,2,2,2,0,2
+Flumazenil,2,2,2,2,2,2,0,2
+Flumetasone Pivalate,2,2,2,2,2,1,0,2
+Flunarizine Dihydroch,11,11,11,11,9,10,0,11
+Flunisolide,5,5,5,5,5,5,0,5
+Flunitrazepam,2,2,2,2,2,2,0,2
+Fluocinolone Acetonide,35,35,35,35,35,26,0,35
+Fluocinonide,14,14,14,14,14,5,0,14
+Fluocortolone,14,14,14,14,14,0,0,14
+Fluorescein Sodium,13,13,13,13,13,11,0,13
+Fluorometholone,9,9,9,9,9,7,0,9
+Fluorouracil,2,2,2,2,2,1,0,2
+Fluorouracil (Antimetabolites),36,36,36,36,36,33,0,36
+Fluorouracil (Sunscreen),4,4,4,4,4,3,0,4
+Fluorouracil/Glucose,2,2,2,2,2,2,0,2
+Fluoxetine Hydrochloride,25,25,25,25,25,25,0,25
+Fluoxymesterone,4,4,4,4,4,4,0,4
+Flupentixol Decanoate,23,23,23,23,23,23,0,23
+Flupentixol Hydrochloride,12,12,12,12,12,12,0,12
+Fluphenazine Decanoate,20,20,20,20,20,20,0,20
+Fluphenazine Enantate,2,2,2,2,2,2,0,2
+Fluphenazine Hydrochloride,8,8,8,8,8,8,0,8
+Fluprednidene Acetate,2,2,2,2,2,2,0,2
+Flurazepam Hydrochloride,6,6,6,6,6,6,0,6
+Flurbiprofen,12,12,12,12,12,12,0,12
+Flurbiprofen Sodium,5,5,5,5,5,5,0,5
+Fluspirilene,10,10,10,10,10,10,0,10
+Flutamide,3,3,3,3,3,3,0,3
+Fluticasone Furoate,2,2,2,2,2,2,0,2
+Fluticasone Furoate (Inh),5,5,5,5,5,5,0,5
+Fluticasone Prop/Azelastine HCl (Nsl),2,2,2,2,2,2,0,2
+Fluticasone Propionate (Inh),93,93,93,93,93,90,0,93
+Fluticasone Propionate (Nsl),15,15,15,15,15,15,0,15
+Fluticasone Propionate (Top),4,4,4,4,4,4,0,4
+Flutrimazole,2,2,2,2,2,2,0,2
+Fluvastatin Sodium,14,14,14,14,14,14,0,14
+Fluvoxamine Maleate,8,8,8,8,8,8,0,8
+Folic Acid,131,131,131,131,131,129,0,131
+Folinic Acid,3,3,3,3,3,3,0,3
+Follitropin Alfa,40,40,40,40,40,40,0,40
+Follitropin Alfa & Lutropin Alfa,2,2,2,2,2,2,0,2
+Follitropin Beta,20,20,20,20,20,20,0,20
+Follitropin Delta,12,12,12,12,12,12,0,12
+Fondaparinux Sodium,10,10,10,10,10,10,0,10
+Formaldehyde,36,36,36,36,36,34,0,36
+Formestane,2,2,2,2,2,2,0,2
+Formoterol Fumarate,10,10,10,10,9,10,0,10
+Fosamprenavir Calcium,4,4,4,4,4,4,0,4
+Fosaprepitant,4,4,4,4,4,4,0,4
+Foscarnet Sodium,6,6,6,6,6,6,0,6
+Foscarnet Sodium With Glucose,1,1,1,1,1,1,0,1
+Foscarnet Sodium With Sodium Chloride,2,2,2,2,2,2,0,2
+Fosfestrol Tetrasodium,8,8,8,8,8,8,0,8
+Fosfomycin Calcium,2,2,2,2,2,2,0,2
+Fosfomycin Trometamol,9,9,9,9,9,9,0,9
+Fosinopril Sodium,7,7,7,7,7,7,0,7
+Fosphenytoin Sodium,2,2,2,2,2,2,0,2
+Framycetin Sulfate,21,21,21,21,21,18,0,21
+Framycetin Sulphate,2,2,2,2,2,0,0,2
+Freeze Sprays & Gels,11,11,11,11,11,7,0,11
+Fremanezumab,2,2,2,2,2,2,0,2
+Frovatriptan,3,3,3,3,3,3,0,3
+Fructose,5,5,5,5,5,0,0,5
+Fuller's Earth,4,4,4,4,4,0,0,4
+Fulvestrant,2,2,2,2,2,2,0,2
+Fumaric Acid,1,1,1,1,1,1,0,1
+Furazolidone,4,4,4,4,4,4,0,4
+Furosemide,137,137,137,137,137,135,0,137
+Furosemide/Potassium,6,6,6,6,6,3,0,6
+Fursultiamine,2,2,2,2,2,2,0,2
+Fusafungine,4,4,4,4,4,4,0,4
+Fusidic Acid,11,11,11,11,10,11,0,11
+G/F /W/F /L/P Cooking Aids,2,2,2,2,2,0,0,2
+Gabapentin,39,39,39,39,39,37,0,39
+Gabapentin (Neuropathic Pain),2,2,2,2,2,2,0,2
+Galantamine,49,49,49,49,49,49,0,49
+Galcanezumab,2,2,2,2,2,2,0,2
+Gallamine Triethiodide,2,2,2,2,2,2,0,2
+Galsulfase,2,2,2,2,2,2,0,2
+Gamma Benzene Hexachloride,1,1,1,1,1,0,0,1
+Gamolenic Acid,51,51,51,51,51,43,0,51
+Ganciclovir,9,9,9,9,9,9,0,9
+Ganciclovir With Sodium Chloride,17,17,17,17,17,17,0,17
+Ganirelix,2,2,2,2,2,2,0,2
+Gatifloxacin,1,1,1,1,1,1,0,1
+Gefitinib,2,2,2,2,2,2,0,2
+Gelatin,15,15,15,15,15,15,0,15
+Gemcitabine,16,16,16,16,16,16,0,16
+Gemeprost,3,3,3,3,3,3,0,3
+Gemfibrozil,5,5,5,5,5,5,0,5
+Gentamicin Sulfate,72,72,72,72,71,67,0,72
+Gentamicin Sulfate With Sodium Chloride,2,2,2,2,2,2,0,2
+Gentamicin Sulphate,1,1,1,1,1,1,0,1
+Gentian,5,5,5,5,5,0,0,5
+Gestonorone Hexanoate,3,3,3,3,3,3,0,3
+Gestrinone,2,2,2,2,2,2,0,2
+Ginger,12,12,12,12,12,10,0,12
+Glacial Acetic Acid,4,4,4,4,4,1,0,4
+Glatiramer Acetate,8,8,8,8,8,8,0,8
+Glecaprevir/Pibrentasvir,2,2,2,2,2,2,0,2
+Glibenclamide,41,41,41,41,41,40,0,41
+Glibornuride,2,2,2,2,2,2,0,2
+Gliclazide,41,41,41,41,41,40,0,41
+Glimepiride,16,16,16,16,16,16,0,16
+Glipizide,5,5,5,5,5,5,0,5
+Gliquidone,2,2,2,2,2,2,0,2
+Glucagon,10,10,10,10,10,9,0,10
+Glucosamine Hydrochloride (Rheumatic),58,58,58,58,58,53,0,58
+Glucosamine Sulf (Rheumatic),3,3,3,3,3,3,0,3
+Glucose,314,314,314,314,229,249,0,314
+Glucose & Ketone Blood Testing Reagents,1,1,1,1,1,0,0,1
+Glucose Blood Testing Reagents,116,116,116,116,116,0,0,116
+Glucose/Glycerol,13,13,13,13,13,13,0,13
+Glutamic Acid Hydrochloride,3,3,3,3,3,2,0,3
+Glutaraldehyde,16,16,16,16,16,14,0,16
+Gluten Free Biscuits,117,117,117,117,117,0,0,117
+Gluten Free Bread,130,130,130,130,130,0,0,130
+Gluten Free Cakes/Pastries,96,96,96,96,96,0,0,96
+Gluten Free Cereals,11,11,11,11,11,0,0,11
+Gluten Free Cooking Aids,21,21,21,21,21,1,0,21
+Gluten Free Grains/Flours,34,34,34,34,34,0,0,34
+Gluten Free Mixes,50,50,50,50,50,3,0,50
+Gluten Free Pasta,45,45,45,45,45,0,0,45
+Gluten Free/Low Protein Biscuits,41,41,41,41,41,0,0,41
+Gluten Free/Low Protein Bread,27,27,27,27,27,0,0,27
+Gluten Free/Low Protein Cakes/Pastries,7,7,7,7,7,0,0,7
+Gluten Free/Low Protein Cereals,7,7,7,7,7,2,0,7
+Gluten Free/Low Protein Cooking Aids,11,11,11,11,11,0,0,11
+Gluten Free/Low Protein Grains/Flours,20,20,20,20,20,3,0,20
+Gluten Free/Low Protein Meals,8,8,8,8,8,0,0,8
+Gluten Free/Low Protein Mixes,18,18,18,18,18,1,0,18
+Gluten Free/Low Protein Pasta,68,68,68,68,68,0,0,68
+Gluten Free/Low Protein Sweet/Savoury,3,3,3,3,3,0,0,3
+Gluten Free/Wheat Free Biscuits,175,175,175,175,175,0,0,175
+Gluten Free/Wheat Free Bread,148,148,148,148,148,0,0,148
+Gluten Free/Wheat Free Cakes/Pastries,98,98,98,98,98,0,0,98
+Gluten Free/Wheat Free Cereals,31,31,31,31,31,0,0,31
+Gluten Free/Wheat Free Cooking Aids,24,24,24,24,24,0,0,24
+Gluten Free/Wheat Free Grains/Flours,44,44,44,44,44,0,0,44
+Gluten Free/Wheat Free Meals,17,17,17,17,17,3,0,17
+Gluten Free/Wheat Free Mixes,92,92,92,92,92,0,0,92
+Gluten Free/Wheat Free Pasta,175,175,175,175,175,0,0,175
+Gluten Free/Wheat Free Snacks,4,4,4,4,4,0,0,4
+Gluten Free/Wheat Free Sweet/Savoury,7,7,7,7,7,0,0,7
+Gluten Free/Wheat Free/Low Protein Bisc,5,5,5,5,5,0,0,5
+Gluten Free/Wheat Free/Low Protein Mixes,2,2,2,2,2,0,0,2
+Gluten Free/Wheat Free/Low Protein Pasta,3,3,3,3,3,0,0,3
+Glycerol,87,87,87,87,87,20,0,87
+Glyceryl Trinitrate,128,128,128,128,128,116,0,128
+Glycopyrronium Bromide,94,94,94,94,94,76,0,94
+Glymidine,4,4,4,4,4,4,0,4
+Golimumab,6,6,6,6,6,6,0,6
+Gonadorelin,13,13,13,13,13,13,0,13
+Gonadorelin Acetate,2,2,2,2,2,2,0,2
+Goserelin Acetate,5,5,5,5,5,5,0,5
+Granisetron,2,2,2,2,2,1,0,2
+Granisetron Hydrochloride,12,12,12,12,12,12,0,12
+Grepafloxacin Hydrochloride,4,4,4,4,4,4,0,4
+Gripe Mixtures,5,5,5,5,5,0,0,5
+Griseofulvin,84,84,84,84,84,83,0,84
+Guaiacol & Codeine,2,2,2,2,2,1,0,2
+Guaifenesin,75,75,75,75,74,42,0,75
+Guanethidine Monosulfate,31,31,31,31,31,17,0,31
+Guanfacine,8,8,8,8,8,8,0,8
+Guanfacine Hydrochloride,7,7,7,7,7,7,0,7
+Guanidine Hydrochloride,2,2,2,2,2,2,0,2
+Guar Gum,10,10,10,10,10,6,0,10
+Guselkumab (Psoriasis),4,4,4,4,4,4,0,4
+Haem Arginate,2,2,2,2,2,2,0,2
+"Haemoph Influenzae/Dip,Tet,Pert,Polio",2,2,2,2,2,0,0,2
+Haemophilus Influenzae B/Meningococcal C,2,2,2,2,2,1,0,2
+Haemophilus Influenzae Vaccine,8,8,8,8,8,8,0,8
+"Haemophilus Influenzae/Dip,Tet,Pert Vac",8,8,8,8,8,4,0,8
+Haemostatic Sprays,2,2,2,2,2,2,0,2
+Halcinonide,2,2,2,2,2,2,0,2
+Halibut Liver Oil,17,17,17,17,17,1,0,17
+Halofantrine Hydrochloride,2,2,2,2,2,2,0,2
+Halogenated Phenols + Phenol,2,2,2,2,2,0,0,2
+Haloperidol,77,77,77,77,77,76,0,77
+Haloperidol Decanoate,4,4,4,4,4,4,0,4
+Haloprogin,2,2,2,2,2,2,0,2
+Halothane,3,3,3,3,2,0,0,3
+Halquinol,6,6,6,6,6,5,0,6
+Hamamalis,6,6,6,6,6,1,0,6
+Hamamelis,16,16,16,16,16,8,0,16
+Heat Treated Human Factor IX,2,2,2,2,2,2,0,2
+Helicobacter Pylori Eradication Therapy,4,4,4,4,4,0,0,4
+Heparin Calcium,21,21,21,21,19,17,0,21
+Heparin Flushes,15,15,15,15,15,14,0,15
+Heparin Sodium,77,77,77,77,76,77,0,77
+Heparin Sodium (Eye),1,1,1,1,1,0,0,1
+Heparinoid,18,18,18,18,18,8,0,18
+Hepatitis A,23,23,23,23,23,23,0,23
+Hepatitis A/Hepatitis B,7,7,7,7,7,7,0,7
+Hepatitis A/Typhoid Vaccine,4,4,4,4,4,4,0,4
+Hepatitis B,27,27,27,27,27,27,0,27
+Hepatitis B Immunoglobulin,4,4,4,4,4,4,0,4
+Hetastarch,2,2,2,2,2,2,0,2
+Hexachlorophene,6,6,6,6,6,1,0,6
+Hexamidine,1,1,1,1,1,1,0,1
+Hexetidine,4,4,4,4,4,3,0,4
+Hexylresorcinol,19,19,19,19,19,4,0,19
+Hexylresorcinol & Benzalkonium Chloride,5,5,5,5,5,1,0,5
+Higher Folic Acid Content,5,5,5,5,5,2,0,5
+Histamine Dihydrocloride,2,2,2,2,2,2,0,2
+Histrelin Acetate,2,2,2,2,2,2,0,2
+Homatropine Hydrobromide,11,11,11,11,11,11,0,11
+"HumPapvirus(T-6,11,16,18,31,33,45,52,58)",2,2,2,2,2,2,0,2
+Human Fibrinogen with Human Thrombin,2,2,2,2,2,2,0,2
+"Human Papillomavirus (Type 16,18)",2,2,2,2,2,2,0,2
+"Human Papillomavirus (Type 6,11,16,18)",2,2,2,2,2,2,0,2
+Hyaluronic Acid Sodium,2,2,2,2,2,2,0,2
+Hyaluronidase,9,9,9,9,9,9,0,9
+Hydralazine Hydrochloride,58,58,58,58,58,56,0,58
+Hydrargaphen,6,6,6,6,6,5,0,6
+Hydrazine Sulfate,1,1,1,1,1,1,0,1
+Hydrochlorothiazide,29,29,29,29,29,28,0,29
+Hydrochlorothiazide/Potassium,4,4,4,4,4,2,0,4
+Hydrocort Sod Phos,2,2,2,2,2,2,0,2
+Hydrocortisone,328,328,328,328,325,251,0,328
+Hydrocortisone (Sodium Succinate),7,7,7,7,7,7,0,7
+Hydrocortisone Acetate,86,86,86,86,86,60,0,86
+Hydrocortisone Butyrate,19,19,19,19,19,15,0,19
+Hydrocortisone Cipionate,4,4,4,4,4,4,0,4
+Hydrocortisone Sodium Phosphate,5,5,5,5,5,5,0,5
+Hydrocortisone Sodium Succinate,14,14,14,14,14,13,0,14
+Hydroflumethiazide,3,3,3,3,3,3,0,3
+Hydrogen Peroxide,43,43,43,43,43,40,0,43
+Hydromorphone Hydrochloride,26,26,26,26,26,26,0,26
+Hydrotalcite,7,7,7,7,7,7,0,7
+Hydroxocobalamin,18,18,18,18,18,16,0,18
+Hydroxyapatite,9,9,9,9,9,8,0,9
+Hydroxycarbamide,12,12,12,12,12,12,0,12
+Hydroxychloroquine Sulfate,38,38,38,38,38,37,0,38
+Hydroxyethylrutosides,2,2,2,2,2,2,0,2
+Hydroxyprogesterone Caproate,4,4,4,4,4,4,0,4
+Hydroxyquinoline,4,4,4,4,4,4,0,4
+Hydroxyzine Embonate,2,2,2,2,2,2,0,2
+Hydroxyzine Hydrochloride,18,18,18,18,18,18,0,18
+Hyetellose,5,5,5,5,5,3,0,5
+Hyoscine,9,9,9,9,9,9,0,9
+Hyoscine Butylbromide,21,21,21,21,21,21,0,21
+Hyoscine Hydrobromide,63,63,63,63,63,57,0,63
+Hyoscyamine Sulfate,6,6,6,6,6,6,0,6
+Hypromellose,67,67,67,67,67,63,0,67
+Hypromellose With Phenylephrine,2,2,2,2,2,2,0,2
+Hyroxyamfetamine Hydrobromide,1,1,1,1,1,1,0,1
+INR Blood Testing Reagents,7,7,7,7,7,0,0,7
+Ibandronic Acid,14,14,14,14,14,14,0,14
+Ibrutinib,10,10,10,10,10,10,0,10
+Ibuprofen,258,258,258,258,258,238,0,258
+Ibuprofen Lysine,14,14,14,14,14,14,0,14
+Ibuprofen Sodium Dihydrate,8,8,8,8,8,8,0,8
+Ibuprofen/Pseudoephed HCl,5,5,5,5,5,3,0,5
+Icatibant Acetate,2,2,2,2,2,2,0,2
+Ichthammol,27,27,27,27,23,11,0,27
+Idarubicin Hydrochloride,12,12,12,12,12,12,0,12
+Idarucizumab,2,2,2,2,2,2,0,2
+Idebenone,4,4,4,4,4,4,0,4
+Idoxuridine,12,12,12,12,12,11,0,12
+Idoxuridine In Dimethyl Sulfoxide,9,9,9,9,9,6,0,9
+Ifenprodil Tartrate,1,1,1,1,1,1,0,1
+Ifosfamide,6,6,6,6,6,6,0,6
+Iloprost,8,8,8,8,8,8,0,8
+Imatinib Mesilate,9,9,9,9,9,9,0,9
+Imidapril Hydrochloride,6,6,6,6,6,6,0,6
+Imiglucerase,4,4,4,4,4,4,0,4
+Imipenem With Cilastatin,8,8,8,8,8,8,0,8
+Imipramine Hydrochloride,23,23,23,23,23,23,0,23
+Imiquimod,5,5,5,5,5,5,0,5
+Indacaterol Maleate,4,4,4,4,4,4,0,4
+Indacaterol/Glycopyrronium,2,2,2,2,2,0,0,2
+Indapamide,22,22,22,22,22,22,0,22
+Indinavir,8,8,8,8,8,8,0,8
+Indometacin,77,77,77,77,77,77,0,77
+Indoramin,7,7,7,7,7,7,0,7
+Infliximab,6,6,6,6,6,6,0,6
+Influenza,46,46,46,46,46,45,0,46
+"Influenza H1N1(Split viron,inact,adjuv)",2,2,2,2,2,0,0,2
+"Influenza H1N1(Whole viron,vero,inact)",2,2,2,2,2,0,0,2
+Ingenol Mebutate,4,4,4,4,4,4,0,4
+Inosine Pranobex,2,2,2,2,2,2,0,2
+Inotuzumab,2,2,2,2,2,2,0,2
+Ins Degludec/Liraglutide,2,2,2,2,1,2,0,2
+Insulin Aspart,13,13,13,13,13,13,0,13
+Insulin Degludec,6,6,6,6,3,6,0,6
+Insulin Detemir,5,5,5,5,4,5,0,5
+Insulin Glargine,16,16,16,16,7,16,0,16
+Insulin Glargine/Lixisenatide,4,4,4,4,4,4,0,4
+Insulin Glulisine,8,8,8,8,2,8,0,8
+Insulin Human,10,10,10,10,8,10,0,10
+Insulin Human Inhaled,4,4,4,4,4,4,0,4
+Insulin Lispro,15,15,15,15,11,14,0,15
+Insulin Zinc Suspension,16,16,16,16,6,15,0,16
+Insulin Zinc Suspension (Amorphous),2,2,2,2,1,2,0,2
+Insulin Zinc Suspension (Crystalline),6,6,6,6,3,6,0,6
+Interferon Alpha,69,69,69,69,69,65,0,69
+Interferon Beta,32,32,32,32,31,28,0,32
+Interferon Gamma,2,2,2,2,2,2,0,2
+Intravenous Nutrition Supplements,19,19,19,19,19,15,0,19
+Iodine,17,17,17,17,17,1,0,17
+Iodine & Methyl Salicylate,3,3,3,3,3,1,0,3
+Iodine Compounds,40,40,40,40,40,36,0,40
+Iodoform,1,1,1,1,1,0,0,1
+Ipecacuanha,13,13,13,13,13,3,0,13
+Ipilimumab,4,4,4,4,4,4,0,4
+Ipratropium Bromide,36,36,36,36,34,35,0,36
+Iprindole,4,4,4,4,4,4,0,4
+Iproniazid,4,4,4,4,4,4,0,4
+Irbesartan,25,25,25,25,25,25,0,25
+Irbesartan with Diuretic,6,6,6,6,6,6,0,6
+Irinotecan Hydrochloride,9,9,9,9,9,9,0,9
+Iron & Folic Acid,31,31,31,31,31,14,0,31
+Iron Carboxymaltose,6,6,6,6,6,5,0,6
+Iron Dextran,12,12,12,12,12,12,0,12
+Iron Phosphate,2,2,2,2,2,0,0,2
+Iron Polymaltose,2,2,2,2,2,2,0,2
+Iron Sorbitol,2,2,2,2,2,2,0,2
+Iron Sucrose,6,6,6,6,6,6,0,6
+Isavuconazole,2,2,2,2,2,2,0,2
+Isoaminile Citrate,2,2,2,2,2,1,0,2
+Isocarboxazid,4,4,4,4,4,3,0,4
+Isoconazole Nit & Corticosteroid Prep's,1,1,1,1,1,0,0,1
+Isoconazole Nitrate,4,4,4,4,4,4,0,4
+Isoetarine Hydrochloride,2,2,2,2,2,2,0,2
+Isoetharine Mesylate,1,1,1,1,1,0,0,1
+Isoflurane,4,4,4,4,4,0,0,4
+Isometheptene Mucate,2,2,2,2,2,2,0,2
+Isoniazid,83,83,83,83,83,82,0,83
+Isophane Insulin,53,53,53,53,27,43,0,53
+Isoprenaline Hydrochloride,24,24,24,24,24,12,0,24
+Isoprenaline Sulfate,17,17,17,17,17,15,0,17
+Isopropyl Alcohol,16,16,16,16,12,12,0,16
+Isosorbide,4,4,4,4,4,3,0,4
+Isosorbide Dinitrate,64,64,64,64,64,63,0,64
+Isosorbide Mononitrate,117,117,117,117,117,114,0,117
+Isosorbide Mononitrate with Aspirin,4,4,4,4,4,2,0,4
+Isotretinoin,10,10,10,10,10,10,0,10
+Isoxsuprine Hydrochloride,7,7,7,7,7,7,0,7
+Ispaghula Husk,47,47,47,47,47,37,0,47
+Isradipine,2,2,2,2,2,2,0,2
+Itraconazole,8,8,8,8,8,7,0,8
+Ivabradine,5,5,5,5,5,5,0,5
+Ivacaftor,6,6,6,6,6,6,0,6
+Ivermectin,8,8,8,8,8,8,0,8
+Ixazomib,6,6,6,6,6,6,0,6
+Ixekizumab,4,4,4,4,4,4,0,4
+Japanese Encephalitis Vaccine,1,1,1,1,1,0,0,1
+Japanese Encephalitis Vaccine (Imported),6,6,6,6,6,6,0,6
+"Japanese Encephalitis Vaccine (inact,ad)",2,2,2,2,2,2,0,2
+Kallidinogenase,2,2,2,2,2,2,0,2
+Kanamycin,5,5,5,5,5,5,0,5
+Kaolin Heavy,4,4,4,4,4,0,0,4
+Kaolin Light,19,19,19,19,19,6,0,19
+Ketamine,14,14,14,14,14,14,0,14
+Ketamine Hydrochloride,17,17,17,17,17,16,0,17
+Ketanserin,6,6,6,6,6,6,0,6
+Ketazolam,2,2,2,2,2,2,0,2
+Ketoconazole,26,26,26,26,26,26,0,26
+Ketone Blood Testing Reagents,9,9,9,9,9,0,0,9
+Ketoprofen,52,52,52,52,52,51,0,52
+Ketorolac Trometamol,8,8,8,8,8,8,0,8
+Ketotifen Fumarate,12,12,12,12,12,12,0,12
+L-alanyl-l-gutamine,4,4,4,4,4,4,0,4
+Labetalol Hydrochloride,25,25,25,25,25,25,0,25
+Lachesine Chloride,2,2,2,2,2,2,0,2
+Lacidipine,8,8,8,8,8,8,0,8
+Lacosamide,15,15,15,15,15,15,0,15
+Lactic Acid,9,9,9,9,9,6,0,9
+Lactitol,3,3,3,3,3,3,0,3
+Lactobacillus Acidophilus,2,2,2,2,2,2,0,2
+Lactulose,18,18,18,18,18,10,0,18
+Lamivudine,10,10,10,10,10,10,0,10
+Lamivudine & Zidovudine,2,2,2,2,2,2,0,2
+Lamivudine/Tenofovir Disop/Doravirine,2,2,2,2,2,1,0,2
+Lamotrigine,62,62,62,62,62,61,0,62
+Lanatoside C,4,4,4,4,4,4,0,4
+Lanreotide,13,13,13,13,13,13,0,13
+Lansoprazole,35,35,35,35,35,35,0,35
+Lanthanum Carbonate,10,10,10,10,10,10,0,10
+Lapatinib,2,2,2,2,2,2,0,2
+Laronidase,2,2,2,2,2,2,0,2
+Latamoxef Disodium,6,6,6,6,6,6,0,6
+Latanoprost,5,5,5,5,5,5,0,5
+Latanoprost & Timolol,5,5,5,5,5,5,0,5
+Laureth 9,5,5,5,5,5,5,0,5
+Lead,9,9,9,9,9,0,0,9
+Leflunomide,7,7,7,7,7,7,0,7
+Lenalidomide,14,14,14,14,14,14,0,14
+Lenograstim,10,10,10,10,10,10,0,10
+Lenvatinib,6,6,6,6,6,6,0,6
+Lepirudin,2,2,2,2,2,2,0,2
+Lercanidipine Hydrochloride,4,4,4,4,4,4,0,4
+Letermovir,2,2,2,2,2,2,0,2
+Letrozole,2,2,2,2,2,2,0,2
+Leuprorelin Acetate,11,11,11,11,9,11,0,11
+Levacetylmethadol Hydrochloride,2,2,2,2,2,2,0,2
+Levamisole Hydrochloride,12,12,12,12,12,12,0,12
+Levetiracetam,37,37,37,37,37,37,0,37
+Levobunolol Hydrochloride,4,4,4,4,4,4,0,4
+Levobupivacaine Hydrochloride,14,14,14,14,14,14,0,14
+Levocabastine,6,6,6,6,6,6,0,6
+Levocarnitine,21,21,21,21,21,21,0,21
+Levocetirizine,4,4,4,4,4,4,0,4
+Levodopa,16,16,16,16,16,15,0,16
+Levodopa/Carbidopa/Entacapone,28,28,28,28,28,28,0,28
+Levofloxacin,19,19,19,19,19,19,0,19
+Levofolinic Acid,2,2,2,2,2,2,0,2
+Levomepromazine Hydrochloride,5,5,5,5,5,5,0,5
+Levomepromazine Maleate,26,26,26,26,26,26,0,26
+Levomilnacipran,4,4,4,4,4,4,0,4
+Levonorgestrel,25,25,25,25,25,24,0,25
+Levorphanol Tartrate,6,6,6,6,6,6,0,6
+Levothyroxine Sodium,193,193,193,193,193,192,0,193
+Levothyroxine Sodium & Liothyronine,29,29,29,29,29,29,0,29
+Levothyroxine Sodium & Potassium Iodide,2,2,2,2,2,1,0,2
+Lidocaine,23,23,23,23,23,19,0,23
+Lidocaine & Tetracaine,4,4,4,4,4,4,0,4
+Lidocaine Hydrochloride,294,294,294,294,291,232,0,294
+Lidocaine Hydrochloride Anhydrous,6,6,6,6,6,6,0,6
+Lidocaine/Cetylpyridinium,2,2,2,2,1,1,0,2
+Lidocaine/Prilocaine (Prem Ejaculation),3,3,3,3,3,3,0,3
+Lidoflazine,2,2,2,2,2,2,0,2
+Light Liquid Paraffin,26,26,26,26,26,8,0,26
+Linaclotide,2,2,2,2,2,2,0,2
+Linagliptin,2,2,2,2,2,2,0,2
+Linagliptin/Metformin,4,4,4,4,4,4,0,4
+Lincomycin Hydrochloride,6,6,6,6,6,6,0,6
+Lindane,18,18,18,18,18,13,0,18
+Linezolid,8,8,8,8,8,8,0,8
+Liothyronine Sodium,33,33,33,33,33,32,0,33
+Lipegfilgrastim,2,2,2,2,2,2,0,2
+Liquefied Phenol,3,3,3,3,2,1,0,3
+Liquid Paraffin,38,38,38,38,38,9,0,38
+Liquorice,6,6,6,6,6,0,0,6
+Liquorice Deglycyrrhizinised,3,3,3,3,3,0,0,3
+Liraglutide,3,3,3,3,3,3,0,3
+Lisdexamfetamine Dimesylate,21,21,21,21,21,21,0,21
+Lisinopril,38,38,38,38,38,37,0,38
+Lisinopril with Diuretic,10,10,10,10,10,6,0,10
+Lisuride Maleate,2,2,2,2,2,2,0,2
+Lithium Carbonate,21,21,21,21,21,20,0,21
+Lithium Citrate,13,13,13,13,13,13,0,13
+Liver Extracts,3,3,3,3,3,1,0,3
+Lixisenatide,6,6,6,6,6,6,0,6
+Lodoxamide Trometamol,5,5,5,5,5,5,0,5
+Lofepramine Hydrochloride,15,15,15,15,15,14,0,15
+Lofexidine Hydrochloride,2,2,2,2,2,2,0,2
+Lomefloxacin,2,2,2,2,2,2,0,2
+Lomitapide,6,6,6,6,6,6,0,6
+Lomustine,8,8,8,8,8,8,0,8
+Loperamide Hydrochloride,49,49,49,49,49,45,0,49
+Loperamide Hydrochloride & Simeticone,5,5,5,5,5,1,0,5
+Lopinavir & Ritonavir,9,9,9,9,9,8,0,9
+Loprazolam Mesilate,2,2,2,2,2,2,0,2
+Loratadine,22,22,22,22,22,16,0,22
+Lorazepam,79,79,79,79,79,78,0,79
+Lorlatinib,4,4,4,4,4,4,0,4
+Lormetazepam,8,8,8,8,8,8,0,8
+Lornoxicam,6,6,6,6,6,6,0,6
+Losartan Potassium,18,18,18,18,18,18,0,18
+Losartan Potassium With Diuretic,7,7,7,7,7,6,0,7
+Loteprednol Etabonate,2,2,2,2,2,2,0,2
+Lovastatin,7,7,7,7,7,7,0,7
+Low Protein Biscuits,31,31,31,31,31,0,0,31
+Low Protein Bread,21,21,21,21,21,1,0,21
+Low Protein Cakes,5,5,5,5,5,0,0,5
+Low Protein Cereals,3,3,3,3,3,0,0,3
+Low Protein Cooking Aids,4,4,4,4,4,0,0,4
+Low Protein Desserts,8,8,8,8,8,4,0,8
+Low Protein Grains/Flours,5,5,5,5,5,0,0,5
+Low Protein Meals,15,15,15,15,15,0,0,15
+Low Protein Miscellaneous,2,2,2,2,2,0,0,2
+Low Protein Mixes,26,26,26,26,26,6,0,26
+Low Protein Pasta,12,12,12,12,12,0,0,12
+Low Protein Risotto,2,2,2,2,2,0,0,2
+Low Protein Snacks,6,6,6,6,6,0,0,6
+Low Sodium Bread,2,2,2,2,2,0,0,2
+Loxapine Succinate,6,6,6,6,6,6,0,6
+Lubiprostone,2,2,2,2,2,2,0,2
+Lumacaftor/Ivacaftor,8,8,8,8,8,8,0,8
+Lumiracoxib,4,4,4,4,4,4,0,4
+Lurasidone,6,6,6,6,6,6,0,6
+Lutropin Alfa,2,2,2,2,2,2,0,2
+Lymecycline,4,4,4,4,4,2,0,4
+Lypressin,2,2,2,2,2,2,0,2
+Lysine Aspirin,4,4,4,4,4,4,0,4
+Macitentan,2,2,2,2,2,2,0,2
+Macrogol,1,1,1,1,1,0,0,1
+Macrogol 3350,38,38,38,38,38,24,0,38
+Macrogol 4000,3,3,3,3,3,3,0,3
+Mafenide,4,4,4,4,4,1,0,4
+Mafenide Propionate,2,2,2,2,2,2,0,2
+Magaldrate,3,3,3,3,3,3,0,3
+Magenta,3,3,3,3,3,0,0,3
+Magnesium Aspartate,16,16,16,16,16,7,0,16
+Magnesium Carbonate,29,29,29,29,29,22,0,29
+Magnesium Chloride,31,31,31,31,31,30,0,31
+Magnesium Citrate,19,19,19,19,19,17,0,19
+Magnesium Gluconate,9,9,9,9,9,5,0,9
+Magnesium Glycerophosphate,115,115,115,115,115,109,0,115
+Magnesium Hydroxide,24,24,24,24,23,8,0,24
+Magnesium Lactate,4,4,4,4,4,4,0,4
+Magnesium Orotate,9,9,9,9,9,9,0,9
+Magnesium Oxide,58,58,58,58,58,55,0,58
+Magnesium Sulfate,45,45,45,45,45,38,0,45
+Magnesium Sulphate,2,2,2,2,2,0,0,2
+Magnesium Trisilicate,9,9,9,9,9,5,0,9
+Maize (Corn),7,7,7,7,7,0,0,7
+Malachite Green,1,1,1,1,1,1,0,1
+Malathion,10,10,10,10,10,10,0,10
+Malic Acid,2,2,2,2,2,1,0,2
+Malt Extract,15,15,15,15,13,0,0,15
+Maltodextrin,11,11,11,11,11,0,0,11
+Mandelic Acid,2,2,2,2,2,2,0,2
+Mannitol,19,19,19,19,19,19,0,19
+Maprotiline Hydrochloride,9,9,9,9,9,9,0,9
+Maraviroc,10,10,10,10,10,10,0,10
+Mazindol,6,6,6,6,6,6,0,6
+Measles,11,11,11,11,11,5,0,11
+Measles. Mumps & Rubella Vaccine,12,12,12,12,12,8,0,12
+Mebendazole,10,10,10,10,10,10,0,10
+Mebeverine HCl Compound Preparations,3,3,3,3,3,1,0,3
+Mebeverine Hydrochloride,16,16,16,16,16,16,0,16
+Mebhydrolin,7,7,7,7,7,7,0,7
+Mecasermin,2,2,2,2,2,2,0,2
+Mecillinam,4,4,4,4,4,4,0,4
+Meclozine Hydrochloride,6,6,6,6,6,4,0,6
+Mecobalamin,10,10,10,10,10,10,0,10
+Mecysteine Hydrochloride,2,2,2,2,2,2,0,2
+Medazepam,2,2,2,2,2,2,0,2
+Medicated Stockings,3,3,3,3,3,0,0,3
+Medigoxin,2,2,2,2,2,2,0,2
+Medrogestone,2,2,2,2,2,2,0,2
+Medroxyprogesterone Acetate,49,49,49,49,49,49,0,49
+Mefenamic Acid,23,23,23,23,23,22,0,23
+Mefloquine Hydrochloride,2,2,2,2,2,2,0,2
+Mefruside,2,2,2,2,2,2,0,2
+Megestrol Acetate,14,14,14,14,14,14,0,14
+Melatonin,117,117,117,117,117,114,0,117
+Meloxicam,15,15,15,15,15,15,0,15
+Melperone Hydrochloride,1,1,1,1,1,1,0,1
+Melphalan,8,8,8,8,8,8,0,8
+Memantine Hydrochloride,25,25,25,25,25,20,0,25
+Menadiol Sodium Phosphate,18,18,18,18,18,18,0,18
+Meningococcal A + C + W135 + Y Vaccine,5,5,5,5,5,3,0,5
+Meningococcal A + C Vaccine,5,5,5,5,5,2,0,5
+Meningococcal B Vaccine,3,3,3,3,3,3,0,3
+Meningococcal C Vaccine,7,7,7,7,7,7,0,7
+Menotrophin,25,25,25,25,25,24,0,25
+Menthol,82,82,82,82,82,25,0,82
+Mepacrine Hydrochloride,10,10,10,10,10,10,0,10
+Mepenzolate Bromide,4,4,4,4,4,4,0,4
+Mephenesin,1,1,1,1,1,0,0,1
+Mephenytoin,2,2,2,2,2,2,0,2
+Mepivacaine HCl,2,2,2,2,2,2,0,2
+Mepivacaine Hydrochloride,4,4,4,4,4,4,0,4
+Mepolizumab,6,6,6,6,6,6,0,6
+Meprobamate,8,8,8,8,8,7,0,8
+Meptazinol Hydrochloride,4,4,4,4,4,4,0,4
+Mepyramine Maleate,12,12,12,12,12,10,0,12
+Mequitazine,2,2,2,2,2,2,0,2
+Mercaptamine,8,8,8,8,8,8,0,8
+Mercaptamine Hydrochloride,8,8,8,8,8,8,0,8
+Mercaptopurine,21,21,21,21,21,21,0,21
+Mercuric Nitrate,3,3,3,3,3,0,0,3
+Mercuric Oxide,1,1,1,1,1,1,0,1
+Mercurochrome,6,6,6,6,6,6,0,6
+Meropenem,10,10,10,10,10,8,0,10
+Mesalazine (Systemic),61,61,61,61,61,59,0,61
+Mesalazine (Top),1,1,1,1,1,1,0,1
+Mesna,14,14,14,14,14,14,0,14
+Mesterolone,2,2,2,2,2,2,0,2
+Mestranol With Progestogen,2,2,2,2,2,0,0,2
+Mesuximide,4,4,4,4,4,4,0,4
+Metaraminol,3,3,3,3,3,3,0,3
+Metergoline,3,3,3,3,3,3,0,3
+Metformin Hydrochloride,60,60,60,60,60,59,0,60
+Metformin Hydrochloride/Pioglitazone,2,2,2,2,2,2,0,2
+Metformin Hydrochloride/Rosiglitazone,8,8,8,8,8,8,0,8
+Metformin Hydrochloride/Sitagliptin,2,2,2,2,2,2,0,2
+Metformin Hydrochloride/Vildagliptin,4,4,4,4,4,4,0,4
+Methacycline Hydrochloride,2,2,2,2,2,2,0,2
+Methadone Hydrochloride,120,120,120,120,120,118,0,120
+Methandienone,2,2,2,2,2,2,0,2
+Methaqualone & Diphenhydramine HCl,2,2,2,2,2,1,0,2
+Methazolamide,5,5,5,5,5,5,0,5
+Methenamine Hippurate,7,7,7,7,7,6,0,7
+Methenamine Mandelate,6,6,6,6,6,6,0,6
+Methicillin Sodium,5,5,5,5,5,4,0,5
+Methionine,5,5,5,5,5,5,0,5
+Methocarbamol,5,5,5,5,5,5,0,5
+Methohexital Sodium,10,10,10,10,10,10,0,10
+Methotrexate,272,272,272,272,272,271,0,272
+Methoxamine Hydrochloride,2,2,2,2,2,2,0,2
+Methoxsalen,31,31,31,31,31,29,0,31
+Methoxy Polyethylene Glycol-Epoetin Beta,18,18,18,18,18,18,0,18
+Methoxyphenamine Hydrochloride,2,2,2,2,2,2,0,2
+Methycellulose,6,6,6,6,1,5,0,6
+Methyclothiazide,2,2,2,2,2,2,0,2
+Methyl Nicotinate,6,6,6,6,6,1,0,6
+Methyl Prednisolone Acetate,2,2,2,2,2,0,0,2
+Methyl Salicylate,69,69,69,69,69,29,0,69
+Methyl Salicylate/Levomenthol,2,2,2,2,2,2,0,2
+Methyl-5-Aminolevulinate,2,2,2,2,2,2,0,2
+Methylamfetamine Hydrochloride,6,6,6,6,6,3,0,6
+Methylcellulose,45,45,45,45,34,37,0,45
+Methyldopa,28,28,28,28,28,27,0,28
+Methyldopa With Diuretic,2,2,2,2,2,1,0,2
+Methyldopate Hydrochloride,2,2,2,2,2,2,0,2
+Methylnaltrexone Bromide,2,2,2,2,2,2,0,2
+Methylpentynol,1,1,1,1,1,1,0,1
+Methylphenidate Hydrochloride,71,71,71,71,71,71,0,71
+Methylphenobarbital,6,6,6,6,6,6,0,6
+Methylprednisolone,9,9,9,9,9,9,0,9
+Methylprednisolone Aceponate,2,2,2,2,2,2,0,2
+Methylprednisolone Acetate,14,14,14,14,14,14,0,14
+Methylprednisolone Sodium Succinate,18,18,18,18,18,18,0,18
+Methyltestosterone,24,24,24,24,24,22,0,24
+Methylthioninium Chloride,6,6,6,6,6,6,0,6
+Methyprylon,2,2,2,2,2,2,0,2
+Methysergide,2,2,2,2,2,2,0,2
+Metipranolol,12,12,12,12,12,12,0,12
+Metirosine,2,2,2,2,2,2,0,2
+Metixene Hydrochloride,6,6,6,6,6,6,0,6
+Metoclopramide Hydrochloride,42,42,42,42,42,40,0,42
+Metolazone,19,19,19,19,19,19,0,19
+Metoprolol Fumarate,4,4,4,4,4,4,0,4
+Metoprolol Tartrate,52,52,52,52,52,51,0,52
+Metoprolol Tartrate With Diuretic,6,6,6,6,6,0,0,6
+Metreleptin,6,6,6,6,6,6,0,6
+Metrifonate,2,2,2,2,2,2,0,2
+Metronidazole,111,111,111,111,109,110,0,111
+Metyrapone,3,3,3,3,3,3,0,3
+Mexenone,8,8,8,8,8,0,0,8
+Mexiletine Hydrochloride,19,19,19,19,19,19,0,19
+Mezlocillin,9,9,9,9,9,8,0,9
+Mianserin Hydrochloride,13,13,13,13,13,13,0,13
+Mibefradil,4,4,4,4,4,4,0,4
+Micafungin,4,4,4,4,4,4,0,4
+Miconazole,13,13,13,13,13,13,0,13
+Miconazole Nitrate,32,32,32,32,32,26,0,32
+Midazolam Hydrochloride,34,34,34,34,34,34,0,34
+Midazolam Maleate,21,21,21,21,21,21,0,21
+Midodrine Hydrochloride,13,13,13,13,13,13,0,13
+Midostaurin,2,2,2,2,2,2,0,2
+Mifepristone,2,2,2,2,2,2,0,2
+Mifepristone/Misoprostol,2,2,2,2,2,1,0,2
+Migalastat,2,2,2,2,2,2,0,2
+Miglitol,1,1,1,1,1,1,0,1
+Miglustat,2,2,2,2,2,2,0,2
+Mild Silver Protein,4,4,4,4,4,0,0,4
+Milrinone Lactate,2,2,2,2,2,2,0,2
+Minaprine Hydrochloride,2,2,2,2,2,2,0,2
+Minocycline Hydrochloride,24,24,24,24,24,24,0,24
+Minoxidil,26,26,26,26,26,24,0,26
+Mirabegron,4,4,4,4,4,4,0,4
+Mirtazapine,22,22,22,22,22,22,0,22
+Misoprostol,2,2,2,2,2,2,0,2
+Misoprostol (Gynae),4,4,4,4,4,4,0,4
+Mitobronitol,2,2,2,2,2,2,0,2
+Mitomycin,9,9,9,9,9,9,0,9
+Mitotane,4,4,4,4,4,4,0,4
+Mitoxantrone,9,9,9,9,9,9,0,9
+Mivacurium Chloride,4,4,4,4,4,4,0,4
+Mixed Sulfonamides,4,4,4,4,4,1,0,4
+Mizolastine,3,3,3,3,3,3,0,3
+Moclobemide,8,8,8,8,8,8,0,8
+Modafinil,9,9,9,9,9,9,0,9
+Moexipril Hydrochloride,4,4,4,4,4,4,0,4
+Molgramostim,8,8,8,8,8,8,0,8
+Molsidomine,8,8,8,8,8,8,0,8
+Mometasone Furoate,20,20,20,20,20,16,0,20
+Monobasic Potassium Phosphate,15,15,15,15,15,14,0,15
+Monochloroacetic Acid,2,2,2,2,2,0,0,2
+Montelukast,8,8,8,8,8,8,0,8
+Moracizine Hydrochloride,6,6,6,6,6,6,0,6
+Morphine,1,1,1,1,1,0,0,1
+Morphine (Opium Tincture),3,3,3,3,3,2,0,3
+Morphine Anhydrous,4,4,4,4,4,2,0,4
+Morphine Hydrochloride,29,29,29,29,29,26,0,29
+Morphine Sulfate,233,233,233,233,233,230,0,233
+Morphine Tartrate & Cyclizine Tartrate,4,4,4,4,4,4,0,4
+Moxifloxacin,7,7,7,7,7,7,0,7
+Moxifloxacin Hydrochloride,4,4,4,4,4,4,0,4
+Moxisylyte Hydorchloride,9,9,9,9,9,9,0,9
+Moxisylyte Hydrochloride,4,4,4,4,4,4,0,4
+Moxonidine,14,14,14,14,14,14,0,14
+Mumps,4,4,4,4,4,2,0,4
+Mupirocin,6,6,6,6,6,6,0,6
+Mustard Oil Expressed,1,1,1,1,1,0,0,1
+Mycophenolate Mofetil,20,20,20,20,20,20,0,20
+Mycophenolic Sod,6,6,6,6,6,6,0,6
+Mydricaine,1,1,1,1,1,1,0,1
+N.T.B.C.,3,3,3,3,3,3,0,3
+Nabilone,12,12,12,12,12,12,0,12
+Nabumetone,7,7,7,7,7,7,0,7
+Nadolol,15,15,15,15,15,15,0,15
+Nadolol With Diuretic,4,4,4,4,4,2,0,4
+Nafarelin Acetate,4,4,4,4,4,4,0,4
+Naftazone,1,1,1,1,1,1,0,1
+Naftidrofuryl Oxalate,9,9,9,9,9,9,0,9
+Nalbuphine Hydrochloride,7,7,7,7,7,7,0,7
+Nalidixic Acid,11,11,11,11,11,11,0,11
+Nalmefene,2,2,2,2,2,2,0,2
+Naloxegol,4,4,4,4,4,4,0,4
+Naloxone Hydrochloride,20,20,20,20,20,20,0,20
+Naltrexone Hydrochloride,26,26,26,26,26,25,0,26
+Naltrexone/Bupropion,2,2,2,2,2,2,0,2
+Nandrolone Decanoate,10,10,10,10,10,10,0,10
+Nandrolone Phenylpropionate,6,6,6,6,6,6,0,6
+Naphazoline Hydrochloride,5,5,5,5,5,5,0,5
+Naphazoline Nitrate,4,4,4,4,4,2,0,4
+Naproxen,82,82,82,82,82,81,0,82
+Naproxen Sodium,2,2,2,2,2,2,0,2
+Naratriptan Hydrochloride,2,2,2,2,2,2,0,2
+Natalizumab,2,2,2,2,2,2,0,2
+Natamycin,11,11,11,11,11,9,0,11
+Nateglinide,6,6,6,6,6,6,0,6
+Nebivolol,5,5,5,5,5,5,0,5
+Nedocromil Sodium,15,15,15,15,15,15,0,15
+Nefazodone Hydrochloride,8,8,8,8,8,6,0,8
+Nefopam Hydrochloride,7,7,7,7,7,6,0,7
+Nelarabine,2,2,2,2,2,2,0,2
+Nelfinavir Mesilate,4,4,4,4,4,4,0,4
+Neomycin Sulfate,64,64,64,64,64,44,0,64
+Neostigmine Bromide,16,16,16,16,16,15,0,16
+Neostigmine Metilsulfate,7,7,7,7,7,7,0,7
+Nepafenac,4,4,4,4,4,4,0,4
+Netilmicin Sulfate,13,13,13,13,13,13,0,13
+Netupitant/Palonosetron Hcl,2,2,2,2,2,2,0,2
+Nevirapine,10,10,10,10,10,10,0,10
+Nicardipine Hydrochloride,10,10,10,10,10,10,0,10
+Nicergoline,4,4,4,4,4,4,0,4
+Niclosamide,2,2,2,2,2,2,0,2
+Nicofuranose,2,2,2,2,2,2,0,2
+Nicorandil,8,8,8,8,8,8,0,8
+Nicotinamide,33,33,33,33,33,33,0,33
+Nicotinates,26,26,26,26,26,6,0,26
+Nicotine,161,161,161,161,161,143,0,161
+Nicotine Bitartrate,9,9,9,9,9,9,0,9
+Nicotinic Acid,32,32,32,32,32,30,0,32
+Nicotinic Acid Derivatives,15,15,15,15,15,14,0,15
+Nicotinic Acid/Laropiprant,2,2,2,2,2,2,0,2
+Nifedipine,118,118,118,118,118,117,0,118
+Nifuroxazide,2,2,2,2,2,2,0,2
+Nifurtimox,1,1,1,1,1,1,0,1
+Nikethamide,2,2,2,2,2,2,0,2
+Nilotinib,6,6,6,6,6,6,0,6
+Nimesulide,2,2,2,2,2,2,0,2
+Nimodipine,5,5,5,5,5,5,0,5
+Nimorazole,2,2,2,2,2,2,0,2
+Nintedanib,6,6,6,6,6,6,0,6
+Niraparib,2,2,2,2,2,2,0,2
+Nisoldipine,7,7,7,7,7,7,0,7
+Nitazoxanide,2,2,2,2,2,2,0,2
+Nitisinone,10,10,10,10,10,10,0,10
+Nitrazepam,30,30,30,30,30,28,0,30
+Nitrendipine,4,4,4,4,4,4,0,4
+Nitrofurantoin,74,74,74,74,74,71,0,74
+Nitrofurazone,6,6,6,6,6,4,0,6
+Nitrophenol,2,2,2,2,2,1,0,2
+Nitrous Oxide,16,16,16,16,16,15,0,16
+Nivolumab,8,8,8,8,8,8,0,8
+Nizatidine,10,10,10,10,10,10,0,10
+Nomifensine Hydrogen Maleate,6,6,6,6,6,6,0,6
+Nonoxinol 10 11,3,3,3,3,3,0,0,3
+Nonoxinol 11,3,3,3,3,3,3,0,3
+Nonoxinol 9,22,22,22,22,22,19,0,22
+Noradrenaline Acid Tartrate,10,10,10,10,10,6,0,10
+Norethisterone,13,13,13,13,13,13,0,13
+Norethisterone Acetate,5,5,5,5,5,5,0,5
+Norethisterone Enantate,2,2,2,2,2,2,0,2
+Norfloxacin,5,5,5,5,5,5,0,5
+Norgestrel,3,3,3,3,3,3,0,3
+Normal Immunoglobulin (Gamma Globulin),213,213,213,213,213,213,0,213
+Nortriptyline,26,26,26,26,26,22,0,26
+Noscapine,1,1,1,1,1,1,0,1
+Novobiocin,2,2,2,2,2,2,0,2
+Noxytiolin,8,8,8,8,8,8,0,8
+Nystatin,66,66,66,66,66,33,0,66
+Obinutuzumab,2,2,2,2,2,2,0,2
+Octoxinol,2,2,2,2,2,1,0,2
+Octreotide Acetate,23,23,23,23,23,23,0,23
+Oestrogens Conjugated,14,14,14,14,14,12,0,14
+Oestrogens Conjugated with Bazedoxifene,2,2,2,2,2,2,0,2
+Oestrogens Conjugated with Progestogen,17,17,17,17,17,13,0,17
+Oestrogens Esterified With Androgen,2,2,2,2,2,1,0,2
+Ofloxacin,13,13,13,13,13,13,0,13
+Oils For The Ear,17,17,17,17,17,0,0,17
+Olanzapine,58,58,58,58,58,58,0,58
+Olanzapine Embonate,6,6,6,6,6,6,0,6
+Olaparib,6,6,6,6,6,6,0,6
+Olive Oil,1,1,1,1,1,0,0,1
+Olmesartan Medox/Amlodipine/Hydchloroth,10,10,10,10,10,5,0,10
+Olmesartan Medoxomil,7,7,7,7,7,7,0,7
+Olmesartan Medoxomil/Amlodipine,6,6,6,6,6,6,0,6
+Olmesartan Medoxomil/Hydrochlorothiazide,6,6,6,6,6,6,0,6
+Olodaterol,2,2,2,2,2,2,0,2
+Olopatadine,2,2,2,2,2,2,0,2
+Olsalazine Sodium,6,6,6,6,6,6,0,6
+Omalizumab,6,6,6,6,6,6,0,6
+Omega-3 Marine Triglycerides,7,7,7,7,7,2,0,7
+Omega-3-Acid Ethyl Esters,9,9,9,9,9,8,0,9
+Omeprazole,63,63,63,63,63,62,0,63
+Onapristone,1,1,1,1,1,1,0,1
+Ondansetron Hydrochloride,31,31,31,31,31,31,0,31
+Opicapone,2,2,2,2,2,2,0,2
+Opium & Morphine,13,13,13,13,13,0,0,13
+Oral Rehydration Salts,63,63,63,63,61,28,0,63
+Orciprenaline Sulfate,19,19,19,19,19,19,0,19
+Orlistat,8,8,8,8,8,8,0,8
+Ornidazole,2,2,2,2,2,2,0,2
+Orphenadrine Citrate,5,5,5,5,5,5,0,5
+Orphenadrine Hydrochloride,18,18,18,18,18,15,0,18
+Oseltamivir Phosphate,12,12,12,12,12,12,0,12
+Osimertinib,4,4,4,4,4,4,0,4
+Ospemifene,2,2,2,2,2,2,0,2
+Other Acid Preps,45,45,45,45,43,26,0,45
+Other Adjunct To Dispensing Preps,34,34,34,34,34,15,0,34
+Other Adsorbent & Bulk-Forming Preps,2,2,2,2,2,1,0,2
+Other Alcohol & Saline Preps,8,8,8,8,8,4,0,8
+"Other Alcohol, Wine & Spirit Preps",30,30,30,30,23,17,0,30
+Other Allergen Immunotherapy Preps,70,70,70,70,70,2,0,70
+Other Amino Acid&Nutritional Agent Preps,587,587,587,587,570,312,0,587
+Other Amoebicide Preps,1,1,1,1,1,0,0,1
+Other Anabolic Steroid Preps,1,1,1,1,1,1,0,1
+Other Andrenoceptor Agonist Preps,3,3,3,3,3,0,0,3
+Other Antacid & Simeticone Preps,6,6,6,6,6,0,0,6
+Other Anti-Inflammatory Preps,13,13,13,13,13,3,0,13
+Other Antidepressant Preps,4,4,4,4,4,2,0,4
+Other Antifibrinolytic & Haemostat Preps,2,2,2,2,2,1,0,2
+Other Antifungal Preps,7,7,7,7,7,1,0,7
+Other Antihistamine Preps,3,3,3,3,3,1,0,3
+Other Antihypertensive Preps,1,1,1,1,1,0,0,1
+Other Antimotility Preps,2,2,2,2,2,0,0,2
+Other Antiperspirant Preps,6,6,6,6,6,2,0,6
+Other Antispasm & Alt Gut Motility Preps,1,1,1,1,1,0,0,1
+Other Antithyroid Preps,1,1,1,1,1,1,0,1
+Other Antiviral Preps,14,14,14,14,14,1,0,14
+Other Anxiolytic Preps,2,2,2,2,1,0,0,2
+Other Aromatic Inhalation Preps,22,22,22,22,22,0,0,22
+Other Aural Preparations,12,12,12,12,12,4,0,12
+Other Barrier Preps,42,42,42,42,42,23,0,42
+Other Base/Dil/SuspAgent/StabiliserPreps,101,101,101,101,95,22,0,101
+Other Betacarotene Preps,73,73,73,73,73,43,0,73
+Other Bile Acid Sequestrant Preps,1,1,1,1,1,0,0,1
+Other Bisphosphonate & Other Preps,1,1,1,1,1,1,0,1
+Other Bitter & Tonic Preps,26,26,26,26,26,2,0,26
+Other Bladder/Urological Preps,3,3,3,3,3,2,0,3
+Other Breath Freshener&Disclosing Preps,22,22,22,22,22,4,0,22
+Other Bulk-Forming Laxative Preps,6,6,6,6,6,0,0,6
+Other Calcium Supplement Preps,140,140,140,140,139,48,0,140
+Other Camouflage Preps,105,105,105,105,100,10,0,105
+Other Cationic Surfactant & Soap Preps,3,3,3,3,3,0,0,3
+Other Chlorine & Iodine Preps,1,1,1,1,1,0,0,1
+Other Chromium Preps,57,57,57,57,57,36,0,57
+Other Chronic Bowel Disorder Preps,4,4,4,4,4,3,0,4
+"Other Colour, Flavour & Sweetening Preps",78,78,78,78,73,10,0,78
+Other Comp Vit/Mineral Formulation Preps,577,577,577,577,573,51,0,577
+Other Concentrated Water Preps,24,24,24,24,24,0,0,24
+Other Contact Lens Preps,116,116,116,116,113,6,0,116
+Other Cordial/Soft Drink Preps,71,71,71,71,69,2,0,71
+Other Cortico'oid&ImmunosuppressantPreps,2,2,2,2,2,2,0,2
+Other Corticosteroid Preps,4,4,4,4,4,0,0,4
+Other Cyanocobalamin (B12) Preps,38,38,38,38,38,9,0,38
+Other Denture Fixative Preps,13,13,13,13,13,0,0,13
+Other Desloughing Agents,8,8,8,8,8,0,0,8
+Other Diagnostic Agent Preps,10,10,10,10,10,5,0,10
+Other Diagnostic Skin Testing Preps,4,4,4,4,4,4,0,4
+Other Diagnostic Vaccine Preps,14,14,14,14,14,10,0,14
+Other Digestive Aid Preps,354,354,354,354,351,58,0,354
+"Other Disinfect,Preserv&SterilisingPreps",125,125,125,125,125,43,0,125
+Other Dolomite Preps,30,30,30,30,30,14,0,30
+Other Drugs To Treat Neuropathic Pain,2,2,2,2,2,2,0,2
+Other Dusting Powder Preps,20,20,20,20,20,0,0,20
+Other Eczema & Psoriasis Preps,8,8,8,8,8,1,0,8
+Other Eczema Preps,34,34,34,34,34,4,0,34
+Other Electrode/Ultrasonic Gel Preps,44,44,44,44,44,1,0,44
+Other Electrolyte & Water Preps,24,24,24,24,22,23,0,24
+Other Emollient Preps,349,349,349,349,348,37,0,349
+Other Enzyme Preps 0911020,226,226,226,226,226,66,0,226
+Other Enzyme Preps 1003010,1,1,1,1,1,1,0,1
+Other Erectile Dysfunction Preps,5,5,5,5,5,1,0,5
+Other Essence Preps,22,22,22,22,22,0,0,22
+Other Expectorant& Demulcent Cough Preps,84,84,84,84,73,5,0,84
+Other Extract Preps,80,80,80,80,80,0,0,80
+Other Eye Preps,1,1,1,1,1,0,0,1
+Other Eye Tear/Lubricant/AstringentPreps,20,20,20,20,20,2,0,20
+Other Faecal Softener Preps,1,1,1,1,1,0,0,1
+Other Fluoride Preps,6,6,6,6,6,0,0,6
+Other Food For Special Diet Preps,558,558,558,558,533,222,0,558
+Other Food Preps,305,305,305,305,300,19,0,305
+Other Gas Preps,35,35,35,35,34,31,0,35
+Other Gel & Colloid Dressing Preps,1,1,1,1,1,0,0,1
+Other Glandular Preps,81,81,81,81,81,25,0,81
+Other HIV Infection Preps,6,6,6,6,6,6,0,6
+Other Health Supplement Preps,2622,2622,2622,2622,2609,1043,0,2622
+Other Homeopathic Preps,2,2,2,0,0,0,0,2
+Other Household & Over The Counter Preps,29,29,29,29,22,1,0,29
+Other Hypnotic Preps,17,17,17,17,17,14,0,17
+Other Hypoplastic/Haemolytic/Renal Preps,4,4,4,4,4,4,0,4
+Other Immunoglobulin Preps,5,5,5,5,5,5,0,5
+Other Individ Form Prepared Extemp Preps,16,16,16,16,1,0,0,16
+Other Individually Form Bought In Preps,40,40,40,40,9,0,0,40
+Other Infusion Preps,6,6,6,6,6,0,0,6
+Other Inhalational Anaesthetic Preps,1,1,1,1,1,0,0,1
+Other Insect Repellent Preps,39,39,39,39,39,15,0,39
+Other Intermed&Long-Acting Insulin Preps,5,5,5,5,1,5,0,5
+Other Intravenous Nutrition Preps,55,55,55,55,50,41,0,55
+Other Kelp Preps,33,33,33,33,33,17,0,33
+Other Laetrile (Vitamin B17) Preps,8,8,8,8,8,8,0,8
+Other Lipid-Regulating Preps,11,11,11,11,11,4,0,11
+Other Local Anaesthetic Preps,9,9,9,9,8,7,0,9
+Other Local Sclerosants Preps,8,8,8,8,8,7,0,8
+Other Loop Diuretic Preps,1,1,1,1,1,0,0,1
+Other Lozenge & Spray Preps,30,30,30,30,30,2,0,30
+Other Lubricating Jelly/Pessary Preps,25,25,25,25,24,7,0,25
+Other Magnesium Preps,142,142,142,142,142,99,0,142
+Other Male Sex Hormone&Antagonist Preps,2,2,2,2,2,0,0,2
+Other Manganese Preps,28,28,28,28,27,16,0,28
+Other Mania & Hypomania Preps,1,1,1,1,1,1,0,1
+Other Megaloblastic Anaemia Preps,18,18,18,18,17,9,0,18
+Other Mineral Formulation Preps,188,188,188,188,188,45,0,188
+Other Minor Cut & Abrasion Preps,49,49,49,49,49,4,0,49
+Other Miscellaneous Topical Preps,75,75,75,75,74,19,0,75
+"Other Mouth Wash,Gargle&Dentifrice Preps",43,43,43,43,42,12,0,43
+Other Multivitamin Preps,308,308,308,308,308,31,0,308
+Other Mydriatic & Cycloplegic Preps,2,2,2,2,2,0,0,2
+Other Nasal Allergy Preps,2,2,2,2,2,2,0,2
+Other Nasal Infection Preps,8,8,8,8,8,7,0,8
+Other Nausea & Vertigo Preps,1,1,1,1,1,0,0,1
+Other Neuromus'ar Transmi'on Preps,7,7,7,7,7,7,0,7
+Other Nicotinamide (B7) Preps,38,38,38,38,38,29,0,38
+Other Non-Opioid Analgesic Preps,5,5,5,5,5,0,0,5
+Other Ocular/Peri-op/Photodyn Preps,12,12,12,12,11,6,0,12
+Other Oestrogen & HRT Preps,9,9,9,9,9,5,0,9
+Other Oil Preps,401,401,401,401,401,0,0,401
+Other Oral Anticoagulant Preps,9,9,9,9,9,8,0,9
+Other Oral Bicarbonate Preps,1,1,1,1,1,1,0,1
+Other Oral Iron Preps,56,56,56,56,56,27,0,56
+Other Oral Potassium Preps,25,25,25,25,25,11,0,25
+Other Oral Ulceration&Inflammation Preps,21,21,21,21,21,6,0,21
+Other Osmotic Laxative Preps,3,3,3,3,3,0,0,3
+Other Otitis Externa Preps,3,3,3,3,3,0,0,3
+Other Oxidiser & Dye Preps,3,3,3,3,3,0,0,3
+Other Pancreatin Preps,4,4,4,4,4,0,0,4
+Other Pantothenic Acid Preps,65,65,65,65,65,47,0,65
+Other Parasiticidal Preps,4,4,4,4,4,3,0,4
+Other Peripheral VasodilatorRelatedPreps,2,2,2,2,2,1,0,2
+Other Pesticide Preps,16,16,16,16,16,8,0,16
+Other Phenolic Preps,7,7,7,7,7,1,0,7
+Other Phosphate Binding Agent Preps,1,1,1,1,1,0,0,1
+Other Phosphate Supplement Preps,21,21,21,21,21,8,0,21
+Other Polysorbate & Tween Preps,17,17,17,17,17,4,0,17
+Other Preparations,144,144,144,144,139,43,0,144
+Other Preparations For Biliary Disorders,2,2,2,2,2,0,0,2
+Other Progestogen Preps,2,2,2,2,2,1,0,2
+Other Prophylaxis of Migraine Preps,1,1,1,1,1,0,0,1
+Other Psoriasis Preps,60,60,60,60,60,5,0,60
+Other Purified Water Preps,5,5,5,5,5,0,0,5
+Other Pyridoxine Hydrochloride(B6)Preps,77,77,77,77,77,13,0,77
+Other Respiratory Stimulant Preps,1,1,1,1,1,1,0,1
+Other Riboflavine (B2) Preps,29,29,29,29,29,8,0,29
+Other Rubefacient&Top AntirheumaticPreps,29,29,29,29,29,6,0,29
+Other Screening & Monitoring Agent Preps,2,2,2,2,2,0,0,2
+Other Selenium Preps,138,138,138,138,138,115,0,138
+Other Shampoo & Scalp Preps,27,27,27,27,27,4,0,27
+Other Single Substance Preps,519,519,519,519,512,9,0,519
+Other Soap Pdr/Softner/Washing Up Preps,8,8,8,8,8,0,0,8
+Other Sodium Bicarbonate Preps,3,3,3,3,3,0,0,3
+Other Soothing Haemorrhoidal Preps,14,14,14,14,14,0,0,14
+Other Special Sanction Reagent Preps,2,2,2,2,2,0,0,2
+Other Spring/Mineral & Soda Water Preps,18,18,18,18,17,2,0,18
+Other Stimulant Laxative Preps,16,16,16,16,16,1,0,16
+Other Sunscreening Preps,367,367,367,367,366,28,0,367
+Other Syrup Preps,7,7,7,7,7,0,0,7
+Other Tap Water Preps,1,1,1,1,0,0,0,1
+Other Test For Helicobacter Pylori Preps,10,10,10,10,10,7,0,10
+Other Theophylline Preps,1,1,1,1,1,0,0,1
+Other Thiamine Hydrochloride (B1) Preps,25,25,25,25,25,7,0,25
+Other Thyroid Hormone Preps,2,2,2,2,2,0,0,2
+Other Tincture Preps,560,560,560,560,560,2,0,560
+Other Toiletry Preps,995,995,995,995,989,86,0,995
+Other Top Anaesthetic&Antipruritic Preps,15,15,15,15,15,7,0,15
+Other Topical Acne Preps,12,12,12,12,12,1,0,12
+Other Topical Circulatory Preps,13,13,13,13,13,2,0,13
+Other Topical Corticosteroid Preps,43,43,43,43,43,1,0,43
+Other Topical Nasal Decongestant Preps,9,9,9,9,9,3,0,9
+Other Topical Only Antibacterial Preps,8,8,8,8,3,5,0,8
+Other Treatment of Acute Migraine Preps,1,1,1,1,1,0,0,1
+Other Treatment of Dry Mouth Preps,26,26,26,25,25,3,0,26
+Other Treatment of Glaucoma Preps,1,1,1,1,1,0,0,1
+Other Urine Testing Reagent Preps,1,1,1,1,1,0,0,1
+Other Urological Pain Preps,13,13,13,13,13,1,0,13
+Other Vaccine & Antisera Preps,12,12,12,12,10,7,0,12
+Other Vaginal & Vulval Infection Preps,2,2,2,2,2,0,0,2
+Other Vaginal/Vulva Changes Preps,7,7,7,7,7,3,0,7
+Other Vehicle & Emulsifying Agent Preps,29,29,29,29,26,0,0,29
+Other Vitamin A Preps 0906011,138,138,138,138,137,40,0,138
+Other Vitamin A Preps 0906017,8,8,8,8,8,4,0,8
+Other Vitamin B Compound Preps,106,106,106,106,106,13,0,106
+Other Vitamin B Preps,296,296,296,296,294,159,0,296
+Other Vitamin C & Bioflavonoid Preps,63,63,63,63,63,27,0,63
+Other Vitamin C (Ascorbic Acid) Preps,183,183,183,183,182,132,0,183
+Other Vitamin C Preps,109,109,109,109,109,50,0,109
+Other Vitamin D Preps,13,13,13,13,13,5,0,13
+Other Vitamin E Preps 0906050,216,216,216,216,216,161,0,216
+Other Vitamin E Preps 0906058,31,31,31,31,31,11,0,31
+Other Vitamin Formulation Preps,11,11,11,11,11,8,0,11
+Other Vitamin K Preps,2,2,2,2,2,1,0,2
+Other Wart & Calluse Preps,11,11,11,11,10,2,0,11
+Other X-Ray Contrast Media Preps,14,14,14,14,12,6,0,14
+Other Zinc Preps,215,215,215,215,213,151,0,215
+Ouabain,4,4,4,4,3,4,0,4
+Oxaliplatin,9,9,9,9,9,9,0,9
+Oxamniquine,2,2,2,2,2,2,0,2
+Oxandrolone,6,6,6,6,6,6,0,6
+Oxatomide,2,2,2,2,2,2,0,2
+Oxazepam,17,17,17,17,17,16,0,17
+Oxcarbazepine,10,10,10,10,10,10,0,10
+Oxedrine Tartrate,2,2,2,2,2,1,0,2
+Oxidised Cellulose,6,6,6,6,6,0,0,6
+Oxipurinol,1,1,1,1,1,1,0,1
+Oxitriptan,16,16,16,16,14,16,0,16
+Oxitropium Bromide,6,6,6,6,6,6,0,6
+Oxprenolol Hydrochloride,33,33,33,33,33,32,0,33
+Oxybuprocaine Hydrochloride,3,3,3,3,3,3,0,3
+Oxybutynin,54,54,54,54,54,53,0,54
+Oxybutynin Hydrochloride,7,7,7,7,7,7,0,7
+Oxycodone,14,14,14,14,14,14,0,14
+Oxycodone HCl/Naloxone HCl,9,9,9,9,9,8,0,9
+Oxycodone Hydrochloride,142,142,142,142,142,142,0,142
+Oxygen,27,27,27,27,27,20,0,27
+Oxymetazoline Hydrochloride,12,12,12,12,12,9,0,12
+Oxymetholone,7,7,7,7,7,7,0,7
+Oxypertine,6,6,6,6,6,6,0,6
+Oxyphenbutazone,6,6,6,6,6,4,0,6
+Oxyphenisatine,2,2,2,2,2,2,0,2
+Oxyphenonium Bromide,3,3,3,3,3,3,0,3
+Oxytetracycline,29,29,29,29,29,25,0,29
+Oxytetracycline Hydrochloride,1,1,1,1,1,1,0,1
+Oxytocin,12,12,12,12,12,11,0,12
+Paclitaxel,13,13,13,13,13,13,0,13
+Paclitaxel Albumin,2,2,2,2,2,2,0,2
+Padimate O,8,8,8,8,8,4,0,8
+Palbociclib,6,6,6,6,6,6,0,6
+Palifermin,2,2,2,2,2,2,0,2
+Paliperidone,24,24,24,24,24,24,0,24
+Palivizumab,8,8,8,8,8,8,0,8
+Palonosetron Hydrochloride,4,4,4,4,4,4,0,4
+Pamidronate Disodium,27,27,27,27,27,27,0,27
+Pancreatin,55,55,55,55,55,30,0,55
+Pancuronium Bromide,2,2,2,2,2,2,0,2
+Panitumumab,4,4,4,4,4,4,0,4
+Panobinostat,6,6,6,6,6,6,0,6
+Pantoprazole,10,10,10,10,10,10,0,10
+Pantothenic Acid (Calc Pantothenate),12,12,12,12,12,12,0,12
+Papaveretum,19,19,19,19,19,17,0,19
+Papaverine Hydrochloride,110,110,110,110,110,110,0,110
+Papaverine Hydrochloride/Phentolamine,30,30,30,30,30,30,0,30
+Papaverine Sulfate/Phentolamine,1,1,1,1,1,1,0,1
+Papaverine Sulphate,51,51,51,51,51,51,0,51
+Paracetamol,214,214,214,214,213,199,0,214
+Paracetamol & Caffeine,15,15,15,15,15,6,0,15
+Paracetamol & Codeine Phosphate,6,6,6,6,6,6,0,6
+Paracetamol & Ibuprofen,4,4,4,4,4,4,0,4
+Paracetamol & Phenylephrine HCl,28,28,28,28,28,3,0,28
+Paracetamol Combined Preparations,154,154,154,154,153,13,0,154
+Parachloropheylolanine,2,2,2,2,2,2,0,2
+Paraffin Hard,5,5,5,5,5,0,0,5
+Paraffin Soft White,12,12,12,12,12,4,0,12
+Paraffin Soft Yellow,2,2,2,2,2,0,0,2
+Paraffin Yellow Soft,7,7,7,7,7,1,0,7
+Paraformaldehyde,1,1,1,1,1,0,0,1
+Paraldehyde,10,10,10,10,10,4,0,10
+Parathyroid Hormone,2,2,2,2,2,2,0,2
+Parecoxib Sodium,4,4,4,4,4,4,0,4
+Paricalcitol,12,12,12,12,12,12,0,12
+Paritaprevir/Ritonavir/Ombitasvir,2,2,2,2,2,1,0,2
+Paromomycin Sulfate,9,9,9,9,9,9,0,9
+Paroxetine Hydrochloride,16,16,16,16,16,15,0,16
+Pasireotide,16,16,16,16,16,16,0,16
+Patiromer Calcium,4,4,4,4,4,4,0,4
+Pazopanib,4,4,4,4,4,4,0,4
+Pectin,1,1,1,1,1,1,0,1
+Pefloxacin,2,2,2,2,2,2,0,2
+Pegaptanib Sodium,2,2,2,2,2,2,0,2
+Pegaspargase,3,3,3,3,3,3,0,3
+Pegfilgrastim,8,8,8,8,8,8,0,8
+Peginterferon Alpha,40,40,40,40,40,40,0,40
+Peginterferon Beta,4,4,4,4,4,4,0,4
+Pegvisomant,10,10,10,10,10,10,0,10
+Pembrolizumab,4,4,4,4,4,4,0,4
+Pemetrexed,4,4,4,4,4,4,0,4
+Pemoline,8,8,8,8,8,8,0,8
+Penamecillin,2,2,2,2,2,2,0,2
+Penbutolol Sulfate,2,2,2,2,2,2,0,2
+Penbutolol Sulphate With Diuretic,2,2,2,2,2,1,0,2
+Penciclovir,3,3,3,3,3,3,0,3
+Penicillamine,19,19,19,19,19,19,0,19
+Pentaerithritol Tetranitrate,8,8,8,8,8,8,0,8
+Pentamidine Isetionate,5,5,5,5,5,5,0,5
+Pentastarch,2,2,2,2,2,2,0,2
+Pentazocine Hydrochloride,5,5,5,5,5,4,0,5
+Pentazocine Lactate,7,7,7,7,7,7,0,7
+Penthienate Methobromide,2,2,2,2,2,2,0,2
+Pentobarbital Sodium,5,5,5,5,5,5,0,5
+Pentosan Polysulfate Sodium,19,19,19,19,19,19,0,19
+Pentostatin,2,2,2,2,2,2,0,2
+Pentoxifylline,12,12,12,12,12,12,0,12
+Peppermint Oil,17,17,17,17,17,10,0,17
+Perampanel,18,18,18,18,18,18,0,18
+Pergolide Mesilate,17,17,17,17,17,15,0,17
+Perhexiline Maleate,3,3,3,3,3,3,0,3
+Pericyazine,9,9,9,9,9,9,0,9
+Perindopril + Calcium Channel Blocker,4,4,4,4,4,4,0,4
+Perindopril Arginine,6,6,6,6,6,6,0,6
+Perindopril Arginine with Diuretic,2,2,2,2,2,1,0,2
+Perindopril Erbumine,16,16,16,16,16,16,0,16
+Perindopril Erbumine with Diuretic,2,2,2,2,2,1,0,2
+Perindopril Tosilate,3,3,3,3,3,3,0,3
+Perindopril Tosilate/Indapamide,1,1,1,1,1,1,0,1
+Permethrin,6,6,6,6,6,6,0,6
+Perphenazine,17,17,17,17,17,15,0,17
+Pertussis,5,5,5,5,5,4,0,5
+Pertuzumab,2,2,2,2,2,2,0,2
+Pethidine Hydrochloride,38,38,38,38,38,34,0,38
+Phased Formulations Of Ethinylestradiol,16,16,16,16,16,0,0,16
+Phenazocine Hydrobromide,5,5,5,5,5,5,0,5
+Phenazone,1,1,1,1,1,1,0,1
+Phenazopyridine Hydrochloride,4,4,4,4,4,4,0,4
+Phenelzine Sulfate,3,3,3,3,3,3,0,3
+Pheneticillin Potassium,6,6,6,6,6,6,0,6
+Pheneturide,6,6,6,6,6,6,0,6
+Phenformin Hydrochloride,2,2,2,2,2,2,0,2
+Phenindamine Tartrate,2,2,2,2,2,2,0,2
+Phenindione,6,6,6,6,6,6,0,6
+Pheniramine Maleate,3,3,3,3,3,3,0,3
+Phenobarbital,133,133,133,133,133,132,0,133
+Phenobarbital & Phenytoin,6,6,6,6,6,4,0,6
+Phenobarbital Sod,39,39,39,39,39,38,0,39
+Phenol,61,61,61,61,61,48,0,61
+Phenol Liquified,1,1,1,1,1,0,0,1
+Phenolphthalein,4,4,4,4,4,2,0,4
+Phenolphthalein & Rhubarb,2,2,2,2,2,1,0,2
+Phenoperidine Hydrochloride,3,3,3,3,3,3,0,3
+Phenothrin,10,10,10,10,10,9,0,10
+Phenoxetol,3,3,3,3,0,3,0,3
+Phenoxybenzamine Hydrochloride,20,20,20,20,20,20,0,20
+Phenoxyethanol,9,9,9,9,9,8,0,9
+Phenoxymethylpenicillin (Penicillin V),58,58,58,58,58,56,0,58
+Phenprocoumon,2,2,2,2,2,2,0,2
+Phensuximide,1,1,1,1,1,1,0,1
+Phentermine,7,7,7,7,7,7,0,7
+Phentolamine Mesilate,4,4,4,4,4,4,0,4
+Phentolamine/Aviptadil,3,3,3,3,3,3,0,3
+Phenylbutazone,9,9,9,9,8,9,0,9
+Phenylbutyric Acid,1,1,1,1,1,1,0,1
+Phenylephrine HCl & Tropicamide,2,2,2,2,2,1,0,2
+Phenylephrine Hydrochloride,33,33,33,33,33,30,0,33
+Phenylprop HCl/Chlorphenamine Maleate,2,2,2,2,2,1,0,2
+Phenylpropanolamine Hydrochloride,23,23,23,23,23,11,0,23
+Phenytoin,36,36,36,36,36,35,0,36
+Phenytoin Sodium,31,31,31,31,31,31,0,31
+Phloroglucinol,4,4,4,4,4,4,0,4
+Pholcodine,64,64,64,64,64,34,0,64
+Phosphates,2,2,2,2,2,1,0,2
+Phosphates (Rectal),14,14,14,14,14,6,0,14
+Phthalylsulfhathiazole,2,2,2,2,2,2,0,2
+Physostigmine Salicylate,7,7,7,7,7,7,0,7
+Physostigmine Sulfate,15,15,15,15,15,6,0,15
+Phytomenadione,42,42,42,42,42,41,0,42
+Pilocarpine Hydrochloride,72,72,72,72,72,72,0,72
+Pilocarpine Nitrate,10,10,10,10,10,10,0,10
+Pimecrolimus,2,2,2,2,2,2,0,2
+Pimozide,11,11,11,11,11,10,0,11
+Pinaverium Bromide,2,2,2,2,2,2,0,2
+Pindolol,6,6,6,6,6,6,0,6
+Pindolol With Diuretic,2,2,2,2,2,1,0,2
+Pine,3,3,3,3,3,0,0,3
+Pine Tar (Eczema),8,8,8,8,8,1,0,8
+Pioglitazone Hydrochloride,21,21,21,21,21,21,0,21
+Pipemidic Acid,2,2,2,2,2,2,0,2
+Pipenzolate Bromide,2,2,2,2,2,2,0,2
+Pipenzolate Bromide Compound Prep's,4,4,4,4,4,0,0,4
+Piperacillin Sodium,7,7,7,7,7,5,0,7
+Piperacillin Sodium With Sodium Chloride,3,3,3,3,3,3,0,3
+Piperacillin Sodium/Tazobactam Sodium,6,6,6,6,6,5,0,6
+Piperaquine Phosphate/Artenimol,2,2,2,2,2,2,0,2
+Piperazine,19,19,19,19,19,9,0,19
+Piperidolate Hydrochloride,2,2,2,2,2,2,0,2
+Pipobroman,1,1,1,1,1,1,0,1
+Pipotiazine Palmitate,4,4,4,4,4,4,0,4
+Piracetam,15,15,15,15,15,15,0,15
+Pirbuterol Acetate,4,4,4,4,4,4,0,4
+Pirbuterol Hydrochloride,7,7,7,7,7,6,0,7
+Pirenoxine Sodium,3,3,3,3,3,0,0,3
+Pirenzepine,5,5,5,5,5,5,0,5
+Piretanide,2,2,2,2,2,2,0,2
+Pirfenidone,6,6,6,6,6,6,0,6
+Piribedil,4,4,4,4,4,4,0,4
+Piroxicam,33,33,33,33,33,33,0,33
+Pitolisant Hydrochloride,4,4,4,4,4,4,0,4
+Pituitary (Posterior Lobe),4,4,4,4,3,1,0,4
+Pivampicillin,8,8,8,8,8,8,0,8
+Pivampicillin With Pivmecillinam,7,7,7,7,7,5,0,7
+Pivmecillinam Hydrochloride,5,5,5,5,5,5,0,5
+Pizotifen Malate,11,11,11,11,11,11,0,11
+Plague,1,1,1,1,1,1,0,1
+Plerixafor,2,2,2,2,2,2,0,2
+Pneumococcal,16,16,16,16,16,16,0,16
+Podophyllotoxin,6,6,6,6,6,6,0,6
+Podophyllum Resin,29,29,29,29,29,27,0,29
+Polawax,1,1,1,1,1,0,0,1
+Poldine Metilsulfate,4,4,4,4,4,4,0,4
+Policosanol,2,2,2,2,2,2,0,2
+Polihexanide,3,3,3,3,3,3,0,3
+Poliomyelitis,7,7,7,7,7,6,0,7
+Pollen Allergy Preparations,14,14,14,14,14,5,0,14
+Polyestradiol Phos Phosphate,4,4,4,4,4,4,0,4
+Polymyxin B Sulfate,4,4,4,4,3,2,0,4
+Polymyxin B Sulphate,8,8,8,8,8,0,0,8
+Polymyxins,4,4,4,4,4,2,0,4
+Polynoxylin,12,12,12,12,12,12,0,12
+Polysaccharide-Iron Complex,7,7,7,7,7,5,0,7
+Polythiazide,2,2,2,2,2,2,0,2
+Polyvinyl Alcohol,16,16,16,16,16,15,0,16
+Pomalidomide,8,8,8,8,8,8,0,8
+Ponatinib,6,6,6,6,6,6,0,6
+Porfimer Sodium,4,4,4,4,4,4,0,4
+Posaconazole,6,6,6,6,6,6,0,6
+Potassium Ascorbate,3,3,3,3,3,3,0,3
+Potassium Bicarbonate,9,9,9,9,9,8,0,9
+Potassium Bromide,4,4,4,4,4,0,0,4
+Potassium Canrenoate,5,5,5,5,5,5,0,5
+Potassium Chlorate,5,5,5,5,5,3,0,5
+Potassium Chloride,141,141,141,141,141,116,0,141
+Potassium Citrate,36,36,36,36,36,25,0,36
+Potassium Gluconate,3,3,3,3,3,1,0,3
+Potassium Hydroxyquinoline Sulphate,2,2,2,2,2,0,0,2
+Potassium Iodate,2,2,2,2,2,2,0,2
+Potassium Iodide,23,23,23,23,23,21,0,23
+Potassium Perchlorate,5,5,5,5,5,5,0,5
+Potassium Permanganate,18,18,18,18,18,16,0,18
+Potassium Sulfate,1,1,1,1,1,1,0,1
+Povidone,5,5,5,5,5,5,0,5
+Povidone Iodine,12,12,12,12,12,11,0,12
+Povidone K 25,2,2,2,2,2,2,0,2
+Povidone-Iodine,11,11,11,11,11,8,0,11
+Powdered Opium,2,2,2,2,2,0,0,2
+Practolol,2,2,2,2,2,2,0,2
+Prajmalium Bitartrate,4,4,4,4,4,4,0,4
+Pramipexole,44,44,44,44,44,44,0,44
+Prasterone,30,30,30,30,30,30,0,30
+Prasugrel,6,6,6,6,6,6,0,6
+Pravastatin Sodium,20,20,20,20,20,20,0,20
+Prazepam,2,2,2,2,2,2,0,2
+Praziquantel,8,8,8,8,8,8,0,8
+Prazosin Hydrochloride,30,30,30,30,30,28,0,30
+Prednisolone,74,74,74,74,74,68,0,74
+Prednisolone Acetate,17,17,17,17,17,17,0,17
+Prednisolone Sodium Metasulfobenzoate,9,9,9,9,9,9,0,9
+Prednisolone Sodium Metasulphobenzoate,6,6,6,6,5,2,0,6
+Prednisolone Sodium Phosphate,60,60,60,60,60,59,0,60
+Prednisolone Steaglate,2,2,2,2,2,2,0,2
+Prednisone,14,14,14,14,14,14,0,14
+Pregabalin,58,58,58,58,58,58,0,58
+PrenylamineLactate,2,2,2,2,2,2,0,2
+Prep's For Other Vaginal Infections,4,4,4,4,4,0,0,4
+Prepared Digitalis,2,2,2,2,2,2,0,2
+Prepared Ergot,1,1,1,1,1,1,0,1
+Prepared Stramonium,1,1,1,1,1,0,0,1
+Prilocaine Hydrochloride,20,20,20,20,20,20,0,20
+Primaquine,14,14,14,14,14,13,0,14
+Primidone,33,33,33,33,33,32,0,33
+Pristinamycin,2,2,2,2,2,2,0,2
+Probenecid,9,9,9,9,9,8,0,9
+Probucol,2,2,2,2,2,2,0,2
+Procainamide Hydrochloride,11,11,11,11,11,11,0,11
+Procaine Benzylpenicillin,9,9,9,9,9,9,0,9
+Procaine Hydrochloride,16,16,16,16,16,15,0,16
+Procarbazine Hydrochloride,2,2,2,2,2,2,0,2
+Prochlorperazine Maleate,17,17,17,17,17,17,0,17
+Prochlorperazine Mesilate,10,10,10,10,10,10,0,10
+Procyclidine Hydrochloride,15,15,15,15,15,14,0,15
+Proflavine,8,8,8,8,8,5,0,8
+Proflavine Hemisulphate,4,4,4,4,4,2,0,4
+Progesterone,79,79,79,79,79,76,0,79
+Proglumide,2,2,2,2,2,2,0,2
+Proguanil Hydrochloride,7,7,7,7,7,7,0,7
+Proguanil Hydrochloride With Atovaquone,9,9,9,9,9,9,0,9
+Promazine Hydrochloride,31,31,31,31,31,30,0,31
+Promethazine Hydrochloride,34,34,34,34,34,33,0,34
+Promethazine Teoclate,3,3,3,3,3,3,0,3
+Propafenone Hydrochloride,11,11,11,11,11,11,0,11
+Propamidine Isetionate,7,7,7,7,7,6,0,7
+Propantheline Bromide,18,18,18,18,18,17,0,18
+Propicillin Potassium,2,2,2,2,2,2,0,2
+Propiverine Hydrochloride,8,8,8,8,8,8,0,8
+Propofol,23,23,23,23,23,23,0,23
+Propranolol Hydrochloride,164,164,164,164,164,163,0,164
+Propranolol Hydrochloride With Diuretic,6,6,6,6,6,1,0,6
+Propylthiouracil,14,14,14,14,14,13,0,14
+Proscillaridin,2,2,2,2,2,2,0,2
+Protamine Sulfate,4,4,4,4,4,4,0,4
+Protamine Zinc Insulin,5,5,5,5,2,3,0,5
+Protein C Concentrate,4,4,4,4,4,4,0,4
+Prothipendyl Hydrochloride,2,2,2,2,2,2,0,2
+Protionamide,8,8,8,8,8,8,0,8
+Protirelin,5,5,5,5,5,5,0,5
+Protriptyline Hydrochloride,6,6,6,6,6,6,0,6
+Proxymetacaine Hydrochloride,6,6,6,6,6,4,0,6
+Proxyphylline,2,2,2,2,2,2,0,2
+Prucalopride,4,4,4,4,4,4,0,4
+Pseudoephedrine HCl Combinations,11,11,11,11,10,2,0,11
+Pseudoephedrine HCl/Dextrometh Hydrob,3,3,3,3,3,1,0,3
+Pseudoephedrine Hydrochloride,57,57,57,57,57,32,0,57
+Pseudoephedrine Sulphate Combinations,9,9,9,9,9,2,0,9
+Pyrantel Embonate,4,4,4,4,4,4,0,4
+Pyrazinamide,74,74,74,74,74,73,0,74
+Pyridostigmine Bromide,41,41,41,41,41,40,0,41
+Pyridoxine Hydrochloride,126,126,126,126,126,92,0,126
+Pyrimethamine,8,8,8,8,8,8,0,8
+Pyrimethamine with Dapsone,2,2,2,2,2,1,0,2
+Pyrimethamine with Sulfadoxine,2,2,2,2,2,1,0,2
+Pyrithione Zinc,2,2,2,2,2,1,0,2
+Pyritinol Hydrochloride,7,7,7,7,7,7,0,7
+Pyrogallol,3,3,3,3,3,0,0,3
+Pyrvinium Pamoate,4,4,4,4,4,3,0,4
+Quetiapine,89,89,89,89,89,85,0,89
+Quinagolide Hydrochloride,6,6,6,6,6,4,0,6
+Quinapril Hydrochloride,12,12,12,12,12,12,0,12
+Quinapril Hydrochloride with Diuretic,2,2,2,2,2,2,0,2
+Quinestradol,4,4,4,4,4,4,0,4
+Quinestrol,2,2,2,2,2,2,0,2
+Quinidine Bisulfate,7,7,7,7,7,7,0,7
+Quinidine Sulfate,9,9,9,9,9,8,0,9
+Quinine Bisulfate,9,9,9,9,9,9,0,9
+Quinine Dihydrochloride,15,15,15,15,15,15,0,15
+Quinine Hydrochloride,7,7,7,7,7,6,0,7
+Quinine Sulfate,35,35,35,35,35,34,0,35
+Quinupristin/Dalfopristin,2,2,2,2,2,2,0,2
+Rabeprazole Sodium,4,4,4,4,4,4,0,4
+Rabies,12,12,12,12,12,6,0,12
+Rabies Immunoglobulin,3,3,3,3,3,3,0,3
+Racecadotril,6,6,6,6,6,6,0,6
+Raloxifene Hydrochloride,6,6,6,6,6,6,0,6
+Raltegravir,10,10,10,10,10,10,0,10
+Raltitrexed,2,2,2,2,2,2,0,2
+Ramipril,41,41,41,41,41,37,0,41
+Ramipril with Calcium Channel Blocker,4,4,4,4,4,4,0,4
+Ramucirumab,4,4,4,4,4,4,0,4
+Ranibizumab,6,6,6,6,6,6,0,6
+Ranitidine Bismuth Citrate,2,2,2,2,2,2,0,2
+Ranitidine Hydrochloride,87,87,87,87,87,82,0,87
+Ranolazine,6,6,6,6,6,6,0,6
+Rasagiline Mesilate,3,3,3,3,3,3,0,3
+Rasburicase,4,4,4,4,4,4,0,4
+Razoxane,2,2,2,2,2,2,0,2
+Reboxetine,2,2,2,2,2,2,0,2
+Regorafenib,2,2,2,2,2,2,0,2
+Remifentanil Hydrochloride,6,6,6,6,6,6,0,6
+Remoxipride Hydrochloride,6,6,6,6,6,6,0,6
+Repaglinide,12,12,12,12,12,12,0,12
+Reproterol Hydrochloride,8,8,8,8,8,8,0,8
+Reserp & Rauw Alk With Alkavervir,4,4,4,4,4,2,0,4
+Reserp & Rauw Alk With Barbiturate,4,4,4,4,4,1,0,4
+Reserp & Rauw Alk With Diuretic,8,8,8,8,8,3,0,8
+Reserpine And Rauwolfia Alkaloids,16,16,16,16,16,15,0,16
+Reslizumab,4,4,4,4,4,4,0,4
+Resorcinol,10,10,10,10,10,2,0,10
+Retapamulin,2,2,2,2,2,2,0,2
+Reteplase,2,2,2,2,2,2,0,2
+Retigabine,12,12,12,12,12,10,0,12
+Reviparin Sodium,2,2,2,2,2,2,0,2
+Rhubarb,2,2,2,2,2,0,0,2
+Ribavirin,18,18,18,18,18,18,0,18
+Ribavirin (Old),2,2,2,2,2,2,0,2
+Riboflavin,62,62,62,62,62,52,0,62
+Rifabutin,26,26,26,26,26,26,0,26
+Rifampicin,29,29,29,29,29,28,0,29
+Rifampicin Combined Preparations,9,9,9,9,9,4,0,9
+Rifaximin,8,8,8,8,8,8,0,8
+Rilpivirine,2,2,2,2,2,2,0,2
+Riluzole,6,6,6,6,6,6,0,6
+Rimexolone,2,2,2,2,2,2,0,2
+Rimiterol Hydrobromide,6,6,6,6,6,6,0,6
+Rimonabant,2,2,2,2,2,2,0,2
+Ringers,6,6,6,6,6,6,0,6
+Riociguat,10,10,10,10,10,10,0,10
+Risankizumab,2,2,2,2,2,2,0,2
+Risedronate Sodium,9,9,9,9,9,9,0,9
+Risperidone,36,36,36,36,36,36,0,36
+Ritodrine Hydrochloride,5,5,5,5,5,5,0,5
+Ritonavir,9,9,9,9,9,9,0,9
+Rituximab,10,10,10,10,10,10,0,10
+Rivaroxaban,10,10,10,10,10,8,0,10
+Rivastigmine,41,41,41,41,41,41,0,41
+Rizatriptan,8,8,8,8,8,8,0,8
+Rocuronium Bromide,8,8,8,8,8,8,0,8
+Rofecoxib,11,11,11,11,11,11,0,11
+Roflumilast,4,4,4,4,4,4,0,4
+Rolapitant,2,2,2,2,2,2,0,2
+Romiplostim,6,6,6,6,6,6,0,6
+Ropinirole Hydrochloride,57,57,57,57,57,53,0,57
+Ropivacaine Hydrochloride,11,11,11,11,11,11,0,11
+Rose Bengal,2,2,2,2,2,2,0,2
+Rosiglitazone,5,5,5,5,5,5,0,5
+Rosoxacin,2,2,2,2,2,2,0,2
+Rosuvastatin Calcium,9,9,9,9,9,9,0,9
+Rotavirus,6,6,6,6,6,1,0,6
+Rotigotine,14,14,14,14,14,12,0,14
+Roxithromycin,2,2,2,2,2,2,0,2
+Rubella,17,17,17,17,17,10,0,17
+Rufinamide,8,8,8,8,8,8,0,8
+Rupatadine Fumarate,3,3,3,3,3,3,0,3
+Rutosides,2,2,2,2,2,2,0,2
+Ruxolitinib,8,8,8,8,8,8,0,8
+Sacrosidase,2,2,2,2,2,0,0,2
+Sacubitril/Valsartan,6,6,6,6,6,6,0,6
+Safinamide,4,4,4,4,4,4,0,4
+Salbutamol,152,152,152,152,150,148,0,152
+Salicylic Acid,221,221,221,221,221,109,0,221
+Saline,34,34,34,34,34,22,0,34
+Salmeterol,19,19,19,19,19,19,0,19
+Salsalate,2,2,2,2,2,2,0,2
+Saquinavir Mesylate,5,5,5,5,5,5,0,5
+Sarilumab,8,8,8,8,8,8,0,8
+Saxagliptin,4,4,4,4,4,4,0,4
+Saxagliptin/Dapagliflozin,2,2,2,2,2,2,0,2
+Saxagliptin/Metformin,4,4,4,4,4,4,0,4
+Sebelipase Alfa,2,2,2,2,2,2,0,2
+Secnidazole,1,1,1,1,1,1,0,1
+Secobarbital Sodium,8,8,8,8,8,7,0,8
+Selegiline Hydrochloride,22,22,22,22,22,21,0,22
+Selenium,9,9,9,9,9,9,0,9
+Selenium Sulfide,11,11,11,11,11,11,0,11
+Semaglutide,6,6,6,6,6,6,0,6
+Semisodium Valproate,2,2,2,2,2,2,0,2
+Senna,43,43,43,43,40,26,0,43
+Sermorelin Acetate,2,2,2,2,2,2,0,2
+Serrapeptase,2,2,2,2,2,2,0,2
+Sertindole,8,8,8,8,8,8,0,8
+Sertraline Hydrochloride,31,31,31,31,31,31,0,31
+Sevelamer,7,7,7,7,7,7,0,7
+Sevoflurane,1,1,1,1,1,0,0,1
+Shingles (H/Z),2,2,2,2,2,0,0,2
+Sibutramine,4,4,4,4,4,4,0,4
+Sildenafil (Erectile Dysfunction),25,25,25,25,25,25,0,25
+Sildenafil (Fle Sex Hormone),1,1,1,1,1,1,0,1
+Sildenafil(Vasodilator Antihypertensive),8,8,8,8,8,8,0,8
+Siltuximab,4,4,4,4,4,4,0,4
+Silver Nitrate,38,38,38,38,38,37,0,38
+Silver Sulfadiazine,3,3,3,3,3,2,0,3
+Simeprevir,2,2,2,2,2,2,0,2
+Simeticone,16,16,16,16,16,13,0,16
+Simple,11,11,11,11,11,0,0,11
+Simvastatin,29,29,29,29,29,29,0,29
+Simvastatin & Ezetimibe,6,6,6,6,6,6,0,6
+Sirolimus,12,12,12,12,12,12,0,12
+Sitagliptin,8,8,8,8,8,8,0,8
+Sitaxentan Sodium,2,2,2,2,2,2,0,2
+Sitosterol,1,1,1,1,1,0,0,1
+"Skin Protectives,Fillers & Cleansers",27,27,27,27,27,5,0,27
+Smallpox,2,2,2,2,2,2,0,2
+Soap,6,6,6,6,5,0,0,6
+Sodium Aurothiomalate,10,10,10,10,10,10,0,10
+Sodium Benzoate,37,37,37,37,37,35,0,37
+Sodium Bicarbonate,177,177,177,177,177,170,0,177
+Sodium Bromide,1,1,1,1,1,1,0,1
+Sodium Calcium Edetate,4,4,4,4,4,3,0,4
+Sodium Cellulose Phosphate,4,4,4,4,4,2,0,4
+Sodium Chloride,519,519,519,519,519,484,0,519
+Sodium Chloride+Glucose,1,1,1,1,1,1,0,1
+Sodium Citrate,46,46,46,46,46,43,0,46
+Sodium Citrate (Rectal),9,9,9,9,9,4,0,9
+Sodium Clodronate,14,14,14,14,14,14,0,14
+Sodium Cromoglicate,98,98,98,98,98,87,0,98
+Sodium Dichloroacetate,1,1,1,1,1,1,0,1
+Sodium Diethyldithiocarbamate,2,2,2,2,2,2,0,2
+Sodium Dihydrogen Phosphate Dihydrate,17,17,17,17,17,16,0,17
+Sodium Feredetate,5,5,5,5,5,3,0,5
+Sodium Fluoride,91,91,91,91,91,83,0,91
+Sodium Fusidate,10,10,10,10,10,8,0,10
+Sodium Glycerophosphate,3,3,3,3,3,3,0,3
+Sodium Hyaluronate,19,19,19,19,19,15,0,19
+Sodium Hypochlorite,34,34,34,34,33,27,0,34
+Sodium Iodide,3,3,3,3,3,2,0,3
+Sodium Lactate,25,25,25,25,25,15,0,25
+Sodium Monofluorophosphate,2,2,2,2,2,2,0,2
+Sodium Nitroprusside,1,1,1,1,1,1,0,1
+Sodium Oxybate,2,2,2,2,2,2,0,2
+Sodium Perborate,2,2,2,2,2,2,0,2
+Sodium Phenylbutyrate,23,23,23,23,23,22,0,23
+Sodium Phosphate,30,30,30,30,30,27,0,30
+Sodium Picosulfate,13,13,13,13,13,12,0,13
+Sodium Polystyrene Sulfonate,4,4,4,4,4,1,0,4
+Sodium Potassium Tartrate,2,2,2,2,2,0,0,2
+Sodium Pyrrolidone Carboxylate,2,2,2,2,2,2,0,2
+Sodium Salicylate,5,5,5,5,5,3,0,5
+Sodium Stibogluconate,2,2,2,2,2,2,0,2
+Sodium Tetradecyl Sulphate,26,26,26,26,26,26,0,26
+Sodium Thiosulfate,14,14,14,14,14,14,0,14
+Sodium Valproate,98,98,98,98,98,97,0,98
+Sofosbuvir,2,2,2,2,2,2,0,2
+Sofosbuvir/Ledipasvir,2,2,2,2,2,2,0,2
+Sofosbuvir/Velpatasvir,2,2,2,2,2,2,0,2
+Sofosbuvir/Velpatasvir/Voxilaprevir,1,1,1,1,1,1,0,1
+Soft Soap,10,10,10,10,10,3,0,10
+Solifenacin,9,9,9,9,9,9,0,9
+Solifenacin/Tamsulosin,2,2,2,2,2,2,0,2
+Soluble Insulin (Neutral Insulin),67,67,67,67,35,42,0,67
+Solvent Ether,1,1,1,1,1,0,0,1
+Somatorelin,2,2,2,2,2,2,0,2
+Somatrem,2,2,2,2,2,1,0,2
+Somatropin,100,100,100,100,100,100,0,100
+Sorafenib,2,2,2,2,2,2,0,2
+Sotalol Hydrochloride,36,36,36,36,36,35,0,36
+Sotalol Hydrochloride With Diuretic,4,4,4,4,4,2,0,4
+Specific Allergy Preparations,13,13,13,13,13,11,0,13
+Spectinomycin Hydrochloride,2,2,2,2,2,2,0,2
+Spermicidal Contraceptive Prep's,5,5,5,5,5,2,0,5
+Spiramycin,12,12,12,12,12,12,0,12
+Spironolactone,132,132,132,132,132,131,0,132
+Spironolactone With Loop Diuretics,2,2,2,2,2,2,0,2
+Spironolactone With Thiazides,16,16,16,16,16,11,0,16
+Squill,7,7,7,7,7,0,0,7
+Squill Opiate,13,13,13,13,13,0,0,13
+Squill/Ipecac,2,2,2,2,2,1,0,2
+Stannous Fluoride,5,5,5,5,5,5,0,5
+Stanozolol,6,6,6,6,6,6,0,6
+Starch,1,1,1,1,1,1,0,1
+Stavudine,10,10,10,10,10,10,0,10
+Ster Larvae,33,33,33,33,21,27,0,33
+Sterculia,14,14,14,14,14,11,0,14
+Sterile Water,49,49,49,49,32,47,0,49
+Sterile Water For Bladder Instillations,21,21,21,21,21,18,0,21
+Stiripentol,8,8,8,8,8,8,0,8
+Streptokinase,20,20,20,20,20,20,0,20
+Streptokinase & Streptodornase,6,6,6,6,5,1,0,6
+Streptomycin,2,2,2,2,2,2,0,2
+Strontium Ranelate,2,2,2,2,2,2,0,2
+Sucralfate,24,24,24,24,24,22,0,24
+Sucrase,1,1,1,1,1,0,0,1
+Sucroferric Oxyhydroxide,2,2,2,2,2,2,0,2
+Sucrose,5,5,5,5,5,4,0,5
+Sulconazole Nitrate,2,2,2,2,2,1,0,2
+Sulfacetamide Sodium,38,38,38,38,38,35,0,38
+Sulfadiazine,10,10,10,10,10,9,0,10
+Sulfadimethoxine,2,2,2,2,2,2,0,2
+Sulfadimidine,4,4,4,4,4,4,0,4
+Sulfadimidine Sodium,2,2,2,2,2,2,0,2
+Sulfaguanidine,3,3,3,3,3,1,0,3
+Sulfamethizole,2,2,2,2,2,2,0,2
+Sulfamethoxypyridazine,7,7,7,7,7,6,0,7
+Sulfametopyrazine,5,5,5,5,5,4,0,5
+Sulfaphenazole,2,2,2,2,2,2,0,2
+Sulfapyridine,8,8,8,8,8,8,0,8
+Sulfasalazine,27,27,27,27,27,27,0,27
+Sulfathiazole,2,2,2,2,2,2,0,2
+Sulfinpyrazone,7,7,7,7,7,7,0,7
+Sulfiram,4,4,4,4,4,4,0,4
+Sulfur,49,49,49,49,49,9,0,49
+Sulfur Precipitated,6,6,6,6,6,0,0,6
+Sulfurated Potash,1,1,1,1,1,0,0,1
+Sulindac,5,5,5,5,5,4,0,5
+Sulphafurazole,4,4,4,4,4,4,0,4
+Sulphaurea,2,2,2,2,2,0,0,2
+Sulpiride,30,30,30,30,30,29,0,30
+Sultamicillin Tosilate,2,2,2,2,2,2,0,2
+Sultiame,8,8,8,8,8,8,0,8
+Sumatriptan Succinate,23,23,23,23,23,23,0,23
+Sunflower,11,11,11,11,11,2,0,11
+Sunitinib,6,6,6,6,6,6,0,6
+Suprofen,2,2,2,2,2,2,0,2
+Suxamethonium Chloride,6,6,6,6,6,6,0,6
+Tacalcitol,4,4,4,4,4,4,0,4
+Tacrine Hydrochloride,6,6,6,6,6,6,0,6
+Tacrolimus,71,71,71,71,71,71,0,71
+Tadalafil,9,9,9,9,9,9,0,9
+Tadalafil (Vasodilator Antihypertensive),2,2,2,2,2,2,0,2
+Tafamidis,2,2,2,2,2,2,0,2
+Tafluprost,4,4,4,4,4,4,0,4
+Tafluprost & Timolol,2,2,2,2,2,2,0,2
+Talampicillin Hydrochloride,5,5,5,5,5,5,0,5
+Talc Purified,4,4,4,4,4,0,0,4
+Tamoxifen Citrate,33,33,33,33,33,32,0,33
+Tamsulosin & Dutasteride Hydrochloride,2,2,2,2,2,2,0,2
+Tamsulosin Hydrochloride,33,33,33,33,33,33,0,33
+Tannic Acid,4,4,4,4,4,2,0,4
+Tapentadol Hydrochloride,16,16,16,16,16,16,0,16
+Tar,1,1,1,1,1,0,0,1
+Tars,209,209,209,209,209,84,0,209
+Taurine,16,16,16,16,16,16,0,16
+Taurolidine,3,3,3,3,3,3,0,3
+Tazarotene,4,4,4,4,4,4,0,4
+Tedizolid,4,4,4,4,4,4,0,4
+Tegafur,4,4,4,4,4,4,0,4
+Tegafur/Gimeracil/Oteracil,4,4,4,4,4,4,0,4
+Tegaserod Maleate,2,2,2,2,2,2,0,2
+Teicoplanin,6,6,6,6,6,6,0,6
+Telaprevir,2,2,2,2,2,2,0,2
+Telbivudine,2,2,2,2,2,2,0,2
+Telithromycin,2,2,2,2,2,2,0,2
+Telmisartan,10,10,10,10,10,10,0,10
+Telmisartan with Diuretic,12,12,12,12,12,12,0,12
+Telotristat Ethyl,2,2,2,2,2,2,0,2
+Temafloxacin Hydrochloride,5,5,5,5,5,5,0,5
+Temazepam,30,30,30,30,30,30,0,30
+Temocillin Sodium,5,5,5,5,5,5,0,5
+Temoporfin,8,8,8,8,8,8,0,8
+Temozolomide,18,18,18,18,18,18,0,18
+Temsirolimus,2,2,2,2,2,2,0,2
+Tenecteplase,4,4,4,4,4,4,0,4
+Tenofovir Alafenamide,2,2,2,2,2,2,0,2
+Tenofovir Disoproxil,10,10,10,10,10,10,0,10
+Tenoxicam,9,9,9,9,9,9,0,9
+Terazosin Hydrochloride,21,21,21,21,21,14,0,21
+Terbinafine Hydrochloride,18,18,18,18,18,17,0,18
+Terbutaline Sulphate,50,50,50,50,50,48,0,50
+Terfenadine,24,24,24,24,24,24,0,24
+Teriflunomide,2,2,2,2,2,2,0,2
+Teriparatide,4,4,4,4,4,4,0,4
+Terlipressin,5,5,5,5,5,5,0,5
+Terodiline Hydrochloride,5,5,5,5,5,5,0,5
+Terpin Hydrate,4,4,4,4,3,1,0,4
+Tertatolol,2,2,2,2,2,2,0,2
+Testolactone,3,3,3,3,3,3,0,3
+Testosterone,67,67,67,67,66,66,0,67
+Testosterone Enantate,2,2,2,2,2,2,0,2
+Testosterone Esters,4,4,4,4,4,3,0,4
+Testosterone Propionate,24,24,24,24,24,24,0,24
+Testosterone Undecanoate,9,9,9,9,9,9,0,9
+Tetanus,19,19,19,19,19,17,0,19
+Tetanus Immunoglobulin,7,7,7,7,7,7,0,7
+Tetrabenazine,23,23,23,23,23,22,0,23
+Tetracaine,6,6,6,6,6,6,0,6
+Tetracaine Hydrochloride,17,17,17,17,17,12,0,17
+Tetracosactide,6,6,6,6,6,6,0,6
+Tetracycline,40,40,40,40,40,37,0,40
+Tetracycline Buffered Complex,2,2,2,2,2,2,0,2
+Tetracycline Combined Preparations,10,10,10,10,10,1,0,10
+Tetracycline Hydrochloride,14,14,14,14,14,12,0,14
+Tetryzoline HCl/Antazoline HCl,2,2,2,2,2,1,0,2
+Tezacaftor/Ivacaftor,2,2,2,2,2,2,0,2
+Thalidomide (Antileprotic),11,11,11,11,11,11,0,11
+Thalidomide (Immunomodulating),2,2,2,2,2,2,0,2
+Theobroma Oil,2,2,2,2,2,0,0,2
+Theophylline,66,66,66,66,66,65,0,66
+Thiamazole,6,6,6,6,6,6,0,6
+Thiamine Hydrochloride,59,59,59,59,57,57,0,59
+Thiethylperazine Maleate,10,10,10,10,10,10,0,10
+Thioctic Acid,3,3,3,3,3,3,0,3
+Thiomersal,1,1,1,1,1,1,0,1
+Thiopental Sodium,5,5,5,5,5,5,0,5
+Thiopropazate Hydrochloride,2,2,2,2,2,2,0,2
+Thioridazine,38,38,38,38,38,37,0,38
+Thiotepa,5,5,5,5,5,5,0,5
+Thromboplastin,2,2,2,2,2,2,0,2
+Thymol,29,29,29,29,28,1,0,29
+Thyroid,24,24,24,24,24,24,0,24
+Thyroid Extracts,3,3,3,3,3,3,0,3
+Thyrotrophin,2,2,2,2,2,2,0,2
+Thyrotropin Alfa,2,2,2,2,2,2,0,2
+Tiabendazole,12,12,12,12,12,11,0,12
+Tiagabine,8,8,8,8,8,8,0,8
+Tiaprofenic Acid,8,8,8,8,8,8,0,8
+Tibolone,3,3,3,3,3,3,0,3
+Ticagrelor,6,6,6,6,6,6,0,6
+Ticarcillin Sodium,9,9,9,9,9,9,0,9
+Ticarcillin Sodium With Sodium Chloride,6,6,6,6,6,6,0,6
+Ticarcillin With Clavulanic Acid,6,6,6,6,6,6,0,6
+Tick-Borne Encephalitis Vaccine,7,7,7,7,7,7,0,7
+Ticlopidine Hydrochloride,4,4,4,4,4,4,0,4
+Tigecycline,2,2,2,2,2,2,0,2
+Tigloidine Hydrobromide,2,2,2,2,2,2,0,2
+Tildrakizumab,2,2,2,2,2,2,0,2
+Tiludronic Acid,2,2,2,2,2,2,0,2
+Timolol,42,42,42,42,42,42,0,42
+Timolol & Bimatoprost,4,4,4,4,4,4,0,4
+Timolol & Brimonidine,2,2,2,2,2,1,0,2
+Timolol & Travoprost,2,2,2,2,2,2,0,2
+Timolol With Diuretic,8,8,8,8,8,3,0,8
+Timothy Grass Pollen Allergen Extract,2,2,2,2,2,1,0,2
+Tinidazole,6,6,6,6,6,5,0,6
+Tinzaparin Sodium,36,36,36,36,36,36,0,36
+Tioconazole,4,4,4,4,4,4,0,4
+Tioguanine,4,4,4,4,4,4,0,4
+Tiopronin,5,5,5,5,5,5,0,5
+Tiotixene,4,4,4,4,4,4,0,4
+Tiotropium,8,8,8,8,8,8,0,8
+Tiotropium Brom/Olodaterol,2,2,2,2,2,2,0,2
+Tipranavir,4,4,4,4,4,4,0,4
+Tisopurine,2,2,2,2,2,2,0,2
+Titanium Dioxide,24,24,24,24,24,9,0,24
+Tivozanib,4,4,4,4,4,4,0,4
+Tizanidine Hydrochloride,17,17,17,17,17,17,0,17
+Tobramycin,26,26,26,26,26,26,0,26
+Tobramycin With Sodium Chloride,3,3,3,3,3,3,0,3
+Tocainide Hydrochloride,9,9,9,9,9,9,0,9
+Tocilizumab,10,10,10,10,10,10,0,10
+Tocofersolan,2,2,2,2,2,2,0,2
+Tocopheryl Acetate,29,29,29,29,29,29,0,29
+Tofacitinib,5,5,5,5,5,5,0,5
+Tolazamide,4,4,4,4,4,4,0,4
+Tolazoline Hydrochloride,2,2,2,2,2,2,0,2
+Tolbutamide,16,16,16,16,16,15,0,16
+Tolcapone,4,4,4,4,4,4,0,4
+Tolfenamic Acid,4,4,4,4,4,4,0,4
+Tolmetin,7,7,7,7,7,7,0,7
+Tolnaftate,38,38,38,38,38,26,0,38
+Tolrestat,2,2,2,2,2,2,0,2
+Tolterodine,22,22,22,22,22,22,0,22
+Tolvaptan,14,14,14,14,14,14,0,14
+Topiramate,66,66,66,66,66,66,0,66
+Topotecan,12,12,12,12,12,12,0,12
+Torasemide,10,10,10,10,10,10,0,10
+Toremifene Citrate,2,2,2,2,2,2,0,2
+Tosychloramide Sodium,2,2,2,2,2,1,0,2
+Trabectedin,4,4,4,4,4,4,0,4
+Tramadol Hydrochloride,119,119,119,119,119,118,0,119
+Trametinib,4,4,4,4,4,4,0,4
+Trandolapril,14,14,14,14,14,14,0,14
+Trandolapril + Calcium Channel Blocker,2,2,2,2,2,0,0,2
+Tranexamic Acid,37,37,37,37,37,37,0,37
+Tranylcypromine Sulfate,4,4,4,4,4,2,0,4
+Trastuzumab,15,15,15,15,15,15,0,15
+Travoprost,3,3,3,3,3,3,0,3
+Trazodone Hydrochloride,19,19,19,19,19,19,0,19
+Treosulfan,7,7,7,7,7,7,0,7
+Tretinoin,29,29,29,29,29,29,0,29
+Triamcinolone,7,7,7,7,7,7,0,7
+Triamcinolone Acetonide,62,62,62,62,62,35,0,62
+Triamcinolone Hexacetonide,7,7,7,7,7,7,0,7
+Triamterene,2,2,2,2,2,2,0,2
+Triamterene With Loop Diuretics,2,2,2,2,2,1,0,2
+Triamterene With Thiazides,6,6,6,6,6,3,0,6
+Triazolam,5,5,5,5,5,5,0,5
+Trichloroacetic Acid,15,15,15,15,15,13,0,15
+Trichloroethylene,2,2,2,2,2,0,0,2
+Triclocarban,2,2,2,2,2,1,0,2
+Triclofos Sodium,1,1,1,1,1,1,0,1
+Triclosan,37,37,37,37,36,17,0,37
+Trientine Dihydrochloride,5,5,5,5,5,5,0,5
+Trientine Tetrahydrochloride,2,2,2,2,2,2,0,2
+Triethanolamine,2,2,2,2,2,0,0,2
+Trifluoperazine,34,34,34,34,34,31,0,34
+Trifluperidol,4,4,4,4,4,4,0,4
+Trifluridine (Antivirals),7,7,7,7,7,7,0,7
+Trifluridine/Tipiracil,4,4,4,4,4,4,0,4
+Trihexyphenidyl Hydrochloride,26,26,26,26,26,23,0,26
+Trilostane,4,4,4,4,4,4,0,4
+Trimetaphan Camsilate,2,2,2,2,2,2,0,2
+Trimetazidine Hydrochloride,4,4,4,4,4,4,0,4
+Trimethadione,2,2,2,2,2,2,0,2
+Trimethoprim,34,34,34,34,34,34,0,34
+Trimipramine Maleate,15,15,15,15,15,15,0,15
+Trioxsalen,1,1,1,1,1,1,0,1
+Tripotassium Dicitratobismuthate,4,4,4,4,4,4,0,4
+Triprolidine Hydrochloride,8,8,8,8,8,8,0,8
+Triptorelin,2,2,2,2,2,2,0,2
+Triptorelin (Acetate),6,6,6,6,6,6,0,6
+Triptorelin Embonate,4,4,4,4,4,4,0,4
+Trisodium Edetate,2,2,2,2,2,2,0,2
+Tritoqualine,2,2,2,2,2,2,0,2
+Troglitazone,6,6,6,6,6,6,0,6
+Tropicamide,10,10,10,10,10,10,0,10
+Tropisetron,6,6,6,6,6,6,0,6
+Trospium Chloride,9,9,9,9,9,9,0,9
+Tryptophan,11,11,11,11,11,6,0,11
+Tubocurarine Chloride,3,3,3,3,3,3,0,3
+Tulobuterol Hydrochloride,5,5,5,5,5,5,0,5
+Turpentine Oil,8,8,8,8,8,0,0,8
+Tyloxapol,3,3,3,3,3,3,0,3
+Typhoid,10,10,10,10,10,8,0,10
+Typhoid-Paratyphoid A & B,2,2,2,2,2,1,0,2
+Typhoid-Paratyphoid A & B & Cholera,2,2,2,2,2,1,0,2
+Tyrothricin,1,1,1,1,1,1,0,1
+Ulipristal Acet,2,2,2,2,2,2,0,2
+Ulipristal Acetate (Emergency Cont),2,2,2,2,2,2,0,2
+Ulobetasol Propionate,2,2,2,2,2,2,0,2
+Umeclidinium Brom,2,2,2,2,2,2,0,2
+Umeclidinium Brom/Vilanterol,2,2,2,2,2,2,0,2
+Undecenoates,20,20,20,20,20,8,0,20
+Urea,53,53,53,53,52,32,0,53
+Urea Hydrogen Peroxide,4,4,4,4,4,4,0,4
+Urine Testing Reagents,20,20,20,20,19,0,0,20
+Urofollitropin,13,13,13,13,13,13,0,13
+Urokinase,11,11,11,11,11,6,0,11
+Ursodeoxycholic Acid,48,48,48,48,48,47,0,48
+Ustekinumab (Crohn's),2,2,2,2,2,2,0,2
+Ustekinumab (Psoriasis),6,6,6,6,6,6,0,6
+Valaciclovir,10,10,10,10,10,10,0,10
+Valdecoxib,6,6,6,6,6,6,0,6
+Valganciclovir Hydrochloride,7,7,7,7,7,7,0,7
+Valproic Acid,24,24,24,24,24,24,0,24
+Valsartan,16,16,16,16,16,16,0,16
+Valsartan with Diuretic,6,6,6,6,6,6,0,6
+Valsartan/Amlodipine,6,6,6,6,6,6,0,6
+Vancomycin Hydrochloride,23,23,23,23,23,21,0,23
+Vandetanib,4,4,4,4,4,4,0,4
+Vardenafil,8,8,8,8,8,8,0,8
+Varenicline Tartrate,8,8,8,8,4,8,0,8
+Varicella Vaccine Live,5,5,5,5,5,5,0,5
+Varicella-Zoster Immunoglobulin,3,3,3,3,3,2,0,3
+Vasopressin Tannate,1,1,1,1,1,1,0,1
+Vecuronium Bromide,3,3,3,3,3,3,0,3
+Vedolizumab,2,2,2,2,2,2,0,2
+Vemurafenib,2,2,2,2,2,2,0,2
+Venlafaxine,96,96,96,96,96,96,0,96
+Veralipride,2,2,2,2,2,2,0,2
+Verapamil Hydrochloride,74,74,74,74,74,73,0,74
+Verteporfin,2,2,2,2,2,2,0,2
+Vidarabine,2,2,2,2,2,2,0,2
+Vigabatrin,42,42,42,42,42,41,0,42
+Vildagliptin,2,2,2,2,2,2,0,2
+Viloxazine Hydrochloride,2,2,2,2,2,2,0,2
+Vinblastine Sulfate,5,5,5,5,5,5,0,5
+Vincristine Sulfate,16,16,16,16,16,16,0,16
+Vindesine Sulfate,2,2,2,2,2,2,0,2
+Vinorelbine,10,10,10,10,10,10,0,10
+Vinpocetine,2,2,2,2,2,2,0,2
+Vismodegib,2,2,2,2,2,2,0,2
+Vitamin A,33,33,33,33,33,24,0,33
+Vitamin B & C Injection,9,9,9,9,9,9,0,9
+Vitamin B Compound,20,20,20,20,20,0,0,20
+Vitamin E,161,161,161,161,161,147,0,161
+Vitamins Caps,3,3,3,3,3,0,0,3
+Voriconazole,13,13,13,13,13,13,0,13
+Vortioxetine,6,6,6,6,6,6,0,6
+Warfarin Sodium,37,37,37,37,37,36,0,37
+Wasp & Bee Venom Allergy Preparations,10,10,10,10,10,5,0,10
+Water for Injection,41,41,41,41,17,41,0,41
+Wheat Free Cakes/Pastries,4,4,4,4,4,0,0,4
+Wild Cherry Bark,3,3,3,3,3,0,0,3
+Wool Alcohols,4,4,4,4,4,0,0,4
+Wool Fat,6,6,6,6,6,0,0,6
+Wool Fat Hydrous,12,12,12,12,10,1,0,12
+Xamoterol Fumarate,2,2,2,2,2,2,0,2
+Xanthinol Nicotinate,1,1,1,1,1,1,0,1
+Xipamide,2,2,2,2,2,2,0,2
+Xylometazoline Hydrochloride,32,32,32,32,32,23,0,32
+Yellow Fever,5,5,5,5,5,3,0,5
+Yohimbine Hydrochloride,23,23,23,23,23,23,0,23
+Zafirlukast,3,3,3,3,3,3,0,3
+Zalcitabine,5,5,5,5,5,5,0,5
+Zaleplon,4,4,4,4,4,4,0,4
+Zanamivir,2,2,2,2,2,2,0,2
+Ziconotide Acetate,4,4,4,4,4,4,0,4
+Zidovudine,13,13,13,13,13,13,0,13
+Zileuton,2,2,2,2,2,2,0,2
+Zinc Acetate,6,6,6,6,6,6,0,6
+Zinc Oleate,3,3,3,3,3,0,0,3
+Zinc Oxide,39,39,39,39,39,2,0,39
+Zinc Paste,3,3,3,3,3,1,0,3
+Zinc Paste & Calamine,2,2,2,2,2,2,0,2
+Zinc Paste & Ichthammol,2,2,2,2,2,1,0,2
+"Zinc Paste, Calamine & Clioquinol",2,2,2,2,2,2,0,2
+Zinc Peroxide,2,2,2,2,2,1,0,2
+Zinc Sulfate,76,76,76,76,75,68,0,76
+Zinc Sulfate Monohydrate,4,4,4,4,4,3,0,4
+Ziprasidone Hydrochloride,7,7,7,7,7,7,0,7
+Zoledronic Acid,12,12,12,12,12,12,0,12
+Zolmitriptan,9,9,9,9,9,9,0,9
+Zolpidem Tartrate,5,5,5,5,5,5,0,5
+Zonisamide,11,11,11,11,11,11,0,11
+Zopiclone,17,17,17,17,17,17,0,17
+Zotepine,6,6,6,6,6,6,0,6
+Zuclopenthixol Acetate,4,4,4,4,4,4,0,4
+Zuclopenthixol Decanoate,6,6,6,6,6,6,0,6
+Zuclopenthixol Hydrochloride,13,13,13,13,13,12,0,13
