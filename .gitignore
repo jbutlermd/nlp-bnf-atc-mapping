@@ -149,4 +149,5 @@ data/*
 !data/misspelling_test_analysis_set.csv
 !data/stop_words.csv
 !data/whitelist.csv
+!data/test_analysis_atc_labeled.csv
 config.ini
