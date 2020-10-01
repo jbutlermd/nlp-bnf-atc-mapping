@@ -1,0 +1,140 @@
+,filename,scorer,auc
+0,method-hybrid-results.xlsx,Levenshtein Monge-Elkan,0.8971742543171115
+1,method-hybrid-results.xlsx,Jaro Monge-Elkan,0.9009508716323297
+2,method-hybrid-results.xlsx,JaroWinkler Monge-Elkan,0.8940809968847352
+3,method-hybrid-results.xlsx,Editex Monge-Elkan,0.8984251968503937
+4,method-hybrid-results.xlsx,Levenshtein SoftTfIdf,0.9999999999999999
+5,method-hybrid-results.xlsx,Jaro SoftTfIdf,0.6867847429344756
+6,method-hybrid-results.xlsx,JaroWinkler SoftTfIdf,0.5633256829377519
+7,method-hybrid-results.xlsx,Editex SoftTfIdf,1.0
+8,pp-method-edit-results.xlsx,Control,0.993838028169014
+9,pp-method-edit-results.xlsx,Levenshtein,0.993838028169014
+10,pp-method-edit-results.xlsx,Damerau-Levenshtein,0.9938380281690141
+11,pp-method-edit-results.xlsx,Jaro,0.992929921071514
+12,pp-method-edit-results.xlsx,Jaro-Winkler,0.9922531612023926
+13,pp-method-edit-results.xlsx,Hamming,0.9938380281690141
+14,pp-misspelling-method-hybrid-results.xlsx,Levenshtein Monge-Elkan,0.8553920200113905
+15,pp-misspelling-method-hybrid-results.xlsx,Jaro Monge-Elkan,0.8463375470463099
+16,pp-misspelling-method-hybrid-results.xlsx,JaroWinkler Monge-Elkan,0.8401310586374421
+17,pp-misspelling-method-hybrid-results.xlsx,Editex Monge-Elkan,0.8478394149396219
+18,pp-misspelling-method-hybrid-results.xlsx,Levenshtein SoftTfIdf,0.9934626519371663
+19,pp-misspelling-method-hybrid-results.xlsx,Jaro SoftTfIdf,0.8669167810380581
+20,pp-misspelling-method-hybrid-results.xlsx,JaroWinkler SoftTfIdf,0.8443736141906873
+21,pp-misspelling-method-hybrid-results.xlsx,Editex SoftTfIdf,0.9930223123732251
+22,pp-method-hybrid-results.xlsx,Levenshtein Monge-Elkan,0.8304794520547945
+23,pp-method-hybrid-results.xlsx,Jaro Monge-Elkan,0.8327586206896551
+24,pp-method-hybrid-results.xlsx,JaroWinkler Monge-Elkan,0.8333333333333334
+25,pp-method-hybrid-results.xlsx,Editex Monge-Elkan,0.8293515358361775
+26,pp-method-hybrid-results.xlsx,Levenshtein SoftTfIdf,0.993838028169014
+27,pp-method-hybrid-results.xlsx,Jaro SoftTfIdf,0.872020312848945
+28,pp-method-hybrid-results.xlsx,JaroWinkler SoftTfIdf,0.8491347136010058
+29,pp-method-hybrid-results.xlsx,Editex SoftTfIdf,0.993838028169014
+30,random-pp-method-fuzzywuzzy-results.xlsx,Ratio,0.994365229840582
+31,random-pp-method-fuzzywuzzy-results.xlsx,Partial Ratio,0.8389380530973451
+32,random-pp-method-fuzzywuzzy-results.xlsx,Token Set Ratio,0.8835740072202166
+33,random-pp-method-fuzzywuzzy-results.xlsx,Partial Token Set Ratio,0.7740213523131673
+34,random-pp-method-fuzzywuzzy-results.xlsx,Token Sort Ratio,0.9943491703794746
+35,random-pp-method-fuzzywuzzy-results.xlsx,Partial Token Sort Ratio,0.8407473309608541
+36,random-method-fuzzywuzzy-results.xlsx,Ratio,0.9948433412115619
+37,random-method-fuzzywuzzy-results.xlsx,Partial Ratio,0.8657243816254416
+38,random-method-fuzzywuzzy-results.xlsx,Token Set Ratio,0.8936936936936937
+39,random-method-fuzzywuzzy-results.xlsx,Partial Token Set Ratio,0.6912751677852349
+40,random-method-fuzzywuzzy-results.xlsx,Token Sort Ratio,0.9946822454405873
+41,random-method-fuzzywuzzy-results.xlsx,Partial Token Sort Ratio,0.8805704099821747
+42,pp-random-method-token-based-results.xlsx,2-grams Cosine,0.995580262434195
+43,pp-random-method-token-based-results.xlsx,2-grams Jaccard,0.9956123485274253
+44,pp-random-method-token-based-results.xlsx,2-grams Dice,0.9947052385600615
+45,pp-random-method-token-based-results.xlsx,2-grams Overlap Coefficient,0.9685609641916266
+46,pp-random-method-token-based-results.xlsx,2-grams Tversky Index,0.9947052385600615
+47,pp-random-method-token-based-results.xlsx,3-grams Cosine,0.9964838532254262
+48,pp-random-method-token-based-results.xlsx,3-grams Jaccard,0.9956123485274253
+49,pp-random-method-token-based-results.xlsx,3-grams Dice,0.9956123485274254
+50,pp-random-method-hybrid-results.xlsx,Levenshtein Monge-Elkan,0.9178200692041523
+51,pp-random-method-hybrid-results.xlsx,Jaro Monge-Elkan,0.9161378512132823
+52,pp-random-method-hybrid-results.xlsx,JaroWinkler Monge-Elkan,0.9077013521457966
+53,pp-random-method-hybrid-results.xlsx,Editex Monge-Elkan,0.9156626506024097
+54,pp-random-method-hybrid-results.xlsx,Levenshtein SoftTfIdf,0.9912739965095987
+55,pp-random-method-hybrid-results.xlsx,Jaro SoftTfIdf,0.7809723824454502
+56,pp-random-method-hybrid-results.xlsx,JaroWinkler SoftTfIdf,0.7409888438133874
+57,pp-random-method-hybrid-results.xlsx,Editex SoftTfIdf,0.9912739965095987
+58,method-edit-based-results.xlsx,Control,1.0
+59,method-edit-based-results.xlsx,Levenshtein,1.0
+60,method-edit-based-results.xlsx,Damerau-Levenshtein,1.0
+61,method-edit-based-results.xlsx,Jaro,0.9991605616605618
+62,method-edit-based-results.xlsx,Jaro-Winkler,0.9879481531143249
+63,method-edit-based-results.xlsx,Hamming,1.0
+64,pp-misspelling-method-edit-results.xlsx,Control,0.9950083194675541
+65,pp-misspelling-method-edit-results.xlsx,Levenshtein,0.9935198135198136
+66,pp-misspelling-method-edit-results.xlsx,Damerau-Levenshtein,0.9934213934213934
+67,pp-misspelling-method-edit-results.xlsx,Jaro,0.9920641156596213
+68,pp-misspelling-method-edit-results.xlsx,Jaro-Winkler,0.99001244289093
+69,pp-misspelling-method-edit-results.xlsx,Hamming,0.994032253007389
+70,method-fuzzywuzzy-results.xlsx,Ratio,0.9992050874403816
+71,method-fuzzywuzzy-results.xlsx,Partial Ratio,0.8509700176366842
+72,method-fuzzywuzzy-results.xlsx,Token Set Ratio,0.874326750448833
+73,method-fuzzywuzzy-results.xlsx,Partial Token Set Ratio,0.6754684838160137
+74,method-fuzzywuzzy-results.xlsx,Token Sort Ratio,0.9992050874403816
+75,method-fuzzywuzzy-results.xlsx,Partial Token Sort Ratio,0.8580246913580247
+76,pp-method-fuzzywuzzy-results.xlsx,Ratio,0.992970123022847
+77,pp-method-fuzzywuzzy-results.xlsx,Partial Ratio,0.7984154929577465
+78,pp-method-fuzzywuzzy-results.xlsx,Token Set Ratio,0.8279569892473118
+79,pp-method-fuzzywuzzy-results.xlsx,Partial Token Set Ratio,0.7482517482517482
+80,pp-method-fuzzywuzzy-results.xlsx,Token Sort Ratio,0.992970123022847
+81,pp-method-fuzzywuzzy-results.xlsx,Partial Token Sort Ratio,0.7984154929577465
+82,method-token-based-results.xlsx,2-grams Cosine,1.0
+83,method-token-based-results.xlsx,2-grams Jaccard,0.9999999999999999
+84,method-token-based-results.xlsx,2-grams Dice,1.0
+85,method-token-based-results.xlsx,2-grams Overlap Coefficient,0.9547777015175779
+86,method-token-based-results.xlsx,2-grams Tversky Index,1.0
+87,method-token-based-results.xlsx,3-grams Cosine,1.0
+88,method-token-based-results.xlsx,3-grams Jaccard,1.0
+89,method-token-based-results.xlsx,3-grams Dice,0.9999999999999999
+90,pp-misspelling-method-token-based-results.xlsx,2-grams Cosine,0.9941372879652481
+91,pp-misspelling-method-token-based-results.xlsx,2-grams Jaccard,0.9941860465116279
+92,pp-misspelling-method-token-based-results.xlsx,2-grams Dice,0.9941372879652481
+93,pp-misspelling-method-token-based-results.xlsx,2-grams Overlap Coefficient,0.9580340325000798
+94,pp-misspelling-method-token-based-results.xlsx,2-grams Tversky Index,0.9941372879652481
+95,pp-misspelling-method-token-based-results.xlsx,3-grams Cosine,0.9941860465116278
+96,pp-misspelling-method-token-based-results.xlsx,3-grams Jaccard,0.9941860465116279
+97,pp-misspelling-method-token-based-results.xlsx,3-grams Dice,0.9941860465116279
+98,limit-tuning.xlsx,limit-1,0.975
+99,limit-tuning.xlsx,limit-2,0.9828767123287672
+100,limit-tuning.xlsx,limit-3,0.9894366197183099
+101,limit-tuning.xlsx,limit-4,0.9917452830188679
+102,limit-tuning.xlsx,limit-5,0.9929701230228472
+103,limit-tuning.xlsx,limit-6,0.9944055944055943
+104,limit-tuning.xlsx,limit-7,0.9953542392566783
+105,limit-tuning.xlsx,limit-8,0.9960317460317459
+106,limit-tuning.xlsx,limit-9,0.9965367965367966
+107,limit-tuning.xlsx,limit-10,0.9969301611665388
+108,misspelling-pp-method-fuzzywuzzy-results.xlsx,Ratio,0.9927690474493068
+109,misspelling-pp-method-fuzzywuzzy-results.xlsx,Partial Ratio,0.823078093306288
+110,misspelling-pp-method-fuzzywuzzy-results.xlsx,Token Set Ratio,0.8438157894736842
+111,misspelling-pp-method-fuzzywuzzy-results.xlsx,Partial Token Set Ratio,0.7690986548935468
+112,misspelling-pp-method-fuzzywuzzy-results.xlsx,Token Sort Ratio,0.9927690474493069
+113,misspelling-pp-method-fuzzywuzzy-results.xlsx,Partial Token Sort Ratio,0.8233569979716024
+114,pp-random-method-edit-based-results.xlsx,Control,0.9956445993031359
+115,pp-random-method-edit-based-results.xlsx,Levenshtein,0.9972758284600389
+116,pp-random-method-edit-based-results.xlsx,Damerau-Levenshtein,0.9955115109609491
+117,pp-random-method-edit-based-results.xlsx,Jaro,0.9942185236025318
+118,pp-random-method-edit-based-results.xlsx,Jaro-Winkler,0.990590002225024
+119,pp-random-method-edit-based-results.xlsx,Hamming,0.9947826086956522
+120,pp-method-token-results.xlsx,2-grams Cosine,0.9938380281690141
+121,pp-method-token-results.xlsx,2-grams Jaccard,0.993838028169014
+122,pp-method-token-results.xlsx,2-grams Dice,0.9938380281690141
+123,pp-method-token-results.xlsx,2-grams Overlap Coefficient,0.9537672538702051
+124,pp-method-token-results.xlsx,2-grams Tversky Index,0.9938380281690141
+125,pp-method-token-results.xlsx,3-grams Cosine,0.9938380281690141
+126,pp-method-token-results.xlsx,3-grams Jaccard,0.9938380281690141
+127,pp-method-token-results.xlsx,3-grams Dice,0.993838028169014
+128,threshold-tuning.xlsx,threshold-50,0.9718851745286591
+129,threshold-tuning.xlsx,threshold-55,0.980329634713643
+130,threshold-tuning.xlsx,threshold-60,0.9831667065295384
+131,threshold-tuning.xlsx,threshold-65,0.9903142799317662
+132,threshold-tuning.xlsx,threshold-70,0.9903142799317662
+133,threshold-tuning.xlsx,threshold-75,0.9903142799317662
+134,threshold-tuning.xlsx,threshold-80,0.9903142799317662
+135,threshold-tuning.xlsx,threshold-85,0.9929701230228472
+136,threshold-tuning.xlsx,threshold-90,0.9929701230228472
+137,threshold-tuning.xlsx,threshold-95,0.9929701230228472
+138,threshold-tuning.xlsx,threshold-99,0.9929701230228472
