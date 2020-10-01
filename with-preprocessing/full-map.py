@@ -6,6 +6,7 @@ import math
 import configparser
 import jellyfish as jf
 from fuzzywuzzy import utils
+from fuzzywuzzy import fuzz
 
 config_file = '../config.ini'
 config = configparser.ConfigParser()
@@ -137,7 +138,7 @@ header = f"\nPerforming similarity match of the full file using %s algorithm\n" 
 underscore = "-" * len(header)
 print(header + underscore)
 
-merged_df = fuzzy_merge(bnf_df, atc_df, 'bnf_chemical_substance', 'ATC level name', threshold=95, limit=10,
+merged_df = fuzzy_merge(bnf_df, atc_df, 'bnf_chemical_substance', 'ATC level name', threshold=95, limit=12,
                         scorer=scorer_list[i], distance=scorer_type[i])
 print(merged_df.head(5))
 

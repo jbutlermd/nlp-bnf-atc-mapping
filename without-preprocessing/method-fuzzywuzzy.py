@@ -7,7 +7,7 @@ import configparser
 from fuzzywuzzy import process
 from fuzzywuzzy import fuzz
 
-config_file = 'config.ini'
+config_file = '../config.ini'
 config = configparser.ConfigParser()
 config.read(config_file)
 
@@ -72,13 +72,14 @@ start_time = time.time()
 # Load source file
 # bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean.csv'))
 #bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean_test.csv'))
-bnf_df = pd.read_csv(os.path.join('data/test_analysis_set.csv'))
+#bnf_df = pd.read_csv(os.path.join('data/test_analysis_set.csv'))
+bnf_df = pd.read_csv(os.path.join('../data/test_analysis_set_random.csv'))
 
 # Load ATC-DDD data file
 # atc_df = pd.read_excel('data/2016_atc_index_electronic_eksempel.xlsx')
 
 # Load RxNorm ATC data file
-atc_df = pd.read_csv('data/rxnorm_atc_code_info.csv')
+atc_df = pd.read_csv('../data/rxnorm_atc_code_info.csv')
 atc_df.columns = ['i', 'rxcui', 'rxaui', 'sab', 'tty', 'ATC code', 'ATC level name', 'suppress']
 atc_df.drop('i', axis=1, inplace=True)
 
@@ -95,7 +96,7 @@ scorer_title = ["Ratio", "Partial Ratio", "Token Set Ratio", "Partial Token Set 
                 "Token Sort Ratio", "Partial Token Sort Ratio"]
 column_width = {'A:A': 37, 'B:B': 40, 'C:C': 40, 'D:D': 19, 'E:E': 34, 'L:Q': 5}
 
-with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'bnf-atc-map-combined.xlsx')) as writer:
+with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'random-method-fuzzywuzzy.xlsx')) as writer:
     for i, scorer in enumerate(scorer_list):
         section_start_time = time.time()
         header = f"\nNow performing fuzzy match using {scorer_title[i]} algorithm\n"

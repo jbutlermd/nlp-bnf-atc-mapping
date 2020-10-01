@@ -99,8 +99,8 @@ start_time = time.time()
 # Load source file
 # bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean.csv'))
 # bnf_df = pd.read_csv(os.path.join(config['DEFAULT']['output_dir'], 'bnf_code_clean_test.csv'))
-bnf_df = pd.read_csv(os.path.join('../data/test_analysis_set.csv'))
-#bnf_df = pd.read_csv(os.path.join('../data/misspelling_test_analysis_set.csv'))
+#bnf_df = pd.read_csv(os.path.join('../data/test_analysis_set_random.csv'))
+bnf_df = pd.read_csv(os.path.join('../data/misspelling_test_analysis_set.csv'))
 
 # Load stop words and whitelist
 stop_words = pd.read_csv(os.path.join('../data/stop_words.csv'), header=None)[0].values.tolist()
@@ -121,7 +121,7 @@ scorer_type = [False, False, False, False, False, False, False, False]
 ngram = [2, 2, 2, 2, 2, 3, 3, 3]
 column_width = {'A:A': 37, 'B:B': 40, 'C:C': 40, 'D:D': 19, 'E:E': 34, 'L:Q': 5}
 
-with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'method-token-based-results.xlsx')) as writer:
+with pd.ExcelWriter(os.path.join(config['DEFAULT']['output_dir'], 'pp-misspelling-method-token-based-results.xlsx')) as writer:
     for i, scorer in enumerate(scorer_list):
         section_start_time = time.time()
         header = f"\nNow performing fuzzy match using {scorer_title[i]} algorithm\n"
