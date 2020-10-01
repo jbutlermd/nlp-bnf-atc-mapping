@@ -145,6 +145,7 @@ data/*
 !data/README.md
 !data/rxnorm*
 !data/test_analysis_set1.csv
+!data/test_analysis_set_random.csv
 !data/test_analysis_set.csv
 !data/misspelling_test_analysis_set.csv
 !data/stop_words.csv
