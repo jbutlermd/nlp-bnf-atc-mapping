@@ -151,4 +151,8 @@ data/*
 !data/stop_words.csv
 !data/whitelist.csv
 !data/test_analysis_atc_labeled.csv
+!data/list_*
+!data/BNF_Code_Information.csv
+!data/umls*
+!data/whocc*
 config.ini
